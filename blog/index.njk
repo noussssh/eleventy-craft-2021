@@ -1,0 +1,115 @@
+---
+title: Craft Interactive
+layout: base.njk
+---
+
+
+
+      <!-- Stat main -->
+      <main data-spy="scroll" data-target="#navbar-example2" data-offset="0">
+
+      
+
+        <!-- Start blog_slider -->
+        <section class="section__stories blog_slider padding-t-12">
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-lg-12">
+                <div class="swip__stories">
+                  <!-- Swiper -->
+                  <div class="swiper-container blog-slider">
+                    <div class="title_sections_inner">
+                      <h2>Blogs</h2>
+                    </div>
+                    
+                    
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </section>
+        <!-- End. blog_slider -->
+
+
+        <!-- End. dividar_line -->
+
+        <!-- Start blog_inner_list -->
+        <section class="blog_inner_list">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 margin-b-12">
+
+
+
+                {%- for blog in collections.blog -%} 
+
+
+
+                <div class="grid_blog_avatar list_style">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="cover_blog">
+                        <img src="{{ blog.data.image }} " alt="{{ blog.data.title}} ">
+                      </div>
+                    </div>
+                    <div class="col-md-6 my-auto">
+                      <div class="body_blog">
+                        <a href="#">
+                          <div class="person media">
+                            
+                            <div class="media-body">
+                              <div class="txt">
+                                
+                                <time>27 Sep, 2020</time>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                        <a href="{{blog.url}}" class="link_blog">
+                          <h4 class="title_blog">
+                            {{ blog.data.title }}
+                          </h4>
+                          <p class="short_desc">
+                             {{ blog.data.intro }} 
+                          </p>
+                        </a>
+
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- End grid_blog_avatar -->
+
+                {%- endfor -%}
+
+
+              
+
+              </div>
+              <div class="col-lg-4 margin-b-5">
+                <div class="widgets">
+                  
+                
+                  <div class="quotatio-w">
+                    <span>Testimonials</span>
+                    <p>It has been a pleasure working with Craft Interactive Team. We utilized their ERPNext skills and expertise, We look forward to many more working opportunities with them.
+                    </p>
+                    <span class="auther"> Konrad Schwitter </span>
+                    <span class="auther"> OfficeOne Stationary and Supplies</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- End. blog_inner_list -->
+
+ 
+
+      </main>
+    </div>
+    <!-- [id] content -->

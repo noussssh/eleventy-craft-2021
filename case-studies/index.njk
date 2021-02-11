@@ -1,0 +1,52 @@
+---
+title: Craft Interactive
+layout: base.njk
+---
+
+
+
+
+ <!-- Start blog_masonry -->
+        <section class="blog_masonry three_column height_fixed">
+          <div class="container">
+            <div class="row justify-content-center text-center">
+              <div class="col-lg-5">
+                <div class="title_sections margin-b-6 margin-t-12">
+                  <h2>Case Studies</h2>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+
+               {%- for post in collections.post -%} 
+              <div class="col-md-6 col-lg-4">
+                <div class="card">
+                  <a href="#" class="link_poet">
+                    <div class="cover_link">
+                      <img class="main_img" src="{{ post.data.image }}" class="card-img-top" alt="{{ post.data.title }}">                      
+                    </div>
+                  </a>
+                  <div class="card-body">
+                    <div class="about_post">
+                     
+                      <span></span>
+                      <time>{{ post.data.time }}</time>
+                    </div>
+                    <a href="{{ post.url }}" class="d-block">
+                      <h5 class="card-title"> {{ post.data.title }}</h5>
+                      <p class="card-text"> 
+                          {{ post.data.intro }} 
+                      </p>
+                    </a>
+                  </div>
+                </div>
+              </div>            
+            {%- endfor -%}
+
+
+         
+
+            </div>
+          </div>
+        </section>
+        <!-- End. blog_masonry -->
