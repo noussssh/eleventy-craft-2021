@@ -22,8 +22,15 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-auto nav-pills">
                 <li class="nav-item">
-                  <a class="nav-link" href="/services/erpnext/">ERPNext</a>
+                  <a class="nav-link{% if page.url == '/services/erpnext/' %} active {% endif %}" href="/services/erpnext/">ERPNext</a>
                 </li>
+
+
+
+  
+
+
+
 
          
 
@@ -140,17 +147,17 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="/case-studies">Case Studies</a>
+                    <a class="nav-link {% if page.url == '/case-studies/' %} active {% endif %} " href="/case-studies/">Case Studies</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/blog">Blog</a>
+                    <a class="nav-link {% if page.url == '/blog/' %} active {% endif %}  " href="/blog/">Blog</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/careers">Careers</a>
+                    <a class="nav-link  {% if page.url == '/careers/' %} active {% endif %} " href="/careers/">Careers</a>
                 </li>
 
                  <li class="nav-item">
-                  <a class="nav-link" href="/company">Company</a>
+                  <a class="nav-link {% if page.url == '/company/' %} active {% endif %}" href="/company/">Company</a>
                 </li>
 
 

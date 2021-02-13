@@ -1,0 +1,53 @@
+---
+title: How ERPNext implementation can improve overall Business revenue for Small enterprises.
+layout: blogs.njk
+posted: 2021-02-14
+tags: blog
+time: 15 min
+image: /assets/img/blog-small-business.jpeg
+intro: Small businesses and startups assume that Enterprise Resource Planning (ERP) solutions are only for larger multinational organizations. This assumption might have been true in the past, however in today’s technologically advanced world cutting-edge, innovative business solutions are available for any type of business be it a small, medium, or large organization.
+---
+
+Small businesses and startups assume that Enterprise Resource Planning (ERP) solutions are only for larger multinational organizations. This assumption might have been true in the past, however in today’s technologically advanced world cutting-edge, innovative business solutions are available for any type of business be it a small, medium, or large organization.
+
+>The main issue is that ERPs are complex and expensive due to the cost of the system itself, hardware, and consulting fees. As a result, operations are run manually on excel spreadsheets. The failure to use more advanced tools and methods result in human errors, inaccuracy, and unnecessary costs.
+
+In this case, a web-based ERP solution like ERPNext is the perfect software that will help the company to implement, organize and manage the work of each department on a minimum budget.
+
+ERPNext is an open-source web-based system aimed at small and medium-sized businesses. It supports companies with accounting, project and task management, sales, purchase, inventory, CRM, administration, human resource management, manufacturing, and website too. ERPNext is also great for companies who want a base to build a unified tech stack for their business.
+
+
+## Some key benefits of ERPNext are :
+
+**Low cost:** ERPNext is a low-cost solution for businesses with limited resources. Users can access it for free or choose a priced package with priority technical support or onboarding support as an additional feature.
+
+**Automate Stock Replenishment:** Automatic material requests are created when the inventory level goes below a certain level. This helps users to refill the inventory at the right time, reducing the risk of stock depletion.
+
+**Improve Customer Management:** Keep track of credit limits, view receivables and total billing amount, and analyze average customer revenue. This helps businesses to manage customers better and make relevant business decisions.
+
+**Customizations on the Fly:** Bend the system, Not your business. Customize fields in the form, automatically fetch values to customize form behavior, and hide certain fields based on user roles. This enables the user to collect relevant information from the vendors or clients.
+
+**Cross-compatibility:** ERPNext is an online tool that works on the cloud, it can be used on a wide variety of platforms and devices.
+Asset Management: Easy management of serialized assets, capital work-in-progress accounting, and asset movement can be tracked with this tool
+Organization: ERPNext can help in organizing with a calendar, simple social networking and messaging services, built-in to-do lists, time log entries, embedded reporting system with office suite integration.
+
+>“Open source software is increasingly used not because it’s cheaper -though it often is- but because its genuinely better software”. 
+
+**Gordon Hoff**
+
+- Author of How open source ate Software 
+The World and Technology Evangelist at Red Hat
+
+
+
+ERPNext is a perfect example that ERP does not need to be complex and strenuous to be effective. This system is effortless, well built, and full of features. It allows departments of small or medium-sized companies to run smoothly and communicate with one another using resources of one unified solution. Moreover, Frappe helps to add features to ERPNext and implement custom functionality via the API for specific business needs.
+
+## Benefits of ERP Technologies for your business
+Appropriate leveraging of ERP software can help you increase revenue and reduce cost. 
+
+- Businesses that implement ERP software are able to reduce operating costs by up to 20% and achieve 100% ROI within 27 months, on average
+- ERP Software reduces internal frustration and improves efficiencies, while also supporting growth and reducing costs
+- Keep data safe and regulated with built-in protections.
+- Structured ERP systems allow the addition of new users and functions to grow the initially implemented solution over time as the business expands.
+
+
