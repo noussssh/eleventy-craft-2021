@@ -1,5 +1,5 @@
 ---
-title: How ERPnext implementation can improve overall Business revenue for Small enterprises.
+title: How ERPNext implementation can improve overall Business revenue for Small enterprises.
 layout: blogs.njk
 posted: 2021-02-14
 tags: blog
@@ -16,9 +16,9 @@ In this case, a web-based ERP solution like ERPNext is the perfect software that
 
 ERPNext is an open-source web-based system aimed at small and medium-sized businesses. It supports companies with accounting, project and task management, sales, purchase, inventory, CRM, administration, human resource management, manufacturing, and website too. ERPNext is also great for companies who want a base to build a unified tech stack for their business.
 
-## Some key benefits of ERPnext are :
+## Some key benefits of ERPNext are :
 
-**Low cost:** ERPnext is a low-cost solution for businesses with limited resources. Users can choose a priced package with priority technical support or onboarding support as an additional feature.
+**Low cost:** ERPNext is a low-cost solution for businesses with limited resources. Users can choose a priced package with priority technical support or onboarding support as an additional feature.
 
 **Automate Stock Replenishment:** Automatic material requests are created when the inventory https://craftinteractive.ae/level goes below a certain level. This helps users to refill the inventory at the right time, reducing the risk of stock depletion.
 
@@ -30,7 +30,7 @@ ERPNext is an open-source web-based system aimed at small and medium-sized busin
 
 **Asset Management:** Easy management of serialized assets, capital work-in-progress accounting, and asset movement can be tracked with this tool
 
-**Organization:** ERPnext can help in organizing with a calendar, simple social networking and messaging services, built-in to-do lists, time log entries, embedded reporting system with office suite integration.
+**Organization:** ERPNext can help in organizing with a calendar, simple social networking and messaging services, built-in to-do lists, time log entries, embedded reporting system with office suite integration.
 
 >“Open source software is increasingly used not because it’s cheaper -though it often is- but because its genuinely better software”. 
 
@@ -62,17 +62,17 @@ Appropriate leveraging of ERP software can help you increase revenue and reduce 
 - Centralization links all departments, business units, and processes in a single database and provides consolidated, centralized information.
 
 **Increased company overview**
-- An integrated business solution like ERPnext provides the owner a complete overview of the company in one place which makes it easier when compared to looking at and analyzing multiple spreadsheets.
+- An integrated business solution like ERPNext provides the owner a complete overview of the company in one place which makes it easier when compared to looking at and analyzing multiple spreadsheets.
 
 **Streamlined process**
 - An ERP minimizes this tedious operation by automating stocks and finances in real-time. This smoothens the operations, eliminates waste of time and manpower.
 
 **Flexibility**
 
--Small businesses have the advantage of the flexibility to adapt to the growing market conditions or customer needs. ERPnext is one such agile software solutions that can bring about the necessary adjustments.
+-Small businesses have the advantage of the flexibility to adapt to the growing market conditions or customer needs. ERPNext is one such agile software solutions that can bring about the necessary adjustments.
 
 **Ease of extension**
-- Enterprise solutions such as ERPnext have been designed with the concept of scalability. This feature allows small businesses to implement the only basic solution and later on increase the functionalities required as and when they grow and expand the business.
+- Enterprise solutions such as ERPNext have been designed with the concept of scalability. This feature allows small businesses to implement the only basic solution and later on increase the functionalities required as and when they grow and expand the business.
 
 **Eliminates operating hazardous situation**
 - Running a business manually is all about using spreadsheets and manual documents to record transactions. This exhaustive use of spreadsheets and handling data manually leads to erroneous data, lack of control, and ultimately to a state in which the operation falls through. This may result in shutting down the company.
