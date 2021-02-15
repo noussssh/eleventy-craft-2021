@@ -76,3 +76,16 @@ Appropriate leveraging of ERP software can help you increase revenue and reduce 
 
 **Eliminates operating hazardous situation**
 - Running a business manually is all about using spreadsheets and manual documents to record transactions. This exhaustive use of spreadsheets and handling data manually leads to erroneous data, lack of control, and ultimately to a state in which the operation falls through. This may result in shutting down the company.
+
+## Conclusion
+
+The benefits of utilizing an ERP solution are compelling. Improvements to efficiency have the potential to lower costs across your organization, which in turn boosts profitability. In addition, the upside for employee satisfaction is another strong argument in favor of implementing ERP.  ERP software is still a key ingredient toward building a successful business. 
+
+## Wondering where to start
+A successful ERP implementation is a result of choosing the right people and approach.
+
+The experienced team at Craft Interactive has helped dozens of companies across Dubai and UAE through the ERPNext onboarding process. Our in-depth knowledge of the software helps us tailor solutions, manage integrations and build customized platforms for your business. 
+
+Craft Interactive is the silver partner of ERPNext. We will walk you through the entire process, analyze your needs, identify the best modules for your business, and ensure that your implementation is completed on time and under budget.
+
+**Book a demo** and let our experts help you capture new business opportunities with ERPNext.
