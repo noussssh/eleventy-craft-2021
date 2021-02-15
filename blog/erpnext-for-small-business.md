@@ -4,7 +4,7 @@ layout: blogs.njk
 posted: 2021-02-14
 tags: blog
 time: 15 min
-image: /assets/img/blog-small-business2.jpeg
+image: /assets/img/blog-small-business3.jpg
 intro: Small businesses and startups assume that Enterprise Resource Planning (ERP) solutions are only for larger multinational organizations. This assumption might have been true in the past, however in today’s technologically advanced world cutting-edge, innovative business solutions are available for any type of business be it a small, medium, or large organization.
 ---
 
