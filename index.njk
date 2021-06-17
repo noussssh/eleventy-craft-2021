@@ -84,61 +84,26 @@ layout: base.njk
         </section>
         <!-- End. About -->
 
-        
+      
 
 
 
 
 
-
-
-
-        <!-- Start logos -->
-        <section class="logos_section padding-t-5 text-center">
-          <div class="container">
-            <h3>Some of our customers </h3>
-            <div class="row justify-content-md-center">
-              
-
-              <div class="col-md-10">
-                <div class="wrapper_logos">
-                  <div class="items bxslider">
-                    <a class="item-client" href="#" target="_blank">
-                      <img src="/assets/img/logo_01.png" alt="" />
-                      <span>Visit site</span>
-                    </a>
-                    <a class="item-client" href="#" target="_blank">
-                      <img src="/assets/img/logo_02.jpg" alt="" />
-                      <span>Visit site</span>
-                    </a>
-                    <a class="item-client" href="#" target="_blank">
-                      <img src="/assets/img/logo_03.jpg" alt="" />
-                      <span>Visit site</span>
-                    </a>
-                    <a class="item-client" href="#" target="_blank">
-                      <img src="/assets/img/logo_04.jpg" alt="" />
-                      <span>Visit site</span>
-                    </a>
-                    <a class="item-client" href="#" target="_blank">
-                      <img src="/assets/img/logo_05.png" alt="" />
-                      <span>Visit site</span>
-                    </a>
-                   
-                  </div>
-                  <div class="logos_masks"></div>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-        </section>
-        <!-- End logos -->
-
-
-
-
-
+<section class="margin-t-5 ">
+  <div class="container">
+    <h3 class="margin-b-4 text-center">
+      Trusted by Customers across the regions
+    </h3>
+    <div class="row margin-t-4 p-md-5 ">
+      {% for customer  in customers %}
+      <div class="col-6 col-md-4 col-lg-2 mb-5 align-self-center">
+        <img width="130" src="/assets/img/customers/{{customer.logo}}" alt="{{customer.name}}" />
+      </div>
+      {% endfor %}     
+    </div>
+  </div>
+</section>
 
 
 
@@ -147,7 +112,7 @@ layout: base.njk
 
 
    <!-- Start simple_blog_dev -->
-        <section class="simple_blog_dev margin-t-12 padding-b-6">
+        <section class="simple_blog_dev margin-t-5 padding-b-6">
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-3">
@@ -184,7 +149,6 @@ layout: base.njk
  <!-- Start section__counter -->
         <section class="section__counter">
           <div class="container">
-
             <div class="row">
               <div class="col-md-6 col-lg-3">
                 <div class="item__number mb-4 mb-lg-0">
