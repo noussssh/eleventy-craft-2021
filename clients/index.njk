@@ -1,0 +1,55 @@
+---
+title: ERPNext
+layout: base.njk
+tags: ['erpnext', 'link01']
+---
+
+
+
+
+   <!-- Stat main -->
+      
+        <!-- Start Banner Section -->
+        <section class="demo_1 banner_section" id="home">
+          <div class="container">
+            <div class="row justify-content-md-center text-center">
+              <div class="col-md-8 col-lg-6">
+                <div class="banner_title margin-b-5">
+                  <h1> You are in good company! </h1>
+                  <p>
+
+                  At the heart of everything is our people — our clients, our staff, the users of our digital products, and the wider community. We want to improve people’s lives, help businesses run more efficiently and profitably, and — as lofty as it sounds — change the world for the better.
+                   
+                  </p>
+            
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </section>
+        <!-- End Banner -->
+
+
+<section class="margin-t-5 ">
+  <div class="container">
+   
+    <div class="row p-5 p-sm-0 justify-content-center">
+      {% for customer  in customers %}
+        
+          <div class="col-6 col-md-4 col-lg-2 mb-5 align-self-center">
+            <img width="130" src="/assets/img/customers/{{customer.logo}}" alt="{{customer.name}}" />
+          </div>
+        
+      {% endfor %}     
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
