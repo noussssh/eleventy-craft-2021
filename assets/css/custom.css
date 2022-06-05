@@ -21,7 +21,7 @@ header .navbar .navbar-brand .logo {
 .whatsapp-icon {
     position: fixed;
     right: 50px;
-    bottom: 150px;
+    bottom: 50px;
     z-index: 2000;
 }
 
