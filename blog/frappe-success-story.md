@@ -5,9 +5,10 @@ posted: 2022-05-30
 tags: blog
 time: 18 min
 image: /assets/img/frappe-success-story.jpeg
-intro: Seamless deployment of Frappe Cloud and ERPNext implementation by Craft Interactive
-Craft Interactive is one of our silver partners based out of the UAE. They have successfully implemented 100+ ERPNext projects and onboarded 60+ Cloud customers for Frappe.
+intro: Seamless deployment of Frappe Cloud and ERPNext implementation by Craft Interactive. Craft Interactive is one of our silver partners based out of the UAE. They have successfully implemented 100+ ERPNext projects and onboarded 60+ Cloud customers for Frappe.
 ---
+
+
 We have survived for 5 years in the UAE market because of ERPNext. Frappe Cloud was the cherry on the cake. It was not all glitter and glory, though. We’ve had our share of failures which bought us this far”. This is how Neji Moidunny from Craft Interactive summarizes his experience with ERPNext. Success is a byproduct of hard work! But why is it important to measure that success? Did this thought ever cross your mind?
 
  Well, we won’t let your curiosity kill the cat. Without further ado, let’s dive in deep to understand what success means for Craft Interactive. To understand their journey of perseverance and hard work, we got in touch with Neji Moidunny - Head of Sales and Operations. He helped us understand their definition of success, the challenges of being a Salesman, and Frappe’s contribution to their success.
@@ -22,7 +23,6 @@ Craft Interactive was formed by two partners. One of the partners was searching 
 One of the partners started as a freelancer and implemented the first ERPNext project where they failed in the first attempt. This story goes back 5 years now. Another partner tried his hands on the ERPNext implementation again, which turned out to be a successful one. That is when they understood the potential of the product. After this, they inclined more towards ERPNext and did a market survey. They understood the need for an ERP solution from the customers and hence the team started focusing on ERPNext. They learned about the product and devoted their first year to understand the implementation process, and from there on they only looked back on their learnings.
 
 ## Challenges faced by the team
-
 Initially, team Craft Interactive started by first implementing ERPNext in their organization. This process helped them learn and understand the product better. They failed, and faced some challenges but were able to tackle them when they learned the framework. The real struggle started when they implemented the same system in other organizations. They experienced many failures which taught them step by step how the correct implementation is done.
 
 By the time the team got acquainted with ERPNext, their next challenge was learning Frappe Cloud. At one point in time, Neji decided to move their existing team and the customers to Frappe Cloud, and the team started convincing them. The reason behind this idea was that the team could handle all the version updates. And FC had the potential to manage ERPNext on their servers, which in turn helped the customers to have easy lifecycle management of the overall project.
@@ -37,7 +37,6 @@ Neji added they have a handful of enterprise projects under pipeline. To date, t
 They are also working for a semi-government organization. It is a non-profit organization for which the contract has been signed up recently.
 
 ## Growth and comfort do not coexist
-
 During lockdown Neji missed out on meeting people in person, thankfully his digitized job didn’t hamper the growth of the organization. But he believes that in-person meetings hold a different vibe, and the trust-building work is done with ease. It was 40 degrees outside, he was fasting and yet chose to happily step out in the scorching sun to meet his customers and potential clients.
 
 
@@ -56,15 +55,7 @@ Neji adds his views both as a user and as a team member of Craft Interactive, �
 ![Alt](/assets/img/neji.jpeg "Neji Moidunny")
 (Neji Moidunny, Head-Sales and Operations at Craft Interactive)
 
-Final words
+## Final words
 Craft Interactive has been instrumental in onboarding the maximum number of customers on Frappe Cloud. And with 100+ ERPNext implementations, we are sure that there is a long way to go, a successful one at that. Frappe appreciates the efforts and hard work put in by team Craft Interactive and we are happy to help the team in every way possible. After all, success is best when shared. Looking forward to turning this silver partnership into gold. :)
 
 [link to original blog at frappe website](https://erpnext.com/blog/partner-success-stories/seamless-deployment-of-frappe-cloud-and-erpnext-implementation-by-craft-interactive)
-
-
-
-
-
-
-
-
