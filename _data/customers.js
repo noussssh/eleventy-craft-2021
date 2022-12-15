@@ -19,11 +19,11 @@ module.exports = [
     logo: "manzil.png",
     home: "True",
   },
-  {
-    name: "Al Safwan Marine",
-    logo: "alsafwan.png",
-    home: "True",
-  },
+  // {
+  //   name: "Al Safwan Marine",
+  //   logo: "alsafwan.png",
+  //   home: "True",
+  // },
   {
     name: "Unimax Pharma",
     logo: "unimax.jpeg",
@@ -139,11 +139,11 @@ module.exports = [
     name: "Ain Al Shams Workshop Equipment & Tools Trading Tr.LLC",
     logo: "ain-al-shams.png",
   },
-  {
-    name: "Louis Safety",
-    logo: "louis-safety.png",
-    home: "True",
-  },
+  // {
+  //   name: "Louis Safety",
+  //   logo: "louis-safety.png",
+  //   home: "True",
+  // },
   {
     name: "Worood Intraflora LLC",
     logo: "Worood.png",
