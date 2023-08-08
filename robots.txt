@@ -1,4 +1,0 @@
-Sitemap: https://craftinteractive.ae/sitemap.xml
-
-User-agent: *
-Disallow:
