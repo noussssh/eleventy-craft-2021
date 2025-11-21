@@ -1,11 +1,11 @@
 ---
-title: Swipe, Click, Grow: UAE’s Smart POS Revolution | Craft Interactive
+title: "Swipe, Click, Grow UAE’s Smart POS Revolution | Craft Interactive"
 layout: blogs.njk
 posted: 2025-09-18
 tags: blog
 time: 8 min
 image: /assets/img/pos-blog.jpeg
-intro: Discover how Point Of Sale software streamlines sales, manages inventory, and boosts efficiency for businesses across the UAE
+intro: "Discover how Point Of Sale software streamlines sales, manages inventory, and boosts efficiency for businesses across the UAE"
 ---
 
 # Swipe, Click, Grow: UAE’s Smart POS Revolution
