@@ -1,5 +1,5 @@
 ---
-title: ProperLE: Smart ERP Solution for Property Management | ProperLE ERP | ERPNext
+title: ProperLE Smart ERP Solution for Property Management | ProperLE ERP | ERPNext
 layout: blogs.njk
 posted: 2025-11-20
 tags: blog
