@@ -5,7 +5,7 @@ posted: 2025-11-20
 tags: blog
 time: 10 min
 image: /assets/img/property-blog.jpeg
-intro:Property Management ERP Software | ProperLE ERP | Real Estate Management Software | Property Management System | ERP for Property Managers UAE
+intro: "Property Management ERP Software | ProperLE ERP | Real Estate Management Software | Property Management System | ERP for Property Managers UAE"
 ---
 
 # ProperLE: Smart ERP Solution for Property Management
