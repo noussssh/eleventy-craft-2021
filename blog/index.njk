@@ -63,7 +63,7 @@ layout: base.njk
                             <div class="media-body">
                               <div class="txt">
                                 
-                                <time>{{ blog.data.posted | date("MMMM DD, YYYY") }}</time>
+                                <time>{{ blog.data.posted.toDateString() }}</time>
                               </div>
                             </div>
                           </div>
