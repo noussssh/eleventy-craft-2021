@@ -10,4 +10,23 @@ module.exports = function (eleventyConfig) {
     return d.toLocaleDateString('en-US', options);
   });
 
+  // ISO date format for sitemap
+  eleventyConfig.addFilter("dateToISO", function(date) {
+    if (!date) return new Date().toISOString();
+    return new Date(date).toISOString();
+  });
+
+  // Truncate filter for meta descriptions
+  eleventyConfig.addFilter("truncate", function(str, length) {
+    if (!str) return "";
+    if (str.length <= length) return str;
+    return str.substring(0, length).trim() + "...";
+  });
+
+  // Strip HTML for meta descriptions
+  eleventyConfig.addFilter("stripHtml", function(str) {
+    if (!str) return "";
+    return str.replace(/<[^>]*>/g, '');
+  });
+
 };
