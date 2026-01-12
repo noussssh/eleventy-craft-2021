@@ -1,6 +1,11 @@
 ---
 title: Craft Interactive
 layout: base.njk
+pagination:
+  data: collections.blog
+  size: 20
+  reverse: true
+  alias: posts
 ---
 
 
@@ -44,7 +49,7 @@ layout: base.njk
 
 
 
-                {%- for blog in collections.blog -%} 
+                {%- for blog in posts -%} 
 
 
 
@@ -86,8 +91,28 @@ layout: base.njk
 
                 {%- endfor -%}
 
+                <!-- Pagination Navigation -->
+                <nav class="pagination-nav mt-5" aria-label="Blog pagination">
+                  <ul class="pagination justify-content-center">
+                    {% if pagination.href.previous %}
+                      <li class="page-item">
+                        <a class="page-link" href="{{ pagination.href.previous }}">← Previous</a>
+                      </li>
+                    {% endif %}
 
-              
+                    {% for pageEntry in pagination.pages %}
+                      <li class="page-item {% if page.url == pagination.hrefs[loop.index0] %}active{% endif %}">
+                        <a class="page-link" href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a>
+                      </li>
+                    {% endfor %}
+
+                    {% if pagination.href.next %}
+                      <li class="page-item">
+                        <a class="page-link" href="{{ pagination.href.next }}">Next →</a>
+                      </li>
+                    {% endif %}
+                  </ul>
+                </nav>
 
               </div>
               <div class="col-lg-4 margin-b-5">
