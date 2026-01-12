@@ -1,14 +1,14 @@
 ---
-title: Sales Incentive Tracking for Riyadh Sales Teams with ERPNext
+title: Sales Incentive Tracking for Dubai Sales Teams with ERPNext
 layout: blogs.njk
 posted: 2022-01-31
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Motivated salespeople drive revenue. ERPNext helps Riyadh companies track sales incentives accurately for fair compensation and motivated teams.
+intro: Motivated salespeople drive revenue. ERPNext helps Dubai companies track sales incentives accurately for fair compensation and motivated teams.
 ---
 
-Your top salesperson in Riyadh closes a big deal. How much commission do they earn? When do they get paid? Is the calculation correct?
+Your top salesperson in Dubai closes a big deal. How much commission do they earn? When do they get paid? Is the calculation correct?
 
 Sales incentive management is where motivation meets math. For Saudi companies building high-performing sales teams, accurate incentive tracking is essential for trust and motivation.
 
@@ -330,7 +330,7 @@ Incentives connect to:
 
 ## The Motivation Engine
 
-Riyadh sales teams with effective incentive tracking:
+Dubai sales teams with effective incentive tracking:
 
 - Trust the system
 - Focus on selling

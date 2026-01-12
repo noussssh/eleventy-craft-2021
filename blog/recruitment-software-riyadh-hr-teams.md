@@ -1,14 +1,14 @@
 ---
-title: Recruitment Software for Riyadh HR Teams with ERPNext
+title: Recruitment Software for Dubai HR Teams with ERPNext
 layout: blogs.njk
 posted: 2024-02-28
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Finding the right talent is challenging. ERPNext helps Riyadh HR teams manage the entire recruitment process from job posting to offer acceptance in one integrated system.
+intro: Finding the right talent is challenging. ERPNext helps Dubai HR teams manage the entire recruitment process from job posting to offer acceptance in one integrated system.
 ---
 
-A technology company in King Abdullah Financial District needs software engineers. A retail chain expanding across Riyadh needs store managers. A healthcare provider needs specialized nurses. All need to find, evaluate, and hire the right people.
+A technology company in King Abdullah Financial District needs software engineers. A retail chain expanding across Dubai needs store managers. A healthcare provider needs specialized nurses. All need to find, evaluate, and hire the right people.
 
 For Saudi companies competing for talent, recruitment efficiency determines hiring success.
 
@@ -16,7 +16,7 @@ For Saudi companies competing for talent, recruitment efficiency determines hiri
 
 ### Talent Competition
 
-Saudi Arabia's evolving market:
+UAE's evolving market:
 
 - Saudization requirements
 - Skills shortages
@@ -347,7 +347,7 @@ Experience matters:
 
 ## The Talent Advantage
 
-Riyadh companies with effective recruitment:
+Dubai companies with effective recruitment:
 
 - Attract better candidates
 - Hire faster

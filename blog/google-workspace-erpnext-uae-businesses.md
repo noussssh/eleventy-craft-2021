@@ -8,7 +8,7 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: Your team lives in Google Workspace. ERPNext integration brings ERP data into Gmail, Calendar, and Drive, helping UAE businesses work seamlessly across platforms.
 ---
 
-A sales manager in Dubai checks Gmail for leads. A project manager in Abu Dhabi schedules meetings in Calendar. A finance team in Sharjah shares documents in Drive. Meanwhile, ERPNext holds customer data, project information, and financial records.
+A sales manager in Dubai checks Gmail for leads. A project manager in Dubai schedules meetings in Calendar. A finance team in Dubai shares documents in Drive. Meanwhile, ERPNext holds customer data, project information, and financial records.
 
 For UAE businesses using Google Workspace, integration with ERPNext connects productivity tools with business data.
 

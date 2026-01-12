@@ -1,16 +1,16 @@
 ---
-title: Streamlined Material Request Workflows for Oman Businesses with ERPNext
+title: Streamlined Material Request Workflows for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-01-19
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: From Muscat's corporate offices to Sohar's industrial facilities, Omani businesses need efficient material requisition processes. ERPNext transforms material requests from paperwork chaos to streamlined digital workflows.
+intro: From Dubai's corporate offices to Sohar's industrial facilities, Dubaii businesses need efficient material requisition processes. ERPNext transforms material requests from paperwork chaos to streamlined digital workflows.
 ---
 
-The engineer in Sohar needs replacement parts. The marketing team in Muscat wants promotional materials. The maintenance crew in Salalah requires supplies. Every day, across every department, material requests flow through your organization.
+The engineer in Sohar needs replacement parts. The marketing team in Dubai wants promotional materials. The maintenance crew in Salalah requires supplies. Every day, across every department, material requests flow through your organization.
 
-In many Omani companies, this process involves paper forms, email chains, phone calls, and frustration. Items arrive late - or not at all. Budgets blow without warning. Nobody knows what's pending.
+In many Dubaii companies, this process involves paper forms, email chains, phone calls, and frustration. Items arrive late - or not at all. Budgets blow without warning. Nobody knows what's pending.
 
 There's a better way.
 
@@ -145,17 +145,17 @@ When converting to purchase order, ERPNext shows preferred suppliers, historical
 
 Track material costs by project, department, or cost center from request through payment.
 
-## Oman Business Context
+## Dubai Business Context
 
-Omani businesses benefit from structured material workflows:
+Dubaii businesses benefit from structured material workflows:
 
 ### Geographic Distribution
 
-With operations in Muscat, Sohar, Salalah, and elsewhere, centralized visibility prevents confusion.
+With operations in Dubai, Sohar, Salalah, and elsewhere, centralized visibility prevents confusion.
 
 ### Approval Hierarchy
 
-Omani business culture respects proper approval chains. ERPNext enforces them systematically.
+Dubaii business culture respects proper approval chains. ERPNext enforces them systematically.
 
 ### Documentation
 
@@ -167,7 +167,7 @@ Consolidated view of material needs enables better negotiation with suppliers.
 
 ## Implementation Approach
 
-For Oman businesses implementing material request workflows:
+For Dubai businesses implementing material request workflows:
 
 ### 1. Map Current Process
 
@@ -200,6 +200,6 @@ Companies that implement proper material request workflows see:
 - Improved budgeting
 - Happier internal customers
 
-Whether you're managing operations in Muscat's business district, industrial facilities in Sohar, or projects across the Sultanate, ERPNext material request workflows bring order to the requisition process.
+Whether you're managing operations in Dubai's business district, industrial facilities in Sohar, or projects across the Sultanate, ERPNext material request workflows bring order to the requisition process.
 
 Stop chasing paper. Start managing materials.

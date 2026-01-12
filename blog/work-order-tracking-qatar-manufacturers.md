@@ -1,14 +1,14 @@
 ---
-title: Work Order Tracking Excellence for Qatar Manufacturers Using ERPNext
+title: Work Order Tracking Excellence for Dubai Manufacturers Using ERPNext
 layout: blogs.njk
 posted: 2024-04-02
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: From order to completion, work orders drive production. ERPNext helps Qatar's manufacturers track work orders systematically for on-time delivery and cost control.
+intro: From order to completion, work orders drive production. ERPNext helps Dubai's manufacturers track work orders systematically for on-time delivery and cost control.
 ---
 
-A customer in Doha places an order. Your factory in Mesaieed needs to produce it. Between that order and the finished product sits the work order - the document that authorizes and tracks production.
+A customer in Dubai places an order. Your factory in Mesaieed needs to produce it. Between that order and the finished product sits the work order - the document that authorizes and tracks production.
 
 Work orders seem simple. Create them, complete them, done. But in real manufacturing, work orders are where plans meet reality - and where control happens or chaos reigns.
 
@@ -120,18 +120,18 @@ Finish the work order:
 - Components consumed
 - WIP cleared
 
-## Qatar Manufacturing Context
+## Dubai Manufacturing Context
 
 ### Industrial Zones
 
-Manufacturing in Qatar:
+Manufacturing in Dubai:
 
 **Mesaieed Industrial City**
 - Heavy industry
 - Petrochemical supply chain
 - Large-scale production
 
-**Industrial Area Doha**
+**Industrial Area Dubai**
 - Diverse manufacturing
 - SME operations
 - Job shop environments
@@ -143,7 +143,7 @@ Manufacturing in Qatar:
 
 ### Production Characteristics
 
-Qatar manufacturers face:
+Dubai manufacturers face:
 
 - Major industrial customers with strict requirements
 - Project-based demand patterns
@@ -288,9 +288,9 @@ Learn from data:
 - Address recurring issues
 - Implement improvements
 
-## Getting Started in Qatar
+## Getting Started in Dubai
 
-For Qatar manufacturers implementing work order tracking:
+For Dubai manufacturers implementing work order tracking:
 
 ### 1. Define Your Process
 
@@ -314,7 +314,7 @@ Review early results, refine processes, expand coverage.
 
 ## The Control Advantage
 
-Qatar manufacturers with strong work order discipline:
+Dubai manufacturers with strong work order discipline:
 
 - Deliver on time consistently
 - Control production costs

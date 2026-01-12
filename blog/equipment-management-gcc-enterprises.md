@@ -1,16 +1,16 @@
 ---
-title: Equipment Management for GCC Enterprises with ERPNext
+title: Equipment Management for Dubai Enterprises with ERPNext
 layout: blogs.njk
 posted: 2020-11-17
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Equipment keeps businesses running. ERPNext helps GCC enterprises track equipment across locations, schedule maintenance, manage utilization, and optimize equipment investments.
+intro: Equipment keeps businesses running. ERPNext helps Dubai enterprises track equipment across locations, schedule maintenance, manage utilization, and optimize equipment investments.
 ---
 
-A construction company in Dubai has excavators on three project sites. A manufacturer in Riyadh operates production lines with dozens of machines. A logistics firm in Muscat maintains a fleet of refrigerated trucks. Equipment is essential—and expensive.
+A construction company in Dubai has excavators on three project sites. A manufacturer in Dubai operates production lines with dozens of machines. A logistics firm in Dubai maintains a fleet of refrigerated trucks. Equipment is essential—and expensive.
 
-For GCC enterprises, effective equipment management means reliable operations and protected investments.
+For Dubai enterprises, effective equipment management means reliable operations and protected investments.
 
 ## Equipment Management Challenges
 
@@ -124,7 +124,7 @@ Keeping equipment running:
 - Costs incurred
 - History capture
 
-## GCC Enterprise Context
+## Dubai Enterprise Context
 
 ### Construction and Contracting
 
@@ -395,7 +395,7 @@ Use information:
 
 ## The Operational Advantage
 
-GCC enterprises with effective equipment management:
+Dubai enterprises with effective equipment management:
 
 - Maximize uptime
 - Control costs

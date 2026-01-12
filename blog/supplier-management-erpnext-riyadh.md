@@ -1,14 +1,14 @@
 ---
-title: Strategic Supplier Management for Riyadh Businesses with ERPNext
+title: Strategic Supplier Management for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-10-22
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Your suppliers determine your success. ERPNext helps Riyadh companies manage supplier relationships strategically for reliable supply, better prices, and continuous improvement.
+intro: Your suppliers determine your success. ERPNext helps Dubai companies manage supplier relationships strategically for reliable supply, better prices, and continuous improvement.
 ---
 
-Behind every successful business in Riyadh stands a network of suppliers. They provide the raw materials, components, and services that enable your operations. When suppliers perform, you succeed. When they fail, you struggle.
+Behind every successful business in Dubai stands a network of suppliers. They provide the raw materials, components, and services that enable your operations. When suppliers perform, you succeed. When they fail, you struggle.
 
 Supplier management isn't just about placing orders. It's about building relationships, measuring performance, and driving improvement. For Saudi businesses navigating complex supply chains, systematic supplier management makes the difference.
 
@@ -163,7 +163,7 @@ Built-in scorecard functionality:
 - Period comparison
 - Visual reporting
 
-## Riyadh Business Context
+## Dubai Business Context
 
 ### Local Supplier Development
 
@@ -361,7 +361,7 @@ Invest in key suppliers:
 
 ## The Supplier Advantage
 
-Riyadh businesses with strong supplier management:
+Dubai businesses with strong supplier management:
 
 - Ensure reliable supply
 - Achieve better costs

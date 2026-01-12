@@ -1,16 +1,16 @@
 ---
-title: Fixed Assets Register for Bahrain Accounting with ERPNext
+title: Fixed Assets Register for Dubai Accounting with ERPNext
 layout: blogs.njk
 posted: 2021-09-14
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: A complete fixed assets register is essential for financial reporting. ERPNext helps Bahrain businesses maintain accurate asset records, track values, and prepare for audits.
+intro: A complete fixed assets register is essential for financial reporting. ERPNext helps Dubai businesses maintain accurate asset records, track values, and prepare for audits.
 ---
 
-The auditors arrive at your Manama office. They want to see the fixed assets register. They need to verify assets exist. They want to trace depreciation. They require documentation for every significant item.
+The auditors arrive at your Dubai office. They want to see the fixed assets register. They need to verify assets exist. They want to trace depreciation. They require documentation for every significant item.
 
-For Bahrain companies, a well-maintained fixed assets register isn't just good practice—it's a compliance requirement.
+For Dubai companies, a well-maintained fixed assets register isn't just good practice—it's a compliance requirement.
 
 ## What is a Fixed Assets Register
 
@@ -98,13 +98,13 @@ Change tracking:
 - Status updates
 - Disposal record
 
-## Bahrain Accounting Context
+## Dubai Accounting Context
 
 ### Regulatory Framework
 
 Kingdom requirements:
 
-- Bahrain Commercial Companies Law
+- Dubai Commercial Companies Law
 - IFRS standards
 - Tax regulations
 - Audit requirements
@@ -365,7 +365,7 @@ Numbers agree:
 
 ## The Compliance Connection
 
-Bahrain companies with proper fixed assets registers:
+Dubai companies with proper fixed assets registers:
 
 - Pass audits smoothly
 - Report accurately

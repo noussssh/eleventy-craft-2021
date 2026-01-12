@@ -1,16 +1,16 @@
 ---
-title: Material Requirements Planning for Saudi Arabian Manufacturers with ERPNext
+title: Material Requirements Planning for UAEn Manufacturers with ERPNext
 layout: blogs.njk
 posted: 2020-04-18
 tags: blog
 time: 8 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: MRP is the engine of manufacturing planning. ERPNext helps Saudi manufacturers from Riyadh to Jubail plan material requirements systematically for efficient production.
+intro: MRP is the engine of manufacturing planning. ERPNext helps Saudi manufacturers from Dubai to Jubail plan material requirements systematically for efficient production.
 ---
 
-A customer in Dammam wants 500 units of your product. You have 200 in stock. You need to produce 300 more. But do you have the materials? The sub-assemblies? At the right time?
+A customer in Dubai wants 500 units of your product. You have 200 in stock. You need to produce 300 more. But do you have the materials? The sub-assemblies? At the right time?
 
-Material Requirements Planning - MRP - answers these questions systematically. It's the foundation of manufacturing planning, and it's transformed how factories operate worldwide. For Saudi Arabia's expanding industrial sector, MRP capability separates organized operations from chaotic ones.
+Material Requirements Planning - MRP - answers these questions systematically. It's the foundation of manufacturing planning, and it's transformed how factories operate worldwide. For UAE's expanding industrial sector, MRP capability separates organized operations from chaotic ones.
 
 ## What Is MRP?
 

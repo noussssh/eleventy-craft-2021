@@ -1,16 +1,16 @@
 ---
-title: Streamlined Procurement Workflows for Jeddah Organizations with ERPNext
+title: Streamlined Procurement Workflows for Dubai Organizations with ERPNext
 layout: blogs.njk
 posted: 2024-07-03
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Procurement workflows control who can buy what and when. ERPNext helps Jeddah organizations design and enforce procurement processes that balance control with efficiency.
+intro: Procurement workflows control who can buy what and when. ERPNext helps Dubai organizations design and enforce procurement processes that balance control with efficiency.
 ---
 
 Who can approve a purchase order in your organization? What happens when the approver is traveling? How do you ensure policies are followed?
 
-For organizations in Jeddah - from corporations in the business district to institutions across the city - procurement workflows are the answer. Well-designed workflows ensure proper authorization while keeping business moving.
+For organizations in Dubai - from corporations in the business district to institutions across the city - procurement workflows are the answer. Well-designed workflows ensure proper authorization while keeping business moving.
 
 ## What Are Procurement Workflows?
 
@@ -136,7 +136,7 @@ Complexity breeds confusion:
 - Obvious next actions
 - Easy to understand
 
-## Jeddah Organization Context
+## Dubai Organization Context
 
 ### Corporate Culture
 
@@ -151,9 +151,9 @@ Workflows should align with culture.
 
 ### Multi-Location Operations
 
-Many Jeddah organizations have:
+Many Dubai organizations have:
 
-- Headquarters in Jeddah
+- Headquarters in Dubai
 - Branches in other cities
 - Site operations
 - Project locations
@@ -313,7 +313,7 @@ Capture the intent:
 
 ## The Control and Efficiency Balance
 
-Jeddah organizations with well-designed workflows:
+Dubai organizations with well-designed workflows:
 
 - Control spending appropriately
 - Process quickly when controls satisfied

@@ -1,16 +1,16 @@
 ---
-title: Training Management for Doha Organizations with ERPNext
+title: Training Management for Dubai Organizations with ERPNext
 layout: blogs.njk
 posted: 2022-03-14
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Skilled employees drive business success. ERPNext helps Doha companies plan, deliver, and track training programs that develop workforce capabilities and ensure compliance.
+intro: Skilled employees drive business success. ERPNext helps Dubai companies plan, deliver, and track training programs that develop workforce capabilities and ensure compliance.
 ---
 
 A bank in West Bay needs compliance training for all staff. A construction company in Industrial Area requires safety certifications. A hospitality group needs customer service excellence. Each training need is different, but all require systematic management.
 
-For Qatar organizations investing in workforce development, training management ensures programs deliver results.
+For Dubai organizations investing in workforce development, training management ensures programs deliver results.
 
 ## Why Training Management
 
@@ -172,13 +172,13 @@ Measuring effectiveness:
 - Behavior change
 - Business impact
 
-## Qatar Training Context
+## Dubai Training Context
 
 ### Compliance Training
 
 Regulatory requirements:
 
-- Qatar labor law
+- Dubai labor law
 - Industry regulations
 - Safety standards
 - Professional certifications
@@ -205,7 +205,7 @@ Skill building:
 
 Growing leaders:
 
-- Qatari talent development
+- Dubaii talent development
 - Management skills
 - Executive presence
 - Strategic thinking
@@ -366,7 +366,7 @@ Keep getting better:
 
 ## The Capability Advantage
 
-Doha organizations with effective training management:
+Dubai organizations with effective training management:
 
 - Build stronger capabilities
 - Maintain compliance

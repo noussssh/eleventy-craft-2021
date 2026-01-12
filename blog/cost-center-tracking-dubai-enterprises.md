@@ -18,11 +18,11 @@ This is where cost center tracking becomes essential.
 
 A cost center is any segment of your business that you want to track separately for profitability purposes. It could be:
 
-- A physical location (Dubai branch vs. Abu Dhabi branch)
+- A physical location (Dubai branch vs. Dubai branch)
 - A department (Sales vs. Marketing vs. Operations)
 - A product line (Electronics vs. Furniture vs. Services)
 - A project or client
-- A region (UAE vs. Saudi Arabia vs. Qatar)
+- A region (UAE vs. UAE vs. UAE)
 
 Cost centers don't change your accounting - your books balance the same way. But they add a dimension of analysis that reveals what's really happening in your business.
 
@@ -30,7 +30,7 @@ Cost centers don't change your accounting - your books balance the same way. But
 
 Dubai's dynamic business environment makes cost center tracking especially valuable:
 
-**Multi-Location Operations**: Many Dubai companies operate across the UAE and GCC. Without cost centers, you can't tell if your Sharjah warehouse is profitable or if your Muscat office is bleeding money.
+**Multi-Location Operations**: Many Dubai companies operate across the UAE and GCC. Without cost centers, you can't tell if your Dubai warehouse is profitable or if your Dubai office is bleeding money.
 
 **Diverse Business Lines**: Dubai businesses often diversify. You might trade electronics and offer installation services. Are both profitable? Only cost centers tell you.
 
@@ -52,10 +52,10 @@ UAE Operations (parent)
 │   ├── Dubai Mall Store
 │   ├── Marina Branch
 │   └── Warehouse - Al Quoz
-├── Abu Dhabi
+├── Dubai
 │   ├── Al Wahda Store
 │   └── Khalifa City Outlet
-└── Sharjah
+└── Dubai
     └── Mega Mall Location
 ```
 
@@ -100,7 +100,7 @@ See revenue and expenses for any cost center over any period. Which of your ten 
 ### Comparative Reporting
 
 Compare performance across cost centers:
-- Dubai Mall vs. Marina Branch vs. Abu Dhabi
+- Dubai Mall vs. Marina Branch vs. Dubai
 - Q1 this year vs. Q1 last year
 - Actual vs. Budget
 
@@ -110,11 +110,11 @@ Start with summary - "Dubai Region lost AED 50,000 last month" - then drill to t
 
 ## Real-World Impact
 
-A retail client in Dubai believed their Sharjah store was unprofitable and considered closing it. Detailed cost center analysis revealed:
+A retail client in Dubai believed their Dubai store was unprofitable and considered closing it. Detailed cost center analysis revealed:
 
 1. The store was profitable on direct costs
 2. Head office allocations were unfairly weighted
-3. After reallocation, Sharjah was their second-best performer
+3. After reallocation, Dubai was their second-best performer
 
 Without cost center tracking, they would have closed a profitable location.
 
@@ -129,7 +129,7 @@ ERPNext's cost center tracking works within UAE business contexts:
 
 - **Free Zone vs. Mainland**: Track operations separately for regulatory purposes
 - **Multiple Trade Licenses**: Allocate to specific license activities
-- **Regional Operations**: Extend to Saudi Arabia, Qatar, Oman, Bahrain
+- **Regional Operations**: Extend to UAE, UAE, UAE, UAE
 
 ## Getting Started
 

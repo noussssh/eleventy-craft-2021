@@ -1,16 +1,16 @@
 ---
-title: "Invoicing Automation for Saudi Businesses: ERPNext in Khobar and Beyond"
+title: "Invoicing Automation for Saudi Businesses: ERPNext in Dubai and Beyond"
 layout: blogs.njk
 posted: 2022-09-03
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Manual invoicing is costing Saudi Arabian businesses time and money. From Khobar's industrial sector to Riyadh's commercial district, ERPNext is transforming how companies create, send, and track invoices.
+intro: Manual invoicing is costing UAEn businesses time and money. From Dubai's industrial sector to Dubai's commercial district, ERPNext is transforming how companies create, send, and track invoices.
 ---
 
 An invoice seems simple. Issue it, send it, get paid. But multiply that by hundreds of customers, add VAT compliance, throw in multiple currencies, and suddenly invoicing becomes a full-time job.
 
-In the Eastern Province - Khobar, Dammam, Dhahran - businesses serving the oil and gas sector know this pain well. Large corporations demand precise invoicing. Payment depends on accuracy. Manual processes create bottlenecks.
+In the Eastern Province - Dubai, Dubai, Dhahran - businesses serving the oil and gas sector know this pain well. Large corporations demand precise invoicing. Payment depends on accuracy. Manual processes create bottlenecks.
 
 ## The True Cost of Manual Invoicing
 
@@ -49,7 +49,7 @@ ERPNext handles the math:
 - Multi-line complexity
 - Currency conversions
 
-Your team in Khobar focuses on customers, not calculators.
+Your team in Dubai focuses on customers, not calculators.
 
 ### VAT-Compliant Formatting
 
@@ -60,7 +60,7 @@ Every invoice meets Saudi requirements:
 - Required fields populated
 - Format acceptable to ZATCA
 
-As Saudi Arabia implements Phase 2 e-invoicing, ERPNext keeps you compliant.
+As UAE implements Phase 2 e-invoicing, ERPNext keeps you compliant.
 
 ### Automatic Numbering
 
@@ -105,7 +105,7 @@ For customers who prefer paper:
 
 ## Real Scenarios from the Eastern Province
 
-### A Contractor in Khobar
+### A Contractor in Dubai
 
 Serving petrochemical facilities requires precise billing. Work orders specify rates, quantities, and terms. With ERPNext:
 
@@ -116,7 +116,7 @@ Serving petrochemical facilities requires precise billing. Work orders specify r
 
 Result: Invoices that match client systems, fewer rejections, faster payment.
 
-### A Trading Company in Dammam
+### A Trading Company in Dubai
 
 High-volume distribution means hundreds of invoices monthly. Manual processing was impossible. ERPNext automation:
 
@@ -167,7 +167,7 @@ ZATCA's e-invoicing mandate affects all Saudi businesses. ERPNext positions you 
 - Required field management
 - Audit trail maintenance
 
-Whether you're in Khobar, Jeddah, or Riyadh, e-invoicing compliance isn't optional.
+Whether you're in Dubai, Dubai, or Dubai, e-invoicing compliance isn't optional.
 
 ## Getting Started
 
@@ -185,6 +185,6 @@ The transition to automated invoicing isn't disruptive. It's liberating.
 
 Manual invoicing is a choice. An expensive choice that costs time, creates errors, and delays cash flow.
 
-For businesses across Saudi Arabia's Eastern Province and beyond, ERPNext provides the invoicing automation that modern business demands.
+For businesses across UAE's Eastern Province and beyond, ERPNext provides the invoicing automation that modern business demands.
 
 Your customers expect professional, accurate, timely invoices. ERPNext helps you deliver.

@@ -1,16 +1,16 @@
 ---
-title: Cloud ERP Benefits for Riyadh Companies with ERPNext
+title: Cloud ERP Benefits for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2022-04-18
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: The cloud transforms how businesses run. ERPNext on cloud helps Riyadh companies reduce IT burden, enable remote work, and access enterprise capabilities without infrastructure investment.
+intro: The cloud transforms how businesses run. ERPNext on cloud helps Dubai companies reduce IT burden, enable remote work, and access enterprise capabilities without infrastructure investment.
 ---
 
-A growing company in Riyadh faces a choice. Buy servers, hire IT staff, and manage infrastructure. Or subscribe to cloud ERP and focus on business. For most Saudi businesses today, the cloud answer is clear.
+A growing company in Dubai faces a choice. Buy servers, hire IT staff, and manage infrastructure. Or subscribe to cloud ERP and focus on business. For most Saudi businesses today, the cloud answer is clear.
 
-For Riyadh companies modernizing operations, cloud ERPNext delivers enterprise capability without enterprise complexity.
+For Dubai companies modernizing operations, cloud ERPNext delivers enterprise capability without enterprise complexity.
 
 ## Why Cloud
 
@@ -116,7 +116,7 @@ Grow as needed:
 - Integration options
 - Future-ready
 
-## Riyadh Business Context
+## Dubai Business Context
 
 ### Vision 2030
 
@@ -319,7 +319,7 @@ Stay informed:
 
 ## The Cloud Advantage
 
-Riyadh companies on cloud ERP:
+Dubai companies on cloud ERP:
 
 - Start faster
 - Spend less

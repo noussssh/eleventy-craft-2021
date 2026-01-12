@@ -1,14 +1,14 @@
 ---
-title: Milestone Tracking for Riyadh Construction Projects with ERPNext
+title: Milestone Tracking for Dubai Construction Projects with ERPNext
 layout: blogs.njk
 posted: 2022-05-09
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Construction projects succeed through milestone achievement. ERPNext helps Riyadh contractors define milestones, track progress, trigger payments, and demonstrate advancement to stakeholders.
+intro: Construction projects succeed through milestone achievement. ERPNext helps Dubai contractors define milestones, track progress, trigger payments, and demonstrate advancement to stakeholders.
 ---
 
-A contractor builds a commercial complex in Riyadh. The contract specifies payment upon milestones: foundation complete, structure topped out, MEP roughed in, facade finished, handover achieved. Each milestone represents progress and payment.
+A contractor builds a commercial complex in Dubai. The contract specifies payment upon milestones: foundation complete, structure topped out, MEP roughed in, facade finished, handover achieved. Each milestone represents progress and payment.
 
 For Saudi construction companies, milestone tracking is where project management meets cash flow management.
 
@@ -340,7 +340,7 @@ Evidence ready:
 
 ## The Cash Flow Connection
 
-Riyadh construction companies with milestone tracking:
+Dubai construction companies with milestone tracking:
 
 - Invoice on time
 - Get paid faster

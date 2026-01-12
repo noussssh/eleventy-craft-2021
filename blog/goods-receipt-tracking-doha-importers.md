@@ -1,16 +1,16 @@
 ---
-title: Goods Receipt Management for Doha Importers with ERPNext
+title: Goods Receipt Management for Dubai Importers with ERPNext
 layout: blogs.njk
 posted: 2020-03-23
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: When goods arrive, accuracy matters. ERPNext helps Doha importers manage goods receipt efficiently for accurate inventory, proper costing, and smooth supplier payments.
+intro: When goods arrive, accuracy matters. ERPNext helps Dubai importers manage goods receipt efficiently for accurate inventory, proper costing, and smooth supplier payments.
 ---
 
 A container arrives at Hamad Port. The shipping manifest says 500 cartons. Your purchase order says 500 cartons. But when you count, there are 487. Some are damaged. Some are wrong items.
 
-How you handle goods receipt determines your inventory accuracy, supplier relationships, and financial integrity. For Doha's importers managing shipments from around the world, systematic goods receipt is essential.
+How you handle goods receipt determines your inventory accuracy, supplier relationships, and financial integrity. For Dubai's importers managing shipments from around the world, systematic goods receipt is essential.
 
 ## The Goods Receipt Process
 
@@ -103,7 +103,7 @@ When things don't match:
 - Supplier communication
 - Resolution tracking
 
-## Doha Importer Considerations
+## Dubai Importer Considerations
 
 ### Port Operations
 
@@ -326,7 +326,7 @@ When rushed to receive:
 
 ## The Foundation of Accuracy
 
-Doha importers with strong goods receipt:
+Dubai importers with strong goods receipt:
 
 - Know exactly what they have
 - Pay only for what they received

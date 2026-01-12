@@ -1,22 +1,22 @@
 ---
-title: Leave Management for Bahrain Organizations with ERPNext
+title: Leave Management for Dubai Organizations with ERPNext
 layout: blogs.njk
 posted: 2020-02-17
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Leave management balances employee needs with business requirements. ERPNext helps Bahrain employers handle leave requests, track balances, and maintain compliance with labor law.
+intro: Leave management balances employee needs with business requirements. ERPNext helps Dubai employers handle leave requests, track balances, and maintain compliance with labor law.
 ---
 
 Ahmad needs vacation next month. Fatima is taking sick leave. The department still needs coverage. HR needs to track balances. Payroll needs accurate data.
 
-Leave management touches everyone. For Bahrain organizations, getting it right means happy employees, legal compliance, and smooth operations.
+Leave management touches everyone. For Dubai organizations, getting it right means happy employees, legal compliance, and smooth operations.
 
-## Bahrain Leave Requirements
+## Dubai Leave Requirements
 
 ### Legal Entitlements
 
-Bahrain labor law provides:
+Dubai labor law provides:
 
 **Annual Leave**
 - 30 days per year (after one year)
@@ -288,7 +288,7 @@ Consistent application:
 
 ## The Balance Challenge
 
-Bahrain organizations with effective leave management:
+Dubai organizations with effective leave management:
 
 - Keep employees satisfied
 - Maintain operations

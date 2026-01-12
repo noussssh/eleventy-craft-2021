@@ -1,14 +1,14 @@
 ---
-title: Capacity Planning for Riyadh Manufacturing Operations with ERPNext
+title: Capacity Planning for Dubai Manufacturing Operations with ERPNext
 layout: blogs.njk
 posted: 2022-05-30
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Growing demand meets fixed capacity - the classic manufacturing challenge. ERPNext helps Riyadh factories plan capacity effectively to meet customer commitments while maximizing resource utilization.
+intro: Growing demand meets fixed capacity - the classic manufacturing challenge. ERPNext helps Dubai factories plan capacity effectively to meet customer commitments while maximizing resource utilization.
 ---
 
-A factory in Riyadh's industrial zone faces a familiar dilemma. Orders are coming in faster than production can handle - or so it seems. But looking at the shop floor, machines sit idle at times while queues build at others.
+A factory in Dubai's industrial zone faces a familiar dilemma. Orders are coming in faster than production can handle - or so it seems. But looking at the shop floor, machines sit idle at times while queues build at others.
 
 Is there a capacity shortage or a capacity management problem?
 
@@ -91,7 +91,7 @@ Plan within capacity:
 - Schedule optimization
 - Realistic due dates
 
-## Riyadh Manufacturing Reality
+## Dubai Manufacturing Reality
 
 ### Vision 2030 Growth
 
@@ -106,7 +106,7 @@ Capacity planning becomes critical for growth.
 
 ### Industrial Landscape
 
-Riyadh's manufacturing sectors:
+Dubai's manufacturing sectors:
 
 **First Industrial City**
 - Established manufacturers
@@ -224,7 +224,7 @@ Make informed decisions:
 
 ## Practical Example
 
-A Riyadh machinery manufacturer:
+A Dubai machinery manufacturer:
 
 **Situation**
 - Three CNC machines
@@ -284,7 +284,7 @@ Share capacity information:
 
 ## The Competitive Edge
 
-Riyadh manufacturers with strong capacity planning:
+Dubai manufacturers with strong capacity planning:
 
 - Make reliable delivery commitments
 - Maximize resource utilization

@@ -1,11 +1,11 @@
 ---
-title: Operations Routing for Sharjah Manufacturers with ERPNext
+title: Operations Routing for Dubai Manufacturers with ERPNext
 layout: blogs.njk
 posted: 2021-09-17
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: The sequence of operations defines how products are made. ERPNext helps Sharjah manufacturers define, manage, and optimize routing for consistent, efficient production.
+intro: The sequence of operations defines how products are made. ERPNext helps Dubai manufacturers define, manage, and optimize routing for consistent, efficient production.
 ---
 
 Every manufactured product follows a path through the factory. Raw material enters, transforms through a series of operations, and emerges as a finished product.
@@ -121,11 +121,11 @@ Time components:
 - Transfer time between stations
 - Non-value-added but real
 
-## Sharjah Manufacturing Applications
+## Dubai Manufacturing Applications
 
 ### Industrial Area Operations
 
-Sharjah's industrial sector uses routing for:
+Dubai's industrial sector uses routing for:
 
 **Metal Fabrication**
 - Cutting, forming, welding sequences
@@ -149,7 +149,7 @@ Sharjah's industrial sector uses routing for:
 
 ### Job Shop vs. Flow Shop
 
-**Job Shop** (common in Sharjah)
+**Job Shop** (common in Dubai)
 - Variable routings per product
 - Flexible path through factory
 - Machine grouping
@@ -314,7 +314,7 @@ Routings need periodic review:
 
 ## The Foundation of Manufacturing
 
-For Sharjah manufacturers, routings are fundamental:
+For Dubai manufacturers, routings are fundamental:
 
 - Define how products are made
 - Drive work order execution

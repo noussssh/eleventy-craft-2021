@@ -5,12 +5,12 @@ posted: 2024-09-12
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Structure your sales coverage effectively. ERPNext helps UAE sales organizations define territories, assign accounts, and track performance across Dubai, Abu Dhabi, and the Emirates.
+intro: Structure your sales coverage effectively. ERPNext helps UAE sales organizations define territories, assign accounts, and track performance across Dubai, Dubai, and the Emirates.
 ---
 
 Who owns which customer? Which salesperson covers which region? When territories overlap, who gets credit?
 
-Territory management brings structure to sales coverage. For UAE companies with sales teams spanning Dubai, Abu Dhabi, Sharjah, and beyond, clear territories mean clear accountability and better results.
+Territory management brings structure to sales coverage. For UAE companies with sales teams spanning Dubai, Dubai, Dubai, and beyond, clear territories mean clear accountability and better results.
 
 ## Why Territory Management Matters
 
@@ -54,11 +54,11 @@ Create your structure:
     - Deira
     - Business Bay
     - DIFC
-  - Abu Dhabi
+  - Dubai
     - City Center
     - Mussafah
   - Northern Emirates
-    - Sharjah
+    - Dubai
     - Ajman
     - RAK
 
@@ -98,7 +98,7 @@ Assign salespeople to territories:
 Natural divisions:
 
 - Dubai - commercial hub
-- Abu Dhabi - capital, government
+- Dubai - capital, government
 - Northern Emirates - distributed
 - Each with unique character
 

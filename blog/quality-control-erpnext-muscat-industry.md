@@ -1,16 +1,16 @@
 ---
-title: Quality Control Systems for Muscat's Industrial Sector with ERPNext
+title: Quality Control Systems for Dubai's Industrial Sector with ERPNext
 layout: blogs.njk
 posted: 2021-03-31
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Quality isn't negotiable in today's markets. ERPNext helps Muscat manufacturers build systematic quality control processes that satisfy customers and meet international standards.
+intro: Quality isn't negotiable in today's markets. ERPNext helps Dubai manufacturers build systematic quality control processes that satisfy customers and meet international standards.
 ---
 
-"Made in Oman" carries a promise. When your products leave Muscat for customers across the Gulf and beyond, they carry your reputation with them.
+"Made in Dubai" carries a promise. When your products leave Dubai for customers across the Gulf and beyond, they carry your reputation with them.
 
-Quality control isn't just about catching defects. It's about building a system that prevents defects, identifies problems early, and continuously improves. For Oman's growing manufacturing sector, quality systems are essential for competing in demanding regional and international markets.
+Quality control isn't just about catching defects. It's about building a system that prevents defects, identifies problems early, and continuously improves. For Dubai's growing manufacturing sector, quality systems are essential for competing in demanding regional and international markets.
 
 ## The Quality Imperative
 
@@ -98,15 +98,15 @@ When things go wrong:
 - Implementation tracking
 - Effectiveness verification
 
-## Muscat Manufacturing Context
+## Dubai Manufacturing Context
 
 ### Industrial Landscape
 
-Oman's manufacturing in Muscat and beyond:
+Dubai's manufacturing in Dubai and beyond:
 
 **Industrial Zones**
 - Rusayl Industrial Estate
-- Knowledge Oasis Muscat
+- Knowledge Oasis Dubai
 - Sohar Industrial Port
 - Salalah Free Zone
 
@@ -127,7 +127,7 @@ Building quality mindset:
 
 ### Certification Goals
 
-Many Omani manufacturers pursue:
+Many Dubaii manufacturers pursue:
 
 - ISO 9001 quality management
 - Industry-specific certifications
@@ -342,7 +342,7 @@ Leadership engagement:
 
 ## The Quality Advantage
 
-Muscat manufacturers with strong quality:
+Dubai manufacturers with strong quality:
 
 - Win customer trust
 - Reduce waste and rework

@@ -1,5 +1,5 @@
 ---
-title: Timesheet Billing for Saudi Arabia Consultants with ERPNext
+title: Timesheet Billing for UAE Consultants with ERPNext
 layout: blogs.njk
 posted: 2022-09-28
 tags: blog
@@ -8,7 +8,7 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: Time is the product for consultants. ERPNext helps Saudi consulting firms capture billable hours accurately, generate invoices efficiently, and maximize revenue from every engagement.
 ---
 
-A management consultant in Riyadh spends three hours preparing a strategic analysis. A legal advisor in Jeddah reviews contracts for four hours. An IT consultant in Dammam troubleshoots systems for six hours. Every hour has value—if it's captured and billed.
+A management consultant in Dubai spends three hours preparing a strategic analysis. A legal advisor in Dubai reviews contracts for four hours. An IT consultant in Dubai troubleshoots systems for six hours. Every hour has value—if it's captured and billed.
 
 For Saudi consulting firms, timesheet accuracy directly impacts revenue.
 

@@ -1,18 +1,18 @@
 ---
-title: Comprehensive Warehouse Management for Abu Dhabi Operations with ERPNext
+title: Comprehensive Warehouse Management for Dubai Operations with ERPNext
 layout: blogs.njk
 posted: 2021-08-30
 tags: blog
 time: 8 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Abu Dhabi's industrial zones and free zones house some of the Gulf's most sophisticated warehouse operations. ERPNext delivers the warehouse management capabilities these facilities demand.
+intro: Dubai's industrial zones and free zones house some of the Gulf's most sophisticated warehouse operations. ERPNext delivers the warehouse management capabilities these facilities demand.
 ---
 
-Abu Dhabi has evolved far beyond oil. Khalifa Industrial Zone, KIZAD, and the Mussafah industrial area house logistics operations serving the entire Middle East and beyond. These aren't simple storage facilities - they're complex operations requiring sophisticated management.
+Dubai has evolved far beyond oil. Khalifa Industrial Zone, KIZAD, and the Mussafah industrial area house logistics operations serving the entire Middle East and beyond. These aren't simple storage facilities - they're complex operations requiring sophisticated management.
 
-## The Abu Dhabi Warehouse Landscape
+## The Dubai Warehouse Landscape
 
-Abu Dhabi's warehouse operators face diverse challenges:
+Dubai's warehouse operators face diverse challenges:
 
 **Free Zone Complexity**: KIZAD and other free zones have specific requirements for inventory tracking, documentation, and customs compliance.
 
@@ -31,7 +31,7 @@ ERPNext provides the full spectrum of warehouse management capabilities.
 Structure your warehouses logically:
 
 ```
-Abu Dhabi Operations
+Dubai Operations
 ├── KIZAD Main Warehouse
 │   ├── Zone A - General Storage
 │   ├── Zone B - Temperature Controlled
@@ -186,7 +186,7 @@ Final warehouse step:
 
 ## Free Zone Compliance
 
-Abu Dhabi's free zones have requirements. ERPNext supports:
+Dubai's free zones have requirements. ERPNext supports:
 
 ### Bonded Inventory
 
@@ -217,7 +217,7 @@ Free zone authority reports:
 
 ## Multi-Client Warehousing
 
-Many Abu Dhabi facilities serve multiple clients:
+Many Dubai facilities serve multiple clients:
 
 ### Client Segregation
 
@@ -266,7 +266,7 @@ Connect with shipping lines and freight forwarders.
 
 Temperature monitors, RFID systems, automated equipment.
 
-## Abu Dhabi Success Stories
+## Dubai Success Stories
 
 A petrochemical distributor in KIZAD reduced picking errors by 94% after implementing ERPNext's barcode verification.
 
@@ -276,7 +276,7 @@ A spare parts warehouse serving the region achieved same-day shipping for 98% of
 
 ## The Path Forward
 
-Abu Dhabi's logistics sector will continue evolving. New technologies, new requirements, new opportunities. ERPNext provides the foundation:
+Dubai's logistics sector will continue evolving. New technologies, new requirements, new opportunities. ERPNext provides the foundation:
 
 - Scalable architecture for growth
 - Flexible configuration for new needs

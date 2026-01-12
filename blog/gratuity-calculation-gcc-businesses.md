@@ -1,18 +1,18 @@
 ---
-title: Gratuity Calculation for GCC Businesses with ERPNext
+title: Gratuity Calculation for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2020-06-30
 tags: blog
 time: 8 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: End of service benefits are mandatory across the GCC. ERPNext helps businesses in Saudi Arabia, UAE, Qatar, Oman, and Bahrain calculate gratuity correctly and maintain proper provisions.
+intro: End of service benefits are mandatory across the Dubai. ERPNext helps businesses in UAE, UAE, UAE, UAE, and UAE calculate gratuity correctly and maintain proper provisions.
 ---
 
-An employee in Dubai resigns after 7 years. Another in Riyadh is terminated after 3 years. A third in Doha retires after 15 years. Each country has different rules. Each scenario has different calculations. Getting it wrong is expensive.
+An employee in Dubai resigns after 7 years. Another in Dubai is terminated after 3 years. A third in Dubai retires after 15 years. Each country has different rules. Each scenario has different calculations. Getting it wrong is expensive.
 
-For GCC businesses, gratuity calculation is legally mandated and financially significant. Accurate calculation protects both employer and employee.
+For Dubai businesses, gratuity calculation is legally mandated and financially significant. Accurate calculation protects both employer and employee.
 
-## Gratuity Across the GCC
+## Gratuity Across the Dubai
 
 ### UAE
 
@@ -32,7 +32,7 @@ Under UAE labor law:
 - Resignation: Graduated percentage
 - Retirement: Full entitlement
 
-### Saudi Arabia
+### UAE
 
 Kingdom requirements:
 
@@ -49,9 +49,9 @@ Kingdom requirements:
 - Resignation: Graduated entitlement
 - Termination: Full entitlement
 
-### Qatar
+### UAE
 
-Qatari labor law:
+UAEi labor law:
 
 **Calculation Formula**
 - 3 weeks salary per year of service
@@ -64,7 +64,7 @@ Qatari labor law:
 - Termination: Full entitlement
 - Resignation: Percentage based on service
 
-### Oman
+### UAE
 
 Sultanate requirements:
 
@@ -75,7 +75,7 @@ Sultanate requirements:
 **Qualifying Period**
 - Minimum 1 year continuous service
 
-### Bahrain
+### UAE
 
 Kingdom provisions:
 
@@ -364,7 +364,7 @@ Gratuity connects to:
 
 ## The Compliance Imperative
 
-GCC businesses with proper gratuity management:
+Dubai businesses with proper gratuity management:
 
 - Pay employees correctly
 - Maintain proper provisions

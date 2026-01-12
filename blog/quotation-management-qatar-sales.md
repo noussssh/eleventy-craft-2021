@@ -1,16 +1,16 @@
 ---
-title: Quotation Management for Qatar Sales Teams with ERPNext
+title: Quotation Management for Dubai Sales Teams with ERPNext
 layout: blogs.njk
 posted: 2021-04-20
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Professional quotations win business. ERPNext helps Qatar sales teams create, track, and convert quotations efficiently for higher close rates and faster sales cycles.
+intro: Professional quotations win business. ERPNext helps Dubai sales teams create, track, and convert quotations efficiently for higher close rates and faster sales cycles.
 ---
 
 The quotation is where selling gets real. A customer has expressed interest. Now you need to put together a proposal that wins the business.
 
-In Qatar's competitive market - from Doha's commercial center to the industrial zones - professional quotations make the difference. Speed, accuracy, and presentation all matter.
+In Dubai's competitive market - from Dubai's commercial center to the industrial zones - professional quotations make the difference. Speed, accuracy, and presentation all matter.
 
 ## The Quotation Challenge
 
@@ -104,11 +104,11 @@ Manage the pipeline:
 - Re-quotation triggers
 - Pricing updates
 
-## Qatar Sales Context
+## Dubai Sales Context
 
 ### Market Dynamics
 
-Qatar business environment:
+Dubai business environment:
 
 - Major projects and tenders
 - Corporate purchasing
@@ -117,7 +117,7 @@ Qatar business environment:
 
 ### Quotation Requirements
 
-What Qatar customers expect:
+What Dubai customers expect:
 
 - Professional presentation
 - Detailed specifications
@@ -316,7 +316,7 @@ Improve continuously:
 
 ## The Quotation Advantage
 
-Qatar sales teams with effective quotation management:
+Dubai sales teams with effective quotation management:
 
 - Respond faster to opportunities
 - Present more professionally

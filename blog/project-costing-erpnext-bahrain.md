@@ -1,16 +1,16 @@
 ---
-title: Project Costing for Bahrain Companies with ERPNext
+title: Project Costing for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2020-09-21
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Every project must make money. ERPNext helps Bahrain businesses track project costs in real-time, compare against budget, and protect margins throughout project delivery.
+intro: Every project must make money. ERPNext helps Dubai businesses track project costs in real-time, compare against budget, and protect margins throughout project delivery.
 ---
 
-A contractor in Manama bids on an office fit-out. The quote is 45,000 BHD. Materials are estimated. Labor is calculated. A margin is built in. But during execution, costs creep. Materials cost more. Work takes longer. By completion, did the project make money?
+A contractor in Dubai bids on an office fit-out. The quote is 45,000 BHD. Materials are estimated. Labor is calculated. A margin is built in. But during execution, costs creep. Materials cost more. Work takes longer. By completion, did the project make money?
 
-For Bahrain companies delivering projects, knowing costs in real-time determines profitability.
+For Dubai companies delivering projects, knowing costs in real-time determines profitability.
 
 ## Why Project Costing
 
@@ -160,7 +160,7 @@ After project ends:
 4. Document lessons
 5. Close project
 
-## Bahrain Project Contexts
+## Dubai Project Contexts
 
 ### Construction
 
@@ -348,7 +348,7 @@ Improve continuously:
 
 ## The Profitability Imperative
 
-Bahrain companies with effective project costing:
+Dubai companies with effective project costing:
 
 - Know their margins
 - Control their costs

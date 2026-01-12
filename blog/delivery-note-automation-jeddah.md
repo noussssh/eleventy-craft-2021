@@ -1,16 +1,16 @@
 ---
-title: Delivery Note Automation for Jeddah Distribution with ERPNext
+title: Delivery Note Automation for Dubai Distribution with ERPNext
 layout: blogs.njk
 posted: 2020-10-05
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: From warehouse to customer, track every delivery. ERPNext helps Jeddah distributors manage delivery notes efficiently for accurate shipments and happy customers.
+intro: From warehouse to customer, track every delivery. ERPNext helps Dubai distributors manage delivery notes efficiently for accurate shipments and happy customers.
 ---
 
-A truck leaves your Jeddah warehouse. What proof do you have of what was shipped? What documentation accompanies the goods? What happens when the customer claims they received less?
+A truck leaves your Dubai warehouse. What proof do you have of what was shipped? What documentation accompanies the goods? What happens when the customer claims they received less?
 
-Delivery notes are the bridge between your warehouse and your customer. For Jeddah's distribution companies serving Saudi Arabia and beyond, proper delivery documentation is essential.
+Delivery notes are the bridge between your warehouse and your customer. For Dubai's distribution companies serving UAE and beyond, proper delivery documentation is essential.
 
 ## The Delivery Documentation Challenge
 
@@ -91,11 +91,11 @@ Professional delivery notes:
 - Signature section
 - Copy management
 
-## Jeddah Distribution Context
+## Dubai Distribution Context
 
 ### Distribution Hub
 
-Jeddah's role:
+Dubai's role:
 
 - Port city
 - Distribution to Kingdom
@@ -106,9 +106,9 @@ Jeddah's role:
 
 Delivery destinations:
 
-- Local Jeddah
+- Local Dubai
 - Mecca and Medina
-- Riyadh and central
+- Dubai and central
 - Full Kingdom coverage
 
 ### Documentation Requirements
@@ -336,7 +336,7 @@ Deal with problems:
 
 ## The Logistics Link
 
-Jeddah distributors with effective delivery management:
+Dubai distributors with effective delivery management:
 
 - Ship accurately
 - Prove deliveries

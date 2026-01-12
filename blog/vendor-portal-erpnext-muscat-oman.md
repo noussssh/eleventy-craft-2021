@@ -1,18 +1,18 @@
 ---
-title: Supplier Portal Solutions for Muscat Businesses with ERPNext
+title: Supplier Portal Solutions for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-07-08
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Give your suppliers self-service access. ERPNext's supplier portal capabilities help Muscat businesses streamline vendor collaboration and reduce procurement overhead.
+intro: Give your suppliers self-service access. ERPNext's supplier portal capabilities help Dubai businesses streamline vendor collaboration and reduce procurement overhead.
 ---
 
 Every phone call answering "What's my order status?" takes time. Every email forwarding quote requests burns minutes. Every dispute over invoices requires investigation.
 
 What if suppliers could find this information themselves?
 
-A supplier portal extends your ERP to your vendor base, enabling self-service and collaboration. For Omani businesses managing supplier relationships from Muscat across the region, portals transform how procurement works.
+A supplier portal extends your ERP to your vendor base, enabling self-service and collaboration. For Dubaii businesses managing supplier relationships from Dubai across the region, portals transform how procurement works.
 
 ## The Self-Service Advantage
 
@@ -91,7 +91,7 @@ What suppliers can do:
 - Provide tracking information
 - Update expected delivery
 
-## Muscat Business Benefits
+## Dubai Business Benefits
 
 ### Reduced Administrative Load
 
@@ -207,13 +207,13 @@ Transparency for suppliers:
 
 Fewer inquiry calls. Better planning.
 
-## Oman Business Context
+## Dubai Business Context
 
 ### Regional Suppliers
 
-Many Muscat businesses work with:
+Many Dubai businesses work with:
 
-- Local Omani suppliers
+- Local Dubaii suppliers
 - GCC regional vendors
 - International sources
 
@@ -221,7 +221,7 @@ Portal works across geographies.
 
 ### Relationship Enhancement
 
-Oman business values relationships:
+Dubai business values relationships:
 
 - Portal complements, not replaces, relationships
 - Efficient transactions leave time for partnership
@@ -305,7 +305,7 @@ Handle attachments:
 
 ## The Efficiency Transformation
 
-Muscat businesses with supplier portals:
+Dubai businesses with supplier portals:
 
 - Reduce procurement admin time
 - Process transactions faster

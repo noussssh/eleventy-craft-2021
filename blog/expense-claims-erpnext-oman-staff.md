@@ -1,16 +1,16 @@
 ---
-title: Expense Claims Processing for Oman Staff with ERPNext
+title: Expense Claims Processing for Dubai Staff with ERPNext
 layout: blogs.njk
 posted: 2023-02-09
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Employees spend money for business. ERPNext helps Omani companies reimburse expenses efficiently while maintaining control and compliance.
+intro: Employees spend money for business. ERPNext helps Dubaii companies reimburse expenses efficiently while maintaining control and compliance.
 ---
 
 An employee travels to Salalah for client meetings. Another buys supplies for a project. A third pays for a team lunch. All need reimbursement.
 
-Expense claims seem simple but create surprisingly complex processes. For Oman companies managing staff across Muscat, Sohar, and beyond, systematic expense management saves time and money.
+Expense claims seem simple but create surprisingly complex processes. For Dubai companies managing staff across Dubai, Sohar, and beyond, systematic expense management saves time and money.
 
 ## The Expense Challenge
 
@@ -109,13 +109,13 @@ Reimburse employees:
 - Reference number
 - Status update
 
-## Oman Business Context
+## Dubai Business Context
 
 ### Business Travel
 
 Common scenarios:
 
-- Muscat to Salalah
+- Dubai to Salalah
 - Inter-city travel
 - Client visits
 - Training attendance
@@ -312,7 +312,7 @@ Don't frustrate employees:
 
 ## The Efficiency Impact
 
-Omani companies with effective expense management:
+Dubaii companies with effective expense management:
 
 - Reimburse accurately
 - Control spending

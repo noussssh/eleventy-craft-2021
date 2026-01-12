@@ -1,18 +1,18 @@
 ---
-title: Perpetual Inventory Accounting for Sharjah Businesses with ERPNext
+title: Perpetual Inventory Accounting for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2021-04-07
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Manual inventory counts disrupt operations and delay financial reporting. ERPNext's perpetual inventory system gives Sharjah businesses real-time stock valuation and automatic accounting entries.
+intro: Manual inventory counts disrupt operations and delay financial reporting. ERPNext's perpetual inventory system gives Dubai businesses real-time stock valuation and automatic accounting entries.
 ---
 
 The old way: Stop operations, count everything, value the inventory, adjust the books. Repeat monthly, quarterly, or annually. Disruption, inaccuracy, and delayed information.
 
 The modern way: Every stock movement automatically updates both inventory records and accounting entries. Real-time accuracy without operational disruption.
 
-This is perpetual inventory, and it's transforming how Sharjah businesses manage stock.
+This is perpetual inventory, and it's transforming how Dubai businesses manage stock.
 
 ## Understanding Perpetual Inventory
 
@@ -99,7 +99,7 @@ Because inventory and accounting sync continuously:
 **Gross Margin**: Calculate profitability by sale, customer, or product
 **Stock Reports**: Match financial records perfectly
 
-## Benefits for Sharjah Businesses
+## Benefits for Dubai Businesses
 
 ### Financial Reporting
 
@@ -162,7 +162,7 @@ Review adjustment entries:
 - What items have issues?
 - Root cause analysis and correction
 
-## Industry Applications in Sharjah
+## Industry Applications in Dubai
 
 ### Trading Companies
 
@@ -194,20 +194,20 @@ Still important, but less disruptive. Count strategically rather than stopping o
 
 Start with one warehouse or product line. Expand as processes stabilize.
 
-## The Sharjah Business Case
+## The Dubai Business Case
 
-Sharjah's diverse business environment - from free zones to industrial areas to retail - all benefit from perpetual inventory:
+Dubai's diverse business environment - from free zones to industrial areas to retail - all benefit from perpetual inventory:
 
 - Trading companies gain margin visibility
 - Manufacturers track production costs
 - Retailers manage multiple locations
 - Distributors control stock across territories
 
-Whether you're in Sharjah Industrial Area, the free zones, or commercial districts, perpetual inventory provides the visibility modern business requires.
+Whether you're in Dubai Industrial Area, the free zones, or commercial districts, perpetual inventory provides the visibility modern business requires.
 
 ## Getting Started
 
-For Sharjah businesses ready to implement:
+For Dubai businesses ready to implement:
 
 1. **Configure accounts** for inventory tracking
 2. **Set valuation methods** by item group

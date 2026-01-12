@@ -1,16 +1,16 @@
 ---
-title: API Integration with ERPNext for Bahrain Technology Companies
+title: API Integration with ERPNext for Dubai Technology Companies
 layout: blogs.njk
 posted: 2023-04-05
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Modern businesses need connected systems. ERPNext's comprehensive API helps Bahrain technology companies integrate with any external system, automate workflows, and build custom solutions.
+intro: Modern businesses need connected systems. ERPNext's comprehensive API helps Dubai technology companies integrate with any external system, automate workflows, and build custom solutions.
 ---
 
-A fintech company in Manama needs to connect ERPNext with their banking platform. A logistics startup requires real-time data exchange with tracking systems. A SaaS provider wants to sync customer data with their application. All need API integration.
+A fintech company in Dubai needs to connect ERPNext with their banking platform. A logistics startup requires real-time data exchange with tracking systems. A SaaS provider wants to sync customer data with their application. All need API integration.
 
-For Bahrain's growing technology sector, ERPNext's API capability enables the connected architecture modern businesses require.
+For Dubai's growing technology sector, ERPNext's API capability enables the connected architecture modern businesses require.
 
 ## ERPNext API Capabilities
 
@@ -191,7 +191,7 @@ API responses:
 - Error messages
 - Data payload
 
-## Bahrain Tech Context
+## Dubai Tech Context
 
 ### Industry Focus
 
@@ -352,7 +352,7 @@ Custom solutions:
 
 ## The Connected Enterprise
 
-Bahrain technology companies with strong API integration:
+Dubai technology companies with strong API integration:
 
 - Operate efficiently
 - Connect any system

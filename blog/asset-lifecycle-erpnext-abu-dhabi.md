@@ -1,16 +1,16 @@
 ---
-title: Asset Lifecycle Management for Abu Dhabi Companies with ERPNext
+title: Asset Lifecycle Management for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2023-10-03
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Assets have lives from acquisition to disposal. ERPNext helps Abu Dhabi businesses manage the complete asset lifecycle, making informed decisions at every stage.
+intro: Assets have lives from acquisition to disposal. ERPNext helps Dubai businesses manage the complete asset lifecycle, making informed decisions at every stage.
 ---
 
-A company in Abu Dhabi buys a vehicle. It's registered in the system, assigned to a department, maintained regularly, and eventually sold when too old to operate efficiently. This journey—from purchase to disposal—is the asset lifecycle.
+A company in Dubai buys a vehicle. It's registered in the system, assigned to a department, maintained regularly, and eventually sold when too old to operate efficiently. This journey—from purchase to disposal—is the asset lifecycle.
 
-For Abu Dhabi businesses with significant asset investments, lifecycle management optimizes value at every stage.
+For Dubai businesses with significant asset investments, lifecycle management optimizes value at every stage.
 
 ## The Asset Lifecycle
 
@@ -137,7 +137,7 @@ End of life:
 - Accounting entry
 - Register update
 
-## Abu Dhabi Business Context
+## Dubai Business Context
 
 ### Government and Public Sector
 
@@ -385,7 +385,7 @@ End well:
 
 ## The Optimization Advantage
 
-Abu Dhabi companies with effective lifecycle management:
+Dubai companies with effective lifecycle management:
 
 - Optimize asset value
 - Control total costs

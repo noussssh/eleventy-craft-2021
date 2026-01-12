@@ -10,7 +10,7 @@ intro: Managing people in the UAE requires specialized HR systems. ERPNext helps
 
 The UAE workforce is unlike any other. Dozens of nationalities, multiple visa categories, WPS requirements, and labor law compliance create HR complexity that generic systems can't handle.
 
-For companies in Dubai, Abu Dhabi, and across the Emirates, HR software must understand UAE realities while enabling modern people management.
+For companies in Dubai, Dubai, and across the Emirates, HR software must understand UAE realities while enabling modern people management.
 
 ## UAE HR Challenges
 

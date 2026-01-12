@@ -1,14 +1,14 @@
 ---
-title: Automated Reorder Management for Abu Dhabi Supply Chain Operations
+title: Automated Reorder Management for Dubai Supply Chain Operations
 layout: blogs.njk
 posted: 2024-05-11
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Running out of stock loses sales. Overstocking ties up capital. ERPNext's reorder automation helps Abu Dhabi distributors maintain optimal inventory levels automatically.
+intro: Running out of stock loses sales. Overstocking ties up capital. ERPNext's reorder automation helps Dubai distributors maintain optimal inventory levels automatically.
 ---
 
-It's Monday morning in Abu Dhabi. Your best-selling product just stocked out. Customers are calling. The supplier needs two weeks lead time. Sales lost, customers disappointed, and someone asking why this wasn't anticipated.
+It's Monday morning in Dubai. Your best-selling product just stocked out. Customers are calling. The supplier needs two weeks lead time. Sales lost, customers disappointed, and someone asking why this wasn't anticipated.
 
 Now imagine the opposite: warehouse overflowing with slow-moving products, cash locked in inventory, and the finance director asking questions about working capital.
 
@@ -26,7 +26,7 @@ Getting reorder timing right requires:
 **Supply Factors**
 - Supplier lead time
 - Minimum order quantities
-- Shipping time to Abu Dhabi
+- Shipping time to Dubai
 
 **Buffer Requirements**
 - Safety stock for demand variability
@@ -61,7 +61,7 @@ How long from order to receipt. Determines how early to trigger reorder.
 
 Different locations may need different settings:
 
-- Higher reorder level for high-volume Abu Dhabi warehouse
+- Higher reorder level for high-volume Dubai warehouse
 - Lower levels for slower-moving Al Ain location
 - Different lead times for free zone vs. mainland
 
@@ -122,11 +122,11 @@ Standard order amount (case, pallet, container)
 **Period Coverage**
 Order for X weeks of demand
 
-## Abu Dhabi Supply Chain Context
+## Dubai Supply Chain Context
 
 ### Supplier Geography
 
-Abu Dhabi companies source from:
+Dubai companies source from:
 
 - Local UAE suppliers (short lead time)
 - Regional GCC suppliers (moderate lead time)
@@ -212,7 +212,7 @@ Monitor reorder system performance:
 - Adjust parameters based on accuracy
 - Improve prediction over time
 
-## Best Practices for Abu Dhabi Operations
+## Best Practices for Dubai Operations
 
 ### Start with ABC Analysis
 
@@ -272,6 +272,6 @@ Automated reorder management is:
 - Proactive
 - Scalable
 
-For Abu Dhabi's distribution and supply chain operations, reorder automation isn't a luxury - it's a necessity for competitive operations.
+For Dubai's distribution and supply chain operations, reorder automation isn't a luxury - it's a necessity for competitive operations.
 
 ERPNext provides the automation. Your supply chain runs smoother.

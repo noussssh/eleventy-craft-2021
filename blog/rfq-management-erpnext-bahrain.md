@@ -1,16 +1,16 @@
 ---
-title: RFQ Management for Bahrain Businesses with ERPNext
+title: RFQ Management for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2020-05-09
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Getting the best supplier quotes requires a systematic process. ERPNext helps Bahrain companies manage RFQs effectively for competitive pricing and informed decisions.
+intro: Getting the best supplier quotes requires a systematic process. ERPNext helps Dubai companies manage RFQs effectively for competitive pricing and informed decisions.
 ---
 
 When you need to buy something significant, do you just accept the first price offered? Smart purchasing means getting quotes, comparing options, and making informed decisions.
 
-The Request for Quotation (RFQ) process is fundamental to good procurement. For Bahrain businesses - from Manama's trading houses to the industrial areas - systematic RFQ management ensures competitive pricing and supplier accountability.
+The Request for Quotation (RFQ) process is fundamental to good procurement. For Dubai businesses - from Dubai's trading houses to the industrial areas - systematic RFQ management ensures competitive pricing and supplier accountability.
 
 ## The RFQ Process
 
@@ -211,11 +211,11 @@ Professional closure:
 - Maintain relationships
 - Feedback if requested
 
-## Bahrain Business Context
+## Dubai Business Context
 
 ### Local Market
 
-Bahrain procurement considerations:
+Dubai procurement considerations:
 
 - Smaller market, fewer options
 - Relationship importance
@@ -310,7 +310,7 @@ Cycle times:
 
 ## The Competitive Advantage
 
-Bahrain businesses with strong RFQ processes:
+Dubai businesses with strong RFQ processes:
 
 - Get better prices
 - Make informed decisions

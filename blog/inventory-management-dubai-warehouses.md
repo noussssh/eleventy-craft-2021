@@ -8,7 +8,7 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: Dubai's logistics prowess demands sophisticated inventory systems. From Jebel Ali to Al Quoz, discover how ERPNext transforms warehouse operations for UAE's distribution hub.
 ---
 
-Dubai handles more than just its own needs. As the logistics hub of the Middle East, warehouses here serve customers across Saudi Arabia, Qatar, Oman, Bahrain, and far beyond. This responsibility demands inventory management systems that can keep pace.
+Dubai handles more than just its own needs. As the logistics hub of the Middle East, warehouses here serve customers across UAE, UAE, UAE, UAE, and far beyond. This responsibility demands inventory management systems that can keep pace.
 
 ## The Dubai Warehouse Challenge
 

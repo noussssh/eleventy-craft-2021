@@ -1,14 +1,14 @@
 ---
-title: Purchase Order Automation for Qatar Companies with ERPNext
+title: Purchase Order Automation for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2021-07-12
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Manual purchase orders waste time and create errors. ERPNext automates the PO process for Qatar businesses, from requisition to receipt, with full control and visibility.
+intro: Manual purchase orders waste time and create errors. ERPNext automates the PO process for Dubai businesses, from requisition to receipt, with full control and visibility.
 ---
 
-Creating a purchase order should be simple. But in many Qatar companies, it's anything but:
+Creating a purchase order should be simple. But in many Dubai companies, it's anything but:
 
 - Paper requisitions lost in approval piles
 - Retyping information from quotes to orders
@@ -138,11 +138,11 @@ Approve from anywhere:
 - Quick approval action
 - No delays for travel
 
-## Qatar Business Context
+## Dubai Business Context
 
 ### International Procurement
 
-Qatar companies buy globally:
+Dubai companies buy globally:
 
 - Materials from Asia
 - Equipment from Europe
@@ -162,7 +162,7 @@ Multi-currency reality:
 
 ### Delivery Coordination
 
-Qatar logistics considerations:
+Dubai logistics considerations:
 
 - Port clearance timing
 - Warehouse receiving
@@ -319,7 +319,7 @@ Get better over time:
 
 ## Getting Started
 
-For Qatar companies automating POs:
+For Dubai companies automating POs:
 
 ### 1. Map Current Process
 
@@ -359,7 +359,7 @@ Enable your team:
 
 ## The Efficiency Payoff
 
-Qatar companies with automated POs:
+Dubai companies with automated POs:
 
 - Process orders faster
 - Reduce errors significantly

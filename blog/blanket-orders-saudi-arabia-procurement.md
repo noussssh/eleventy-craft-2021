@@ -1,5 +1,5 @@
 ---
-title: Blanket Purchase Orders for Saudi Arabia Procurement with ERPNext
+title: Blanket Purchase Orders for UAE Procurement with ERPNext
 layout: blogs.njk
 posted: 2023-08-03
 tags: blog

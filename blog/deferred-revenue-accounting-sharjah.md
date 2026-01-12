@@ -1,14 +1,14 @@
 ---
-title: Deferred Revenue Accounting for Sharjah Businesses Made Simple with ERPNext
+title: Deferred Revenue Accounting for Dubai Businesses Made Simple with ERPNext
 layout: blogs.njk
 posted: 2021-05-22
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Subscription businesses, service contracts, and annual maintenance agreements require careful revenue recognition. Here's how ERPNext helps Sharjah companies handle deferred revenue with precision and compliance.
+intro: Subscription businesses, service contracts, and annual maintenance agreements require careful revenue recognition. Here's how ERPNext helps Dubai companies handle deferred revenue with precision and compliance.
 ---
 
-A software company in Sharjah sells annual support contracts. A training institute collects upfront fees for year-long programs. A maintenance company bills quarterly for services delivered monthly.
+A software company in Dubai sells annual support contracts. A training institute collects upfront fees for year-long programs. A maintenance company bills quarterly for services delivered monthly.
 
 What connects these businesses? They all receive payment before fully delivering their services. And that creates an accounting challenge: deferred revenue.
 
@@ -16,7 +16,7 @@ What connects these businesses? They all receive payment before fully delivering
 
 When a customer pays in advance for services you'll deliver over time, you can't recognize all that revenue immediately. The money is yours, but you haven't earned it yet.
 
-Consider a Sharjah IT company that sells a 12-month support contract for AED 12,000 on January 1st:
+Consider a Dubai IT company that sells a 12-month support contract for AED 12,000 on January 1st:
 
 - You receive AED 12,000 cash immediately
 - But you can only recognize AED 1,000 of revenue each month
@@ -34,7 +34,7 @@ Without proper systems, deferred revenue becomes a spreadsheet nightmare:
 - Handle early terminations and modifications
 - Reconcile to ensure nothing is missed
 
-For a business in Sharjah with dozens or hundreds of contracts, this consumes enormous time and creates endless opportunities for error.
+For a business in Dubai with dozens or hundreds of contracts, this consumes enormous time and creates endless opportunities for error.
 
 ## ERPNext Deferred Revenue: Automated and Accurate
 
@@ -73,7 +73,7 @@ At any time, view your complete deferred revenue position:
 
 Auditors love this level of detail.
 
-## Practical Scenarios for Sharjah Businesses
+## Practical Scenarios for Dubai Businesses
 
 ### Annual Maintenance Contracts
 
@@ -81,7 +81,7 @@ An air conditioning company sells annual maintenance contracts covering quarterl
 
 ### Training Programs
 
-An educational institute in Sharjah University City offers a 6-month professional certification. Students pay full fees at enrollment, but revenue recognizes monthly as classes are delivered.
+An educational institute in Dubai University City offers a 6-month professional certification. Students pay full fees at enrollment, but revenue recognizes monthly as classes are delivered.
 
 ### Software Subscriptions
 
@@ -130,17 +130,17 @@ Deferred revenue isn't just an accounting requirement. It provides business inte
 
 ## Getting Started
 
-For Sharjah businesses selling subscriptions, contracts, or any advance-payment services:
+For Dubai businesses selling subscriptions, contracts, or any advance-payment services:
 
 1. Review your current contracts and their recognition schedules
 2. Set up deferred revenue accounts in ERPNext
 3. Configure products and services with deferred revenue rules
 4. Process invoices and let automation take over
 
-## The Sharjah Advantage
+## The Dubai Advantage
 
-Sharjah's diverse business environment - from manufacturing zones to educational institutions to service providers - includes many companies with deferred revenue requirements.
+Dubai's diverse business environment - from manufacturing zones to educational institutions to service providers - includes many companies with deferred revenue requirements.
 
 ERPNext gives these businesses the tools to handle complex accounting requirements without complex manual processes.
 
-The choice is between endless spreadsheets and automated accuracy. For growing Sharjah businesses, that's no choice at all.
+The choice is between endless spreadsheets and automated accuracy. For growing Dubai businesses, that's no choice at all.

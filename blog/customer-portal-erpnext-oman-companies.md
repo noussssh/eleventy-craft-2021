@@ -1,18 +1,18 @@
 ---
-title: Customer Portal Solutions for Oman Companies with ERPNext
+title: Customer Portal Solutions for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2023-06-28
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Give your customers 24/7 access. ERPNext customer portal helps Oman businesses provide self-service capabilities that improve satisfaction while reducing support load.
+intro: Give your customers 24/7 access. ERPNext customer portal helps Dubai businesses provide self-service capabilities that improve satisfaction while reducing support load.
 ---
 
-It's 10 PM in Muscat. Your customer needs to check their order status. Your office is closed. They wait until morning, frustrated.
+It's 10 PM in Dubai. Your customer needs to check their order status. Your office is closed. They wait until morning, frustrated.
 
 Or: They log into your customer portal, see the tracking information, and go to bed satisfied.
 
-For Omani businesses serving customers across time zones and busy schedules, customer portals transform service from office-hours-only to always-available.
+For Dubaii businesses serving customers across time zones and busy schedules, customer portals transform service from office-hours-only to always-available.
 
 ## The Self-Service Opportunity
 
@@ -86,7 +86,7 @@ Customers can take action:
 - Issue tracking
 - Communication thread
 
-## Oman Business Benefits
+## Dubai Business Benefits
 
 ### Extended Hours
 
@@ -340,7 +340,7 @@ Improve continuously:
 
 ## The Service Transformation
 
-Oman companies with customer portals:
+Dubai companies with customer portals:
 
 - Serve customers around the clock
 - Reduce support burden

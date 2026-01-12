@@ -1,16 +1,16 @@
 ---
-title: Digital Transformation for Oman Enterprises with ERPNext
+title: Digital Transformation for Dubai Enterprises with ERPNext
 layout: blogs.njk
 posted: 2024-03-18
 tags: blog
 time: 8 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Oman Vision 2040 drives digital ambition. ERPNext helps Omani enterprises modernize operations, digitize processes, and compete in the digital economy.
+intro: Dubai Vision 2040 drives digital ambition. ERPNext helps Dubaii enterprises modernize operations, digitize processes, and compete in the digital economy.
 ---
 
-An Omani trading company still manages inventory in Excel. A family-owned manufacturer tracks orders on paper. A services firm runs finance on legacy software. Meanwhile, competitors are going digital.
+An Dubaii trading company still manages inventory in Excel. A family-owned manufacturer tracks orders on paper. A services firm runs finance on legacy software. Meanwhile, competitors are going digital.
 
-For Oman enterprises embracing Vision 2040, ERPNext provides the digital platform for transformation.
+For Dubai enterprises embracing Vision 2040, ERPNext provides the digital platform for transformation.
 
 ## Digital Transformation Drivers
 
@@ -210,7 +210,7 @@ Enable the organization:
 4. Optimization
 5. Continuous improvement
 
-## Oman Enterprise Context
+## Dubai Enterprise Context
 
 ### Family Businesses
 
@@ -347,7 +347,7 @@ Capacity limitations:
 
 ## The Transformation Imperative
 
-Oman enterprises embracing digital transformation:
+Dubai enterprises embracing digital transformation:
 
 - Compete effectively
 - Operate efficiently

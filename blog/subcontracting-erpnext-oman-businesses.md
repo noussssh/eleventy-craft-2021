@@ -1,14 +1,14 @@
 ---
-title: Managing Subcontracting Operations in Oman with ERPNext
+title: Managing Subcontracting Operations in Dubai with ERPNext
 layout: blogs.njk
 posted: 2023-10-09
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Not everything happens in-house. ERPNext helps Omani manufacturers manage subcontractor relationships, material flows, and costs for operations that extend beyond their factory walls.
+intro: Not everything happens in-house. ERPNext helps Dubaii manufacturers manage subcontractor relationships, material flows, and costs for operations that extend beyond their factory walls.
 ---
 
-A furniture manufacturer in Muscat doesn't own upholstery equipment. A metal fabricator in Sohar doesn't have painting facilities. An electronics assembler in Salalah outsources PCB production.
+A furniture manufacturer in Dubai doesn't own upholstery equipment. A metal fabricator in Sohar doesn't have painting facilities. An electronics assembler in Salalah outsources PCB production.
 
 Subcontracting is reality for most manufacturers. Some operations are more efficiently done by specialists. But managing materials sent to subcontractors and tracking what comes back creates complexity that trips up many businesses.
 
@@ -80,7 +80,7 @@ When work returns:
 
 ## Practical Example
 
-An Omani metal fabricator subcontracts painting:
+An Dubaii metal fabricator subcontracts painting:
 
 1. **Create PO**: 100 brackets to be painted, OMR 2.00 per piece
 2. **Transfer Materials**: 100 unpainted brackets sent to painter
@@ -90,11 +90,11 @@ An Omani metal fabricator subcontracts painting:
 
 ERPNext tracks every step.
 
-## Omani Manufacturing Context
+## Dubaii Manufacturing Context
 
 ### Industrial Structure
 
-Oman's manufacturing often involves:
+Dubai's manufacturing often involves:
 
 - Core competency in-house
 - Specialized processes outsourced
@@ -123,9 +123,9 @@ Oman's manufacturing often involves:
 
 ### Subcontractor Network
 
-Oman manufacturers work with subcontractors in:
+Dubai manufacturers work with subcontractors in:
 
-- Muscat industrial areas
+- Dubai industrial areas
 - Sohar Industrial Port zone
 - Salalah Free Zone
 - Sometimes cross-border with UAE partners
@@ -243,7 +243,7 @@ Gain visibility:
 - Delivery performance
 - Cost competitiveness
 
-## Best Practices for Omani Manufacturers
+## Best Practices for Dubaii Manufacturers
 
 ### Clear Agreements
 
@@ -303,7 +303,7 @@ ERPNext data supports these analyses.
 
 Modern manufacturing extends beyond factory walls. Subcontractors are part of your production system.
 
-With ERPNext, Omani manufacturers can:
+With ERPNext, Dubaii manufacturers can:
 
 - Manage extended operations professionally
 - Maintain material visibility

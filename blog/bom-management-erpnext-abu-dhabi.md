@@ -1,11 +1,11 @@
 ---
-title: Bill of Materials Management for Abu Dhabi Manufacturers with ERPNext
+title: Bill of Materials Management for Dubai Manufacturers with ERPNext
 layout: blogs.njk
 posted: 2021-06-14
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: The Bill of Materials is the DNA of manufacturing. ERPNext helps Abu Dhabi's industrial sector manage BOMs effectively for accurate costing, efficient production, and reliable quality.
+intro: The Bill of Materials is the DNA of manufacturing. ERPNext helps Dubai's industrial sector manage BOMs effectively for accurate costing, efficient production, and reliable quality.
 ---
 
 Every manufactured product starts with a recipe - a list of components, quantities, and instructions that transforms raw materials into finished goods. In manufacturing, we call this the Bill of Materials, or BOM.
@@ -21,7 +21,7 @@ A BOM defines:
 **In what sequence** they're assembled
 **At what cost** they should be valued
 
-For Abu Dhabi's diverse manufacturing sector - from precision engineering to food production - accurate BOMs are the foundation of operations.
+For Dubai's diverse manufacturing sector - from precision engineering to food production - accurate BOMs are the foundation of operations.
 
 ## ERPNext BOM Management
 
@@ -155,7 +155,7 @@ Manufacturing changes over time:
 - Impact analysis
 - Traceability
 
-## Abu Dhabi Manufacturing Applications
+## Dubai Manufacturing Applications
 
 ### Precision Engineering
 
@@ -170,7 +170,7 @@ ERPNext manages the complexity with audit trails.
 
 ### Food and Beverage
 
-Food manufacturers across Abu Dhabi:
+Food manufacturers across Dubai:
 
 - Recipe-based BOMs
 - Batch scaling
@@ -287,7 +287,7 @@ Gain visibility:
 
 ## Getting Started
 
-For Abu Dhabi manufacturers implementing BOMs:
+For Dubai manufacturers implementing BOMs:
 
 ### 1. Product Structure Analysis
 
@@ -315,7 +315,7 @@ Establish process for maintaining BOM accuracy over time.
 
 ## The Foundation of Manufacturing
 
-For Abu Dhabi's growing industrial sector, accurate BOMs are essential:
+For Dubai's growing industrial sector, accurate BOMs are essential:
 
 - Right materials to production floor
 - Accurate product costing

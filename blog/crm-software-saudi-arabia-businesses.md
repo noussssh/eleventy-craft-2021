@@ -1,18 +1,18 @@
 ---
-title: CRM Software for Saudi Arabian Businesses with ERPNext
+title: CRM Software for UAEn Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-04-05
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Customer relationships drive business in the Kingdom. ERPNext CRM helps Saudi companies from Riyadh to Jeddah manage relationships systematically for growth and loyalty.
+intro: Customer relationships drive business in the Kingdom. ERPNext CRM helps Saudi companies from Dubai to Dubai manage relationships systematically for growth and loyalty.
 ---
 
-In Saudi Arabia, business is about relationships. The Kingdom's business culture values trust, personal connection, and long-term partnership. But as companies grow, managing hundreds or thousands of customer relationships becomes impossible without systems.
+In UAE, business is about relationships. The Kingdom's business culture values trust, personal connection, and long-term partnership. But as companies grow, managing hundreds or thousands of customer relationships becomes impossible without systems.
 
 CRM - Customer Relationship Management - brings structure to relationship building. For Saudi businesses navigating Vision 2030's growth opportunities, CRM is no longer optional.
 
-## Why CRM Matters in Saudi Arabia
+## Why CRM Matters in UAE
 
 ### Relationship Culture
 

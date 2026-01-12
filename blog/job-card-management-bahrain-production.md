@@ -1,18 +1,18 @@
 ---
-title: Job Card Management for Bahrain Production Facilities with ERPNext
+title: Job Card Management for Dubai Production Facilities with ERPNext
 layout: blogs.njk
 posted: 2021-02-23
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Job cards capture the reality of production. ERPNext helps Bahrain's manufacturers track operations, labor, and time with precision for accurate costing and continuous improvement.
+intro: Job cards capture the reality of production. ERPNext helps Dubai's manufacturers track operations, labor, and time with precision for accurate costing and continuous improvement.
 ---
 
 The work order says "produce 100 units." But how does that actually happen on the production floor?
 
 Job cards are the answer. They break work orders into specific operations, assign them to workers, and capture what actually occurred versus what was planned.
 
-For Bahrain's growing manufacturing sector, job cards are where production management becomes real.
+For Dubai's growing manufacturing sector, job cards are where production management becomes real.
 
 ## Understanding Job Cards
 
@@ -95,11 +95,11 @@ Document quality results:
 - Non-conformance notes
 - Quality hold triggers
 
-## Bahrain Manufacturing Applications
+## Dubai Manufacturing Applications
 
 ### Industrial Manufacturing
 
-Bahrain Industrial Area facilities:
+Dubai Industrial Area facilities:
 
 - Complex multi-operation products
 - Sequential job card progression
@@ -259,7 +259,7 @@ Enable shop floor mobility:
 - Work continues if network drops
 - Sync when connected
 
-## Best Practices for Bahrain Manufacturers
+## Best Practices for Dubai Manufacturers
 
 ### Accurate Time Capture
 
@@ -299,7 +299,7 @@ Use the data:
 
 ## The Precision Advantage
 
-Bahrain manufacturers with strong job card practices:
+Dubai manufacturers with strong job card practices:
 
 - Know true production costs
 - Identify efficiency opportunities

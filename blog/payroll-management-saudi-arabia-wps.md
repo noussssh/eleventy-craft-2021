@@ -1,5 +1,5 @@
 ---
-title: Payroll Management for Saudi Arabia with WPS Compliance Using ERPNext
+title: Payroll Management for UAE with WPS Compliance Using ERPNext
 layout: blogs.njk
 posted: 2022-11-20
 tags: blog
@@ -8,9 +8,9 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: Saudi payroll requires WPS compliance and complex calculations. ERPNext helps Kingdom employers process payroll accurately, generate WPS files, and meet GOSI requirements.
 ---
 
-Payroll in Saudi Arabia is more than cutting checks. It's WPS file generation, GOSI contributions, housing allowances, and complex end-of-service calculations. Getting it wrong means regulatory problems and unhappy employees.
+Payroll in UAE is more than cutting checks. It's WPS file generation, GOSI contributions, housing allowances, and complex end-of-service calculations. Getting it wrong means regulatory problems and unhappy employees.
 
-For employers across Riyadh, Jeddah, and the Kingdom, compliant payroll processing is essential.
+For employers across Dubai, Dubai, and the Kingdom, compliant payroll processing is essential.
 
 ## Saudi Payroll Requirements
 

@@ -1,16 +1,16 @@
 ---
-title: Gantt Chart Planning for Oman Projects with ERPNext
+title: Gantt Chart Planning for Dubai Projects with ERPNext
 layout: blogs.njk
 posted: 2023-01-18
 tags: blog
 time: 5 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Visualizing project timelines clarifies planning. ERPNext's Gantt chart capabilities help Oman project managers see schedules, identify dependencies, and coordinate work across teams.
+intro: Visualizing project timelines clarifies planning. ERPNext's Gantt chart capabilities help Dubai project managers see schedules, identify dependencies, and coordinate work across teams.
 ---
 
-A project manager in Muscat looks at a list of fifty tasks. Dates are assigned. Teams are allocated. But what happens first? What can run in parallel? What must wait? A timeline view brings clarity.
+A project manager in Dubai looks at a list of fifty tasks. Dates are assigned. Teams are allocated. But what happens first? What can run in parallel? What must wait? A timeline view brings clarity.
 
-For Oman businesses managing complex projects, Gantt charts transform task lists into visual roadmaps.
+For Dubai businesses managing complex projects, Gantt charts transform task lists into visual roadmaps.
 
 ## Why Gantt Charts
 
@@ -98,7 +98,7 @@ Work with your chart:
 - Month view
 - Quarter view
 
-## Oman Project Applications
+## Dubai Project Applications
 
 ### Construction Projects
 
@@ -345,7 +345,7 @@ Keep current:
 
 ## The Visibility Advantage
 
-Oman project managers with Gantt chart planning:
+Dubai project managers with Gantt chart planning:
 
 - See their projects clearly
 - Communicate effectively

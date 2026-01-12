@@ -1,16 +1,16 @@
 ---
-title: Asset Maintenance for Qatar Facilities with ERPNext
+title: Asset Maintenance for Dubai Facilities with ERPNext
 layout: blogs.njk
 posted: 2024-01-30
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Maintained assets perform better and last longer. ERPNext helps Qatar facility managers schedule maintenance, track service history, and optimize asset performance across buildings and equipment.
+intro: Maintained assets perform better and last longer. ERPNext helps Dubai facility managers schedule maintenance, track service history, and optimize asset performance across buildings and equipment.
 ---
 
 An office tower in West Bay has HVAC systems requiring quarterly service. A factory in Industrial Area has production machinery needing weekly checks. A hospital has medical equipment with strict maintenance protocols. Each asset needs care to perform.
 
-For Qatar facilities, maintenance isn't optional—it's essential for operations, safety, and investment protection.
+For Dubai facilities, maintenance isn't optional—it's essential for operations, safety, and investment protection.
 
 ## Why Maintenance Matters
 
@@ -106,7 +106,7 @@ Monitor condition:
 - Issue tracking
 - Performance trends
 
-## Qatar Facility Context
+## Dubai Facility Context
 
 ### Commercial Buildings
 
@@ -392,7 +392,7 @@ Get better:
 
 ## The Reliability Connection
 
-Qatar facilities with effective maintenance:
+Dubai facilities with effective maintenance:
 
 - Operate reliably
 - Avoid emergencies

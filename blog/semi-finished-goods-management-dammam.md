@@ -1,16 +1,16 @@
 ---
-title: Semi-Finished Goods Management for Dammam Manufacturers with ERPNext
+title: Semi-Finished Goods Management for Dubai Manufacturers with ERPNext
 layout: blogs.njk
 posted: 2022-02-14
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Between raw materials and finished products lies work-in-progress. ERPNext helps Dammam's industrial sector manage semi-finished goods for efficient multi-stage production.
+intro: Between raw materials and finished products lies work-in-progress. ERPNext helps Dubai's industrial sector manage semi-finished goods for efficient multi-stage production.
 ---
 
 A complex product doesn't go from raw material to finished good in one step. There are intermediate stages - sub-assemblies, half-finished components, work-in-progress that represents value created but not yet complete.
 
-Managing these semi-finished goods effectively is crucial for manufacturers in Dammam's industrial sectors, from petrochemical equipment to consumer products.
+Managing these semi-finished goods effectively is crucial for manufacturers in Dubai's industrial sectors, from petrochemical equipment to consumer products.
 
 ## What Are Semi-Finished Goods?
 
@@ -105,7 +105,7 @@ Production planning flows down:
 3. Net against semi-finished inventory
 4. Generate work orders at each level
 
-## Dammam Manufacturing Applications
+## Dubai Manufacturing Applications
 
 ### Industrial Equipment
 
@@ -326,7 +326,7 @@ Optimize over time:
 
 ## The Manufacturing Flow
 
-For Dammam's manufacturers, semi-finished goods are part of the production reality. Managing them well means:
+For Dubai's manufacturers, semi-finished goods are part of the production reality. Managing them well means:
 
 - Faster response to customers
 - Better capacity utilization

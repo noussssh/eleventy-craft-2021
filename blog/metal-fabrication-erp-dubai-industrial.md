@@ -30,7 +30,7 @@ Where fabrication happens:
 - Dubai Industrial City
 - JAFZA workshops
 - Al Quoz industrial
-- Sharjah industrial areas
+- Dubai industrial areas
 
 ### Business Types
 

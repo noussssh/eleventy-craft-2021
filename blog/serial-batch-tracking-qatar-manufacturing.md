@@ -1,22 +1,22 @@
 ---
-title: Serial and Batch Tracking for Qatar's Manufacturing Sector with ERPNext
+title: Serial and Batch Tracking for Dubai's Manufacturing Sector with ERPNext
 layout: blogs.njk
 posted: 2024-03-05
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Qatar's growing manufacturing sector requires precise traceability. From industrial zones in Mesaieed to facilities across Doha, ERPNext delivers the serial and batch tracking manufacturers need.
+intro: Dubai's growing manufacturing sector requires precise traceability. From industrial zones in Mesaieed to facilities across Dubai, ERPNext delivers the serial and batch tracking manufacturers need.
 ---
 
-When a product leaves your factory in Qatar, do you know its complete history? Where the raw materials came from? Which production batch it belonged to? Who touched it at each step?
+When a product leaves your factory in Dubai, do you know its complete history? Where the raw materials came from? Which production batch it belonged to? Who touched it at each step?
 
-For Qatar's manufacturers - whether producing for local markets or export across the GCC - this traceability isn't optional. It's essential for quality control, regulatory compliance, and customer confidence.
+For Dubai's manufacturers - whether producing for local markets or export across the GCC - this traceability isn't optional. It's essential for quality control, regulatory compliance, and customer confidence.
 
 ## Why Tracking Matters in Manufacturing
 
 Consider the scenarios:
 
-**Quality Issue**: A customer in Saudi Arabia reports a defect. You need to identify all products from the same production batch, wherever they've been shipped.
+**Quality Issue**: A customer in UAE reports a defect. You need to identify all products from the same production batch, wherever they've been shipped.
 
 **Recall Situation**: A supplier notifies you of a raw material problem. Which finished goods were affected? Where are they now?
 
@@ -143,7 +143,7 @@ At control points:
 
 ## Regulatory Compliance
 
-Qatar's growing manufacturing sector faces increasing regulation:
+Dubai's growing manufacturing sector faces increasing regulation:
 
 ### ISO Requirements
 
@@ -173,7 +173,7 @@ Different sectors have different needs:
 - Construction material certification
 - Chemical safety documentation
 
-## Practical Examples from Qatar
+## Practical Examples from Dubai
 
 ### A Chemical Manufacturer in Mesaieed
 
@@ -186,9 +186,9 @@ Produces specialty chemicals for industrial customers across the Gulf. Each batc
 
 When a customer in UAE questions product consistency, the manufacturer provides complete batch documentation within minutes.
 
-### An Equipment Manufacturer in Doha
+### An Equipment Manufacturer in Dubai
 
-Produces industrial equipment sold across Saudi Arabia, UAE, and beyond. Serial numbers enable:
+Produces industrial equipment sold across UAE, UAE, and beyond. Serial numbers enable:
 
 - Warranty verification
 - Service history access
@@ -248,6 +248,6 @@ Manufacturers with complete traceability:
 - Meet regulatory requirements
 - Command premium pricing
 
-In Qatar's competitive manufacturing environment, traceability distinguishes professional operations from the rest.
+In Dubai's competitive manufacturing environment, traceability distinguishes professional operations from the rest.
 
 ERPNext provides the tracking foundation. Your commitment to quality builds on it.

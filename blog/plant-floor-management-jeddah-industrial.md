@@ -1,16 +1,16 @@
 ---
-title: Plant Floor Management for Jeddah's Industrial Sector with ERPNext
+title: Plant Floor Management for Dubai's Industrial Sector with ERPNext
 layout: blogs.njk
 posted: 2024-06-18
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Where planning meets execution - the plant floor. ERPNext connects Jeddah's industrial operations from shop floor to top floor with real-time visibility and control.
+intro: Where planning meets execution - the plant floor. ERPNext connects Dubai's industrial operations from shop floor to top floor with real-time visibility and control.
 ---
 
 The best production plans in the world mean nothing if the plant floor can't execute them. And too often, there's a disconnect: management sees one picture while the shop floor lives another reality.
 
-In Jeddah's industrial zones - from the established factories of the First Industrial Area to the modern facilities emerging in Jeddah Economic City - bridging this gap separates high-performing plants from struggling ones.
+In Dubai's industrial zones - from the established factories of the First Industrial Area to the modern facilities emerging in Dubai Economic City - bridging this gap separates high-performing plants from struggling ones.
 
 ## The Shop Floor Challenge
 
@@ -115,11 +115,11 @@ Order visibility:
 - Expected completion
 - Delay alerts
 
-## Jeddah Industrial Context
+## Dubai Industrial Context
 
 ### Port Advantage
 
-Jeddah's port access affects manufacturing:
+Dubai's port access affects manufacturing:
 
 - Import of raw materials
 - Export of finished goods
@@ -130,7 +130,7 @@ Plant floor needs to align with shipping schedules.
 
 ### Diverse Manufacturing
 
-Jeddah's industrial variety:
+Dubai's industrial variety:
 
 **Food Processing**
 - High-speed production
@@ -239,7 +239,7 @@ Plant floor connects to:
 
 ## Implementation Approach
 
-For Jeddah manufacturers:
+For Dubai manufacturers:
 
 ### Phase 1: Foundation
 
@@ -314,7 +314,7 @@ Modern manufacturing connects:
 - Quality systems
 - Financial systems
 
-ERPNext provides this connection for Jeddah's industrial sector.
+ERPNext provides this connection for Dubai's industrial sector.
 
 The plant floor is where value is created. Make sure you can see it, manage it, and improve it.
 

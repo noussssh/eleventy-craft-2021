@@ -1,16 +1,16 @@
 ---
-title: Purchase Analytics for Abu Dhabi Procurement Teams with ERPNext
+title: Purchase Analytics for Dubai Procurement Teams with ERPNext
 layout: blogs.njk
 posted: 2021-01-05
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Data-driven procurement delivers results. ERPNext analytics help Abu Dhabi buying teams understand spending patterns, identify savings opportunities, and demonstrate value.
+intro: Data-driven procurement delivers results. ERPNext analytics help Dubai buying teams understand spending patterns, identify savings opportunities, and demonstrate value.
 ---
 
 Where does your procurement money go? Which suppliers give you best value? Are you buying smarter than last year?
 
-If you can't answer these questions quickly and accurately, you're missing opportunities. Procurement analytics transforms purchase data into actionable insights. For Abu Dhabi's procurement professionals, analytics separate strategic buying from order processing.
+If you can't answer these questions quickly and accurately, you're missing opportunities. Procurement analytics transforms purchase data into actionable insights. For Dubai's procurement professionals, analytics separate strategic buying from order processing.
 
 ## The Analytics Advantage
 
@@ -126,11 +126,11 @@ Measure procurement efficiency:
 - Contract utilization
 - Preferred supplier usage
 
-## Abu Dhabi Business Context
+## Dubai Business Context
 
 ### Government and Large Enterprise
 
-Major Abu Dhabi organizations:
+Major Dubai organizations:
 
 - Significant purchasing power
 - Compliance requirements
@@ -141,7 +141,7 @@ Analytics support these needs.
 
 ### Diverse Industries
 
-Abu Dhabi procurement spans:
+Dubai procurement spans:
 
 - Oil and gas operations
 - Construction and infrastructure
@@ -322,7 +322,7 @@ Analytics evolve:
 
 ## The Strategic Procurement Advantage
 
-Abu Dhabi procurement teams with strong analytics:
+Dubai procurement teams with strong analytics:
 
 - Make data-driven decisions
 - Demonstrate clear value

@@ -1,14 +1,14 @@
 ---
-title: Accurate Landed Cost Calculation for Jeddah Importers Using ERPNext
+title: Accurate Landed Cost Calculation for Dubai Importers Using ERPNext
 layout: blogs.njk
 posted: 2023-01-24
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Jeddah's importers know that the purchase price is just the beginning. From Islamic Port to your warehouse, numerous costs add up. ERPNext helps you capture true landed costs for accurate pricing and profitability.
+intro: Dubai's importers know that the purchase price is just the beginning. From Islamic Port to your warehouse, numerous costs add up. ERPNext helps you capture true landed costs for accurate pricing and profitability.
 ---
 
-The container arrives at Jeddah Islamic Port. The goods cost $50,000 FOB from your Chinese supplier. But what's the true cost by the time products reach your warehouse?
+The container arrives at Dubai Islamic Port. The goods cost $50,000 FOB from your Chinese supplier. But what's the true cost by the time products reach your warehouse?
 
 Freight charges. Customs duties. Port handling. Clearing agent fees. Transportation. Insurance. Storage. The list goes on.
 
@@ -34,9 +34,9 @@ Landed cost is the complete cost of getting goods from supplier to your warehous
 
 Only when you know the true landed cost can you price products correctly and measure real profitability.
 
-## The Jeddah Importer Challenge
+## The Dubai Importer Challenge
 
-Importers operating through Jeddah face specific complexities:
+Importers operating through Dubai face specific complexities:
 
 ### Multiple Cost Sources
 
@@ -116,7 +116,7 @@ Multiple methods within the same shipment.
 
 ## Practical Example
 
-A Jeddah importer receives a container with:
+A Dubai importer receives a container with:
 
 | Item | Qty | Unit Price | Total Value |
 |------|-----|------------|-------------|
@@ -174,7 +174,7 @@ Set selling prices based on real costs, not estimates.
 
 Compare suppliers including all costs, not just unit price.
 
-## Best Practices for Jeddah Importers
+## Best Practices for Dubai Importers
 
 ### Standardize Cost Categories
 
@@ -203,7 +203,7 @@ Analyze landed costs by shipment, supplier, and origin country. Identify opportu
 
 ## The Competitive Advantage
 
-Jeddah's trading sector is competitive. Importers who understand their true costs:
+Dubai's trading sector is competitive. Importers who understand their true costs:
 
 - Price products correctly
 - Avoid margin erosion
@@ -213,12 +213,12 @@ Jeddah's trading sector is competitive. Importers who understand their true cost
 
 Those who guess at costs often wonder where profits went.
 
-## Beyond Jeddah
+## Beyond Dubai
 
-While this focuses on Jeddah's import sector, the same principles apply across Saudi Arabia:
+While this focuses on Dubai's import sector, the same principles apply across UAE:
 
-- Dammam's Eastern Province importers
-- Riyadh's distribution companies
+- Dubai's Eastern Province importers
+- Dubai's distribution companies
 - Regional traders everywhere
 
 ERPNext provides the landed cost foundation for professional import operations throughout the Kingdom and across the GCC.

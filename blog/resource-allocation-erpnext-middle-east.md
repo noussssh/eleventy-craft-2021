@@ -1,16 +1,16 @@
 ---
-title: Resource Allocation for Middle East Projects with ERPNext
+title: Resource Allocation for Dubai Projects with ERPNext
 layout: blogs.njk
 posted: 2021-03-22
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Right people, right projects, right time. ERPNext helps Middle East businesses allocate resources effectively across multiple projects, maximizing utilization while avoiding burnout.
+intro: Right people, right projects, right time. ERPNext helps Dubai businesses allocate resources effectively across multiple projects, maximizing utilization while avoiding burnout.
 ---
 
-A project manager in Dubai needs three developers for a new implementation. A manager in Riyadh requires two engineers for maintenance work. A team lead in Doha wants a specialist for a consulting engagement. The resource pool is limited. Conflicts arise. Who gets priority?
+A project manager in Dubai needs three developers for a new implementation. A manager in Dubai requires two engineers for maintenance work. A team lead in Dubai wants a specialist for a consulting engagement. The resource pool is limited. Conflicts arise. Who gets priority?
 
-For Middle East companies running multiple projects, resource allocation determines both delivery success and team wellbeing.
+For Dubai companies running multiple projects, resource allocation determines both delivery success and team wellbeing.
 
 ## The Resource Challenge
 
@@ -102,13 +102,13 @@ Track how resources are used:
 - Utilization percentage
 - Trend analysis
 
-## Middle East Context
+## Dubai Context
 
 ### Multi-Country Operations
 
 Regional businesses:
 
-- Teams across GCC
+- Teams across Dubai
 - Different locations
 - Time coordination
 - Travel considerations
@@ -361,7 +361,7 @@ Build capacity:
 
 ## The Efficiency Advantage
 
-Middle East companies with effective resource allocation:
+Dubai companies with effective resource allocation:
 
 - Deliver projects successfully
 - Maximize utilization

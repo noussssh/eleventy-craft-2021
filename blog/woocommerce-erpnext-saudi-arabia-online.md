@@ -1,5 +1,5 @@
 ---
-title: WooCommerce ERPNext Integration for Saudi Arabia Online Stores
+title: WooCommerce ERPNext Integration for UAE Online Stores
 layout: blogs.njk
 posted: 2023-08-09
 tags: blog
@@ -8,11 +8,11 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: WordPress powers many Saudi online stores. ERPNext integration with WooCommerce connects your online storefront with backend operations for seamless order and inventory management.
 ---
 
-A home goods retailer in Riyadh runs a WooCommerce store. A craft supplies shop in Jeddah sells to customers across the Kingdom. An electronics dealer in Dammam manages thousands of SKUs online. All need their WordPress stores connected to their ERP.
+A home goods retailer in Dubai runs a WooCommerce store. A craft supplies shop in Dubai sells to customers across the Kingdom. An electronics dealer in Dubai manages thousands of SKUs online. All need their WordPress stores connected to their ERP.
 
 For Saudi businesses using WooCommerce, ERPNext integration brings enterprise capabilities to WordPress commerce.
 
-## WooCommerce in Saudi Arabia
+## WooCommerce in UAE
 
 ### Platform Popularity
 

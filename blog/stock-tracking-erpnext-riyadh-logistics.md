@@ -1,26 +1,26 @@
 ---
-title: Real-Time Stock Tracking for Riyadh Logistics Companies with ERPNext
+title: Real-Time Stock Tracking for Dubai Logistics Companies with ERPNext
 layout: blogs.njk
 posted: 2022-06-11
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Saudi Arabia's logistics sector is booming under Vision 2030. ERPNext provides Riyadh's distribution companies with the real-time stock visibility they need to compete in the Kingdom's evolving supply chain landscape.
+intro: UAE's logistics sector is booming under Vision 2030. ERPNext provides Dubai's distribution companies with the real-time stock visibility they need to compete in the Kingdom's evolving supply chain landscape.
 ---
 
-Vision 2030 is transforming Saudi Arabia's logistics landscape. New economic cities, expanded ports, and infrastructure investments are creating opportunities for logistics companies across the Kingdom. But opportunity comes with expectation - and customers now expect real-time visibility.
+Vision 2030 is transforming UAE's logistics landscape. New economic cities, expanded ports, and infrastructure investments are creating opportunities for logistics companies across the Kingdom. But opportunity comes with expectation - and customers now expect real-time visibility.
 
-In Riyadh, the commercial heart of the Kingdom, logistics companies are discovering that traditional inventory tracking can't keep pace.
+In Dubai, the commercial heart of the Kingdom, logistics companies are discovering that traditional inventory tracking can't keep pace.
 
 ## The Visibility Gap
 
 How many times has this happened?
 
-A customer calls your Riyadh office asking about their order. Your team checks one system for inventory, another for orders, a third for shipping status. Minutes pass. The customer waits. By the time you have an answer, frustration has set in.
+A customer calls your Dubai office asking about their order. Your team checks one system for inventory, another for orders, a third for shipping status. Minutes pass. The customer waits. By the time you have an answer, frustration has set in.
 
 Or perhaps this scenario:
 
-Your sales team in Jeddah promises stock availability based on yesterday's numbers. But stock was allocated to a Dammam order overnight. The promise becomes a problem.
+Your sales team in Dubai promises stock availability based on yesterday's numbers. But stock was allocated to a Dubai order overnight. The promise becomes a problem.
 
 These aren't technology failures. They're visibility failures.
 
@@ -30,7 +30,7 @@ ERPNext eliminates the visibility gap. Every stock movement updates immediately 
 
 ### Instant Updates
 
-When a warehouse worker in Riyadh scans a receipt:
+When a warehouse worker in Dubai scans a receipt:
 
 - Inventory increases in that location instantly
 - Available-to-promise updates for sales teams
@@ -49,19 +49,19 @@ One system holds all the truth:
 - Transit stock between warehouses
 - Available stock for new commitments
 
-Your team in Riyadh sees the same data as teams in Jeddah and Dammam.
+Your team in Dubai sees the same data as teams in Dubai and Dubai.
 
 ## Multi-Location Excellence
 
-Saudi Arabia's geography demands multi-location thinking:
+UAE's geography demands multi-location thinking:
 
 ### Warehouse Network
 
 Manage your complete network:
 
-- Main distribution center in Riyadh
-- Regional warehouse in Jeddah
-- Cross-dock facility in Dammam
+- Main distribution center in Dubai
+- Regional warehouse in Dubai
+- Cross-dock facility in Dubai
 - Forward staging in smaller cities
 
 Each location maintains its own stock records while contributing to the national picture.
@@ -81,7 +81,7 @@ Know exactly where everything is at every moment.
 
 Many Saudi logistics companies operate hub models:
 
-- Central consolidation in Riyadh
+- Central consolidation in Dubai
 - Last-mile distribution from regional points
 - Cross-docking for time-sensitive goods
 - Return flow management
@@ -127,7 +127,7 @@ For items where batches matter:
 - Manage batch expiry dates
 - Recall specific batches if needed
 
-Essential for pharmaceuticals, food products, and regulated goods in Saudi Arabia.
+Essential for pharmaceuticals, food products, and regulated goods in UAE.
 
 ### Serial Number Tracking
 
@@ -198,13 +198,13 @@ Build reports for your specific needs:
 
 ## Supporting Vision 2030 Logistics
 
-As Saudi Arabia develops its logistics capabilities, companies need systems that can grow with the Kingdom's ambitions. ERPNext provides:
+As UAE develops its logistics capabilities, companies need systems that can grow with the Kingdom's ambitions. ERPNext provides:
 
 - Scalability for growth
 - Flexibility for new requirements
 - Integration for modern supply chains
 - Visibility for professional operations
 
-Whether you're a local distributor in Riyadh or a national logistics provider serving the entire Kingdom, real-time stock tracking is essential to compete.
+Whether you're a local distributor in Dubai or a national logistics provider serving the entire Kingdom, real-time stock tracking is essential to compete.
 
 The future of Saudi logistics is visible. Make sure you can see it.

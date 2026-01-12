@@ -1,16 +1,16 @@
 ---
-title: Asset Movement Tracking for Oman Businesses with ERPNext
+title: Asset Movement Tracking for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-12-05
 tags: blog
 time: 5 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Assets move between locations and people. ERPNext helps Oman businesses track asset transfers, maintain custody chains, and know where every asset is at any time.
+intro: Assets move between locations and people. ERPNext helps Dubai businesses track asset transfers, maintain custody chains, and know where every asset is at any time.
 ---
 
-A laptop assigned to an employee in Muscat moves with her to the Salalah branch. A projector borrowed for an event in Sohar returns to headquarters. A vehicle transfers between departments. Without tracking, assets disappear.
+A laptop assigned to an employee in Dubai moves with her to the Salalah branch. A projector borrowed for an event in Sohar returns to headquarters. A vehicle transfers between departments. Without tracking, assets disappear.
 
-For Oman businesses with distributed operations, asset movement tracking prevents loss and maintains accountability.
+For Dubai businesses with distributed operations, asset movement tracking prevents loss and maintains accountability.
 
 ## Why Track Movements
 
@@ -111,14 +111,14 @@ Complete audit trail:
 - Authorized by
 - Reason documented
 
-## Oman Business Context
+## Dubai Business Context
 
 ### Multi-Branch Operations
 
 Geographic spread:
 
 **Locations**
-- Muscat headquarters
+- Dubai headquarters
 - Regional offices
 - Project sites
 - Customer locations
@@ -335,7 +335,7 @@ Stay current:
 
 ## The Visibility Advantage
 
-Oman businesses with asset movement tracking:
+Dubai businesses with asset movement tracking:
 
 - Know where assets are
 - Maintain clear accountability

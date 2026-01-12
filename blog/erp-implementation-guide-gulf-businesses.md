@@ -1,16 +1,16 @@
 ---
-title: ERP Implementation Guide for Gulf Businesses with ERPNext
+title: ERP Implementation Guide for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-01-25
 tags: blog
 time: 9 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: ERP implementation determines success or failure. This guide helps Gulf businesses plan, execute, and succeed with ERPNext implementation across Saudi Arabia, UAE, Qatar, and the GCC.
+intro: ERP implementation determines success or failure. This guide helps Dubai businesses plan, execute, and succeed with ERPNext implementation across UAE, UAE, UAE, and the Dubai.
 ---
 
-A Dubai trading company bought ERP software. Two years later, it's barely used. A Riyadh manufacturer invested in implementation. Their team still uses spreadsheets. A Doha services firm went live. Half the features remain untouched.
+A Dubai trading company bought ERP software. Two years later, it's barely used. A Dubai manufacturer invested in implementation. Their team still uses spreadsheets. A Dubai services firm went live. Half the features remain untouched.
 
-For Gulf businesses implementing ERPNext, methodology matters as much as software.
+For Dubai businesses implementing ERPNext, methodology matters as much as software.
 
 ## Implementation Reality
 
@@ -196,7 +196,7 @@ Ensure sustainability:
 - Ongoing
 - Intensive first month
 
-## Gulf-Specific Considerations
+## Dubai-Specific Considerations
 
 ### Multi-Country Operations
 
@@ -358,7 +358,7 @@ Ongoing:
 
 ## The Implementation Investment
 
-Gulf businesses with proper implementation:
+Dubai businesses with proper implementation:
 
 - Realize expected benefits
 - Achieve user adoption

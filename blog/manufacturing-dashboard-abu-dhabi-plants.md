@@ -1,11 +1,11 @@
 ---
-title: Manufacturing Dashboards for Abu Dhabi Plant Managers with ERPNext
+title: Manufacturing Dashboards for Dubai Plant Managers with ERPNext
 layout: blogs.njk
 posted: 2024-08-25
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: See your factory at a glance. ERPNext manufacturing dashboards give Abu Dhabi plant managers real-time visibility into production, quality, and performance.
+intro: See your factory at a glance. ERPNext manufacturing dashboards give Dubai plant managers real-time visibility into production, quality, and performance.
 ---
 
 A plant manager's day is filled with questions: What's running? What's the status of that urgent order? Why is line 3 down? Are we going to make today's shipment?
@@ -99,11 +99,11 @@ Manage resources:
 - Skill deployment
 - Overtime trends
 
-## Abu Dhabi Manufacturing Context
+## Dubai Manufacturing Context
 
 ### Industrial Operations
 
-Abu Dhabi plants span sectors:
+Dubai plants span sectors:
 
 **Heavy Industry**
 - KIZAD manufacturing
@@ -125,7 +125,7 @@ Abu Dhabi plants span sectors:
 
 ### Management Requirements
 
-Abu Dhabi plant managers face:
+Dubai plant managers face:
 
 - Major customer expectations
 - Regulatory compliance
@@ -323,7 +323,7 @@ Monitor improvement efforts:
 
 ## The Visibility Advantage
 
-Abu Dhabi plant managers with good dashboards:
+Dubai plant managers with good dashboards:
 
 - Respond faster to issues
 - Make better decisions

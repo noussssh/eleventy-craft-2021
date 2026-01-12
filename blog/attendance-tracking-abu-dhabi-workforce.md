@@ -1,16 +1,16 @@
 ---
-title: Attendance Tracking for Abu Dhabi Workforce with ERPNext
+title: Attendance Tracking for Dubai Workforce with ERPNext
 layout: blogs.njk
 posted: 2024-10-15
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Every minute counts in business operations. ERPNext helps Abu Dhabi employers track attendance accurately, manage shifts, and ensure workforce compliance across multiple locations.
+intro: Every minute counts in business operations. ERPNext helps Dubai employers track attendance accurately, manage shifts, and ensure workforce compliance across multiple locations.
 ---
 
 The construction site in Mussafah has three shifts. The office in Al Maryah Island works standard hours. The retail store in Yas Mall has rotating schedules. HR needs one view of attendance across all locations.
 
-For Abu Dhabi businesses with diverse operations, attendance tracking is foundational to payroll accuracy, labor compliance, and workforce management.
+For Dubai businesses with diverse operations, attendance tracking is foundational to payroll accuracy, labor compliance, and workforce management.
 
 ## Why Attendance Matters
 
@@ -100,7 +100,7 @@ Track work patterns:
 - Overtime
 - Break violations
 
-## Abu Dhabi Workforce Contexts
+## Dubai Workforce Contexts
 
 ### Construction Sites
 
@@ -302,7 +302,7 @@ On-the-go management:
 
 ## The Productivity Connection
 
-Abu Dhabi businesses with effective attendance tracking:
+Dubai businesses with effective attendance tracking:
 
 - Pay accurately
 - Plan workforce effectively

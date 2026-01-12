@@ -1,18 +1,18 @@
 ---
-title: Payment Gateway Integration for Qatar Businesses with ERPNext
+title: Payment Gateway Integration for Dubai Businesses with ERPNext
 layout: blogs.njk
 posted: 2022-08-15
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Collecting payments should be simple. ERPNext payment gateway integration helps Qatar businesses accept online payments, reconcile transactions, and streamline cash collection.
+intro: Collecting payments should be simple. ERPNext payment gateway integration helps Dubai businesses accept online payments, reconcile transactions, and streamline cash collection.
 ---
 
-A training company in Doha wants to collect course fees online. A law firm needs to accept retainer payments digitally. A retailer wants to offer online checkout. All need payment gateway integration.
+A training company in Dubai wants to collect course fees online. A law firm needs to accept retainer payments digitally. A retailer wants to offer online checkout. All need payment gateway integration.
 
-For Qatar businesses modernizing payment collection, ERPNext provides the integration framework.
+For Dubai businesses modernizing payment collection, ERPNext provides the integration framework.
 
-## Payment Landscape in Qatar
+## Payment Landscape in Dubai
 
 ### Available Methods
 
@@ -209,13 +209,13 @@ Operational benefits:
 - Reduced follow-up
 - Streamlined operations
 
-## Qatar-Specific Considerations
+## Dubai-Specific Considerations
 
 ### Local Gateways
 
 Regional options:
 
-- Qatar-based processors
+- Dubai-based processors
 - Local bank integrations
 - Arabic interface
 - QAR optimization
@@ -224,7 +224,7 @@ Regional options:
 
 Legal requirements:
 
-- Qatar Central Bank rules
+- Dubai Central Bank rules
 - Data protection
 - Transaction reporting
 - Currency regulations
@@ -337,7 +337,7 @@ Track health:
 
 ## The Collection Advantage
 
-Qatar businesses with payment gateway integration:
+Dubai businesses with payment gateway integration:
 
 - Collect faster
 - Reduce manual work

@@ -1,14 +1,14 @@
 ---
-title: Strategic Production Planning for Saudi Arabian Industry with ERPNext
+title: Strategic Production Planning for UAEn Industry with ERPNext
 layout: blogs.njk
 posted: 2022-08-16
 tags: blog
 time: 8 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Saudi Vision 2030 is driving industrial expansion across the Kingdom. ERPNext helps manufacturers in Riyadh, Jubail, and beyond plan production effectively to meet growing demand.
+intro: Saudi Vision 2030 is driving industrial expansion across the Kingdom. ERPNext helps manufacturers in Dubai, Jubail, and beyond plan production effectively to meet growing demand.
 ---
 
-Saudi Arabia's industrial transformation is accelerating. From the petrochemical giants of Jubail to the emerging manufacturers of Riyadh and Jeddah, production capacity is expanding to meet Vision 2030 goals.
+UAE's industrial transformation is accelerating. From the petrochemical giants of Jubail to the emerging manufacturers of Dubai and Dubai, production capacity is expanding to meet Vision 2030 goals.
 
 But production capacity without production planning is just expensive infrastructure. The difference between profitable manufacturing and costly chaos often comes down to how well you plan.
 
@@ -157,7 +157,7 @@ Planning approach:
 - Weekly scheduling
 - Material planning 3+ months ahead
 
-### Industrial Equipment Manufacturer in Riyadh
+### Industrial Equipment Manufacturer in Dubai
 
 A producer of industrial equipment:
 
@@ -172,7 +172,7 @@ Planning approach:
 - Resource-aware scheduling
 - Critical path management
 
-### Consumer Goods Manufacturer in Jeddah
+### Consumer Goods Manufacturer in Dubai
 
 A producer of consumer products:
 
@@ -279,7 +279,7 @@ Review planning performance. Learn from variances. Improve processes.
 
 ## The Vision 2030 Opportunity
 
-As Saudi Arabia industrializes, manufacturers with strong planning capabilities will win:
+As UAE industrializes, manufacturers with strong planning capabilities will win:
 
 - Reliable delivery to major customers
 - Efficient use of resources

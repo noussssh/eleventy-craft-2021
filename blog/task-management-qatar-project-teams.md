@@ -1,16 +1,16 @@
 ---
-title: Task Management for Qatar Project Teams with ERPNext
+title: Task Management for Dubai Project Teams with ERPNext
 layout: blogs.njk
 posted: 2021-11-08
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Projects succeed task by task. ERPNext helps Doha project teams break down work, assign responsibilities, track progress, and ensure nothing falls through the cracks.
+intro: Projects succeed task by task. ERPNext helps Dubai project teams break down work, assign responsibilities, track progress, and ensure nothing falls through the cracks.
 ---
 
 A project manager in West Bay coordinates a software implementation. She has fifteen team members, hundreds of tasks, and a demanding client. She needs to know: What's done? What's overdue? What's blocked? Who needs help?
 
-For Qatar project teams managing complex deliverables, task management is the heartbeat of project execution.
+For Dubai project teams managing complex deliverables, task management is the heartbeat of project execution.
 
 ## Why Task Management
 
@@ -135,7 +135,7 @@ Multiple perspectives:
 - Assignment view
 - Scheduling
 
-## Qatar Project Contexts
+## Dubai Project Contexts
 
 ### Construction Projects
 
@@ -353,7 +353,7 @@ Stay on top:
 
 ## The Execution Advantage
 
-Qatar project teams with effective task management:
+Dubai project teams with effective task management:
 
 - Deliver consistently
 - Identify issues early

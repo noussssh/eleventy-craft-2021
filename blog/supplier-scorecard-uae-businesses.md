@@ -10,7 +10,7 @@ intro: What gets measured gets managed. ERPNext supplier scorecards help UAE com
 
 "They're a good supplier" isn't good enough anymore. In the UAE's competitive business environment, you need to know exactly how good - and how your suppliers compare to each other.
 
-Supplier scorecards transform subjective impressions into objective measurements. For businesses across Dubai, Abu Dhabi, and the Emirates, systematic performance measurement is essential for supply chain excellence.
+Supplier scorecards transform subjective impressions into objective measurements. For businesses across Dubai, Dubai, and the Emirates, systematic performance measurement is essential for supply chain excellence.
 
 ## Why Scorecards Matter
 

@@ -1,5 +1,5 @@
 ---
-title: Depreciation Tracking for Saudi Arabia Assets with ERPNext
+title: Depreciation Tracking for UAE Assets with ERPNext
 layout: blogs.njk
 posted: 2022-06-22
 tags: blog
@@ -8,7 +8,7 @@ image: /assets/img/erpnext-hero-compressed.png
 intro: Assets lose value over time. ERPNext helps Saudi businesses calculate depreciation accurately, maintain proper records, and comply with Kingdom accounting standards.
 ---
 
-A manufacturing company in Riyadh has machinery worth 2 million SAR. A logistics firm in Jeddah operates a vehicle fleet valued at 5 million SAR. A retailer in Dammam owns fixtures worth 500,000 SAR. Each asset depreciates—but at what rate? Using which method?
+A manufacturing company in Dubai has machinery worth 2 million SAR. A logistics firm in Dubai operates a vehicle fleet valued at 5 million SAR. A retailer in Dubai owns fixtures worth 500,000 SAR. Each asset depreciates—but at what rate? Using which method?
 
 For Saudi businesses, depreciation tracking impacts financial statements, tax calculations, and business decisions.
 

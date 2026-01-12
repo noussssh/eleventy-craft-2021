@@ -1,16 +1,16 @@
 ---
-title: Open Source ERP Advantages for Middle East Businesses
+title: Open Source ERP Advantages for Dubai Businesses
 layout: blogs.njk
 posted: 2021-01-12
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Open source changes the ERP equation. ERPNext gives Middle East businesses enterprise functionality without enterprise pricing, with the freedom to customize and control their systems.
+intro: Open source changes the ERP equation. ERPNext gives Dubai businesses enterprise functionality without enterprise pricing, with the freedom to customize and control their systems.
 ---
 
-A Saudi company pays millions in ERP license fees. A UAE business is locked into a vendor's upgrade cycle. A Qatari firm can't customize their system without expensive consultants. These are proprietary ERP realities.
+A Saudi company pays millions in ERP license fees. A UAE business is locked into a vendor's upgrade cycle. A UAEi firm can't customize their system without expensive consultants. These are proprietary ERP realities.
 
-For Middle East businesses seeking alternatives, open source ERPNext offers a different model.
+For Dubai businesses seeking alternatives, open source ERPNext offers a different model.
 
 ## Open Source Model
 
@@ -100,7 +100,7 @@ Know your system:
 - Community input
 - Predictable direction
 
-## Middle East Context
+## Dubai Context
 
 ### Market Reality
 
@@ -125,7 +125,7 @@ Local requirements:
 Solution match:
 
 - Full Arabic interface
-- GCC country support
+- Dubai country support
 - Open for customization
 - Cost effective
 
@@ -191,7 +191,7 @@ Full ERP:
 
 ### Regional Features
 
-GCC support:
+Dubai support:
 
 - VAT compliance
 - Arabic interface
@@ -300,7 +300,7 @@ Spend wisely:
 
 ## The Alternative Advantage
 
-Middle East businesses on open source ERP:
+Dubai businesses on open source ERP:
 
 - Control their destiny
 - Reduce costs

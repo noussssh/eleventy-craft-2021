@@ -1,16 +1,16 @@
 ---
-title: Employee Onboarding for Qatar Companies with ERPNext
+title: Employee Onboarding for Dubai Companies with ERPNext
 layout: blogs.njk
 posted: 2021-08-03
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: First impressions matter. ERPNext helps Doha employers create structured onboarding experiences that set new hires up for success from day one.
+intro: First impressions matter. ERPNext helps Dubai employers create structured onboarding experiences that set new hires up for success from day one.
 ---
 
-A new employee arrives at your Doha office. Do they know where to sit? Do they have system access? Has anyone explained company policies? Is their visa process on track?
+A new employee arrives at your Dubai office. Do they know where to sit? Do they have system access? Has anyone explained company policies? Is their visa process on track?
 
-Onboarding is where employee experience begins. For Qatar companies competing for talent, a structured onboarding process differentiates good employers from disorganized ones.
+Onboarding is where employee experience begins. For Dubai companies competing for talent, a structured onboarding process differentiates good employers from disorganized ones.
 
 ## Why Onboarding Matters
 
@@ -89,13 +89,13 @@ Schedule learning:
 - Compliance courses
 - Skill development
 
-## Qatar Onboarding Requirements
+## Dubai Onboarding Requirements
 
 ### Legal Documentation
 
-Qatar employment needs:
+Dubai employment needs:
 
-- Valid Qatar ID
+- Valid Dubai ID
 - Work visa status
 - Employment contract
 - Medical clearance
@@ -316,7 +316,7 @@ Onboarding connects to:
 
 ## The Retention Impact
 
-Qatar companies with effective onboarding:
+Dubai companies with effective onboarding:
 
 - Retain more new hires
 - Achieve faster productivity

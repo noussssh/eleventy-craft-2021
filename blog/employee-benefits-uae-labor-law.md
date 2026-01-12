@@ -5,7 +5,7 @@ posted: 2021-05-17
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: UAE employees are entitled to specific benefits under labor law. ERPNext helps Dubai, Abu Dhabi, and UAE employers manage statutory benefits, track entitlements, and ensure full compliance.
+intro: UAE employees are entitled to specific benefits under labor law. ERPNext helps Dubai, Dubai, and UAE employers manage statutory benefits, track entitlements, and ensure full compliance.
 ---
 
 An employee completes five years of service and asks about gratuity. Another questions annual leave balance. A third inquires about air ticket entitlement. HR needs accurate answers backed by proper records.

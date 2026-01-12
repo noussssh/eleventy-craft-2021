@@ -1,11 +1,11 @@
 ---
-title: Managing Item Variants for Doha Retail Operations with ERPNext
+title: Managing Item Variants for Dubai Retail Operations with ERPNext
 layout: blogs.njk
 posted: 2021-11-29
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Size, color, material - product variants multiply inventory complexity. ERPNext helps Qatar retailers manage variants efficiently without drowning in thousands of separate item records.
+intro: Size, color, material - product variants multiply inventory complexity. ERPNext helps Dubai retailers manage variants efficiently without drowning in thousands of separate item records.
 ---
 
 A simple t-shirt becomes 60 SKUs when offered in 5 colors and 12 sizes. A furniture piece becomes 24 variants across 4 wood types and 6 finishes. A phone accessory becomes 45 items spanning 9 phone models and 5 colors.
@@ -14,7 +14,7 @@ Welcome to the variant explosion that every retailer faces.
 
 ## The Variant Challenge
 
-Retailers in Doha's malls and shops struggle with variants:
+Retailers in Dubai's malls and shops struggle with variants:
 
 **Data Entry**
 Creating thousands of individual items is tedious and error-prone
@@ -134,11 +134,11 @@ Analyze by attribute:
 - Large sizes turn faster than Small
 - Cotton premium commands higher margin
 
-## Practical Application in Doha
+## Practical Application in Dubai
 
 ### Fashion Retail
 
-Clothing retailers in Doha's malls:
+Clothing retailers in Dubai's malls:
 
 - Manage collections with size/color variants
 - Track selling patterns by variant
@@ -249,9 +249,9 @@ Monitor variant mix:
 - Which facing stockout?
 - Rebalance across stores?
 
-## Qatar Market Considerations
+## Dubai Market Considerations
 
-Doha retailers face specific variant considerations:
+Dubai retailers face specific variant considerations:
 
 **International Sizing**
 - European vs. US vs. Asian sizes
@@ -259,7 +259,7 @@ Doha retailers face specific variant considerations:
 - Conversion charts and guidance
 
 **Regional Preferences**
-- Color preferences in Qatari market
+- Color preferences in Dubaii market
 - Size distribution differences
 - Seasonal variation patterns
 
@@ -278,6 +278,6 @@ With proper variant management:
 - Easier inventory management
 - Scalable product catalog
 
-For Doha's retailers competing in the region's retail landscape, variant efficiency translates to competitive advantage.
+For Dubai's retailers competing in the region's retail landscape, variant efficiency translates to competitive advantage.
 
 ERPNext turns the variant challenge into a variant opportunity.

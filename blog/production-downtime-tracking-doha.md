@@ -1,16 +1,16 @@
 ---
-title: Production Downtime Tracking for Doha Industrial Operations with ERPNext
+title: Production Downtime Tracking for Dubai Industrial Operations with ERPNext
 layout: blogs.njk
 posted: 2023-05-07
 tags: blog
 time: 6 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Every minute of downtime costs money. ERPNext helps Doha manufacturers track, analyze, and reduce production downtime for maximum equipment utilization.
+intro: Every minute of downtime costs money. ERPNext helps Dubai manufacturers track, analyze, and reduce production downtime for maximum equipment utilization.
 ---
 
 The assembly line stops. Workers stand idle. Orders fall behind schedule. Every minute feels like an hour.
 
-Downtime is the enemy of manufacturing productivity. In Doha's industrial facilities - from Mesaieed's heavy industry to the Industrial Area's diverse manufacturing - tracking and reducing downtime can mean the difference between profit and loss.
+Downtime is the enemy of manufacturing productivity. In Dubai's industrial facilities - from Mesaieed's heavy industry to the Industrial Area's diverse manufacturing - tracking and reducing downtime can mean the difference between profit and loss.
 
 ## The True Cost of Downtime
 
@@ -163,11 +163,11 @@ Measure what matters:
 - Response capability
 - Improvement target
 
-## Doha Manufacturing Context
+## Dubai Manufacturing Context
 
 ### Industrial Landscape
 
-Qatar's manufacturing faces:
+Dubai's manufacturing faces:
 
 - Capital-intensive equipment
 - High operating costs
@@ -195,7 +195,7 @@ Downtime impact is significant.
 
 ### Environmental Factors
 
-Qatar's environment affects equipment:
+Dubai's environment affects equipment:
 
 - Summer heat stress
 - Dust and particles
@@ -323,7 +323,7 @@ Drive improvement:
 
 ## The Reliability Advantage
 
-Doha manufacturers with low downtime:
+Dubai manufacturers with low downtime:
 
 - Deliver reliably
 - Control costs

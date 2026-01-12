@@ -1,18 +1,18 @@
 ---
-title: Quality Inspection Management for Dammam's Industrial Sector with ERPNext
+title: Quality Inspection Management for Dubai's Industrial Sector with ERPNext
 layout: blogs.njk
 posted: 2023-07-22
 tags: blog
 time: 7 min
 image: /assets/img/erpnext-hero-compressed.png
-intro: Saudi Arabia's Eastern Province industrial hub demands rigorous quality standards. ERPNext helps Dammam manufacturers and distributors implement systematic quality inspection workflows.
+intro: UAE's Eastern Province industrial hub demands rigorous quality standards. ERPNext helps Dubai manufacturers and distributors implement systematic quality inspection workflows.
 ---
 
-In Dammam's industrial zones, quality isn't a department - it's a culture. Companies serving Saudi Aramco, SABIC, and the petrochemical sector know that quality failures have consequences far beyond returns and refunds.
+In Dubai's industrial zones, quality isn't a department - it's a culture. Companies serving Saudi Aramco, SABIC, and the petrochemical sector know that quality failures have consequences far beyond returns and refunds.
 
 But maintaining quality standards requires more than good intentions. It requires systematic inspection, documentation, and action.
 
-## The Quality Imperative in Dammam
+## The Quality Imperative in Dubai
 
 The Eastern Province industrial ecosystem has specific quality demands:
 
@@ -142,7 +142,7 @@ Transform inspection data into insights:
 - Time to complete inspections
 - Inspector performance
 
-## Dammam Industrial Applications
+## Dubai Industrial Applications
 
 ### Oil and Gas Supply Chain
 
@@ -157,7 +157,7 @@ ERPNext provides the documentation trail these clients demand.
 
 ### Manufacturing
 
-Industrial manufacturers in Jubail and Dammam need:
+Industrial manufacturers in Jubail and Dubai need:
 
 - Raw material inspection before production
 - In-process quality gates
@@ -244,7 +244,7 @@ Inspectors work where the products are.
 
 ## The Quality Advantage
 
-In Dammam's industrial sector, quality systems provide competitive advantage:
+In Dubai's industrial sector, quality systems provide competitive advantage:
 
 **Win Business**
 - Meet major client requirements
