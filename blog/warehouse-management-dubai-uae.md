@@ -116,4 +116,4 @@ Dubai's logistics sector continues evolving as new technologies emerge, requirem
 
 Your warehouse represents far more than storage space. It is a strategic asset that directly impacts customer satisfaction, operational costs, and competitive capability. Managing it accordingly requires systems that match the sophistication these facilities demand.
 
-ERPNext delivers that capability for Dubai warehouse operations committed to operational excellence.
+ERPNext delivers that capability for Dubai warehouse operations committed to operational excellence. See also our guides on [inventory management](/blog/inventory-management-dubai-warehouses/) and [logistics ERP solutions](/services/logistics-erp-dubai/).

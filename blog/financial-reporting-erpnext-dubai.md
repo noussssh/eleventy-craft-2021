@@ -60,7 +60,7 @@ Profitability metrics track margins and performance indicators that reveal busin
 
 ## VAT Reporting Excellence
 
-Since VAT implementation in the UAE, accurate tax reporting has become critical for compliance and cash flow management. ERPNext generates all reports required for VAT compliance, including returns with proper transaction categorisation, input and output tax summaries that support filing, transaction-level detail that satisfies audit requirements, and export-ready formats that streamline the filing process.
+Since VAT implementation in the UAE, accurate tax reporting has become critical for compliance and cash flow management. Learn more about [VAT compliance in ERPNext](/blog/vat-compliance-erpnext-dubai/). ERPNext generates all reports required for VAT compliance, including returns with proper transaction categorisation, input and output tax summaries that support filing, transaction-level detail that satisfies audit requirements, and export-ready formats that streamline the filing process.
 
 This integrated approach means VAT reporting flows naturally from your transaction data rather than requiring separate tracking systems or manual compilation.
 
@@ -82,4 +82,4 @@ The business environment that Dubai has created attracts companies that value ef
 
 The question facing Dubai businesses is not whether they need better financial reporting. Stakeholder expectations, competitive pressures, and regulatory requirements make sophisticated reporting essential rather than optional. The genuine question is whether organisations can afford to delay implementing the capabilities that professional business management requires.
 
-Businesses throughout Dubai have answered that question by adopting ERPNext for their financial reporting needs. Their experience demonstrates that enterprise-grade reporting is accessible to organisations committed to operating with the visibility and professionalism that Dubai's business environment demands.
+Businesses throughout Dubai have answered that question by adopting ERPNext for their financial reporting needs. Their experience demonstrates that enterprise-grade reporting is accessible to organisations committed to operating with the visibility and professionalism that Dubai's business environment demands. Start with our guide to [chart of accounts setup](/blog/chart-of-accounts-setup-gulf-businesses/) for a strong foundation.

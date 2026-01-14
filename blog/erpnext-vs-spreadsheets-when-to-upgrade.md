@@ -60,7 +60,7 @@ The problems emerge gradually, then suddenly. One day you realize the spreadshee
 
 ## Warning Signs You've Outgrown Spreadsheets
 
-These indicators suggest spreadsheet limitations are affecting your business:
+These indicators suggest spreadsheet limitations are affecting your business. See also our detailed guide on [10 signs your Dubai business needs ERPNext](/blog/signs-your-dubai-business-needs-erpnext/):
 
 **Hours spent on data entry** copying information between spreadsheets or from emails into tracking sheets. This time produces no value—it just moves data from one place to another.
 
@@ -98,7 +98,7 @@ Every transaction records who did what and when. Changes are tracked. History is
 
 ### Real-time Visibility
 
-Dashboards show current status without compilation time. Reports run instantly against live data. Decisions can be based on current information, not last month's snapshot.
+Dashboards show current status without compilation time. Reports run instantly against live data. Learn more about [financial reporting in ERPNext](/blog/financial-reporting-erpnext-dubai/). Decisions can be based on current information, not last month's snapshot.
 
 ### Multi-user Collaboration
 
@@ -108,7 +108,7 @@ Everyone works in the same system simultaneously. No version conflicts, no locki
 
 Moving from spreadsheets to ERPNext doesn't require abandoning everything overnight. A practical approach:
 
-**Start with pain points.** If inventory management is the biggest problem, implement inventory first. If sales tracking is broken, start there. Quick wins build momentum.
+**Start with pain points.** If [inventory management](/blog/inventory-management-dubai-warehouses/) is the biggest problem, implement inventory first. If sales tracking is broken, start there. Quick wins build momentum.
 
 **Clean data before migration.** Spreadsheets accumulate garbage that shouldn't transfer to the new system. Use the transition as an opportunity to clean up customer lists, item masters, and other reference data.
 

@@ -38,7 +38,7 @@ Businesses operating in Dubai face specific requirements that should influence c
 
 UAE's VAT regime requires proper account setup to support compliance and reporting. Input VAT accounts track tax paid on purchases that may be recoverable. Output VAT accounts record tax collected from customers that must be remitted to authorities. VAT adjustment accounts handle corrections, reversals, and special situations. VAT settlement accounts reconcile obligations with payments to tax authorities.
 
-Proper setup from the start prevents the VAT reporting nightmares that businesses experience when their account structure does not support the detailed tracking that compliance requires.
+Proper setup from the start prevents the VAT reporting nightmares that businesses experience when their account structure does not support the detailed tracking that compliance requires. Learn more in our [VAT compliance guide](/blog/vat-compliance-erpnext-dubai/).
 
 ### Multi-Currency Considerations
 
@@ -108,4 +108,4 @@ Incorrect account type assignment breaks ERPNext features that depend on correct
 
 From trading companies managing inventory across multiple warehouses to professional services firms tracking project profitability, from manufacturing enterprises monitoring production costs to retail operations analysing sales by location, proper chart of accounts design supports the financial visibility that successful businesses require.
 
-ERPNext provides the flexibility to structure accounts for your specific needs while maintaining the consistency required for accurate reporting. Your chart of accounts is not merely an accounting technicality relegated to specialists. It is the foundation upon which your entire financial reporting capability rests. Building it correctly from the start positions your business for the clear financial visibility that enables confident decision-making.
+ERPNext provides the flexibility to structure accounts for your specific needs while maintaining the consistency required for accurate reporting. Your chart of accounts is not merely an accounting technicality relegated to specialists. It is the foundation upon which your entire [financial reporting capability](/blog/financial-reporting-erpnext-dubai/) rests. Building it correctly from the start positions your business for the clear financial visibility that enables confident decision-making.

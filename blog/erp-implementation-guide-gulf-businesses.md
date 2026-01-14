@@ -40,7 +40,7 @@ Support ensures sustainability after go-live. Post-go-live support addresses use
 
 Multi-location operations characterize many Dubai businesses with branches across the emirate and potentially across the UAE. Different regulatory requirements may apply in different contexts. Multiple currencies may be needed for different operations. The implementation must address these distributed operations while enabling consolidated reporting and management.
 
-Local compliance requirements affect system configuration significantly. VAT requirements mandate specific invoice formats and reporting. Labor law compliance affects HR and payroll functionality. WPS support for payroll may be required. Industry-specific regulations may impose additional requirements. The implementation must address these compliance needs from the start.
+Local compliance requirements affect system configuration significantly. [VAT requirements](/blog/vat-compliance-erpnext-dubai/) mandate specific invoice formats and reporting. Labor law compliance affects HR and payroll functionality. [WPS support for payroll](/blog/payroll-management-dubai-wps/) may be required. Industry-specific regulations may impose additional requirements. The implementation must address these compliance needs from the start.
 
 Cultural factors influence how implementations should be managed. Decision-making styles in the region may require specific stakeholder engagement approaches. Communication preferences affect how project status should be shared. Change management approaches should respect local business culture. Training delivery methods should accommodate regional learning preferences.
 
@@ -58,7 +58,7 @@ Phased approaches keep scope manageable. Prioritized modules focus initial effor
 
 Data quality establishes clean foundations for the new system. Data cleansing before migration prevents garbage-in-garbage-out problems. Validation rules catch errors during operation. Migration testing verifies data integrity. Ongoing governance maintains quality over time.
 
-Partner selection determines implementation support quality. ERPNext expertise ensures technical competence. Regional experience provides understanding of local business practices. Industry knowledge brings relevant best practices. Reliable commitment ensures support throughout the project and beyond.
+Partner selection determines implementation support quality. ERPNext expertise ensures technical competence. Regional experience provides understanding of local business practices. Industry knowledge brings relevant best practices. Reliable commitment ensures support throughout the project and beyond. Use our [implementation checklist](/blog/erpnext-implementation-checklist-uae/) to guide your project.
 
 ## Common Mistakes to Avoid
 

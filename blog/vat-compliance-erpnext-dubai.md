@@ -70,4 +70,4 @@ Competitive differentiation emerges when your operations run smoothly while othe
 
 The businesses that thrive as Dubai's regulatory environment continues maturing are those building proper infrastructure today. ERPNext provides the foundation for tax-compliant operations that scales with your ambitions and adapts to whatever requirements emerge.
 
-Tomorrow's successful Dubai businesses are distinguished by the systems they implement today.
+Tomorrow's successful Dubai businesses are distinguished by the systems they implement today. See also our guides on [financial reporting](/blog/financial-reporting-erpnext-dubai/) and [chart of accounts setup](/blog/chart-of-accounts-setup-gulf-businesses/).

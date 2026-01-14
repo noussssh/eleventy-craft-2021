@@ -18,7 +18,7 @@ SAP licensing structures are notoriously complex. SAP Business One, designed for
 
 ERPNext presents a fundamentally different economic model. As true open-source software, there are no licensing fees regardless of user count or modules deployed. A fifty-user ERPNext implementation might cost AED 50,000 to AED 100,000 for implementation services, with annual support around AED 20,000 to AED 30,000. The same scope in SAP Business One could easily cost three to four times more.
 
-Over a five-year period, the total cost of ownership difference becomes striking:
+Over a five-year period, the total cost of ownership difference becomes striking. Use our [ROI calculator](/blog/erpnext-roi-calculator-dubai-business/) to estimate savings for your specific situation:
 
 | Cost Element | ERPNext (50 users) | SAP Business One (50 users) |
 |--------------|-------------------|----------------------------|
@@ -71,7 +71,7 @@ For Dubai's growing industrial sector, this balance matters. Companies in Jebel 
 
 SAP has moved toward cloud, but its cloud strategy involves complexity around editions, licensing, and capabilities. SAP Business One Cloud exists but differs from on-premise versions. The transition paths can confuse companies trying to plan long-term technology direction.
 
-ERPNext works identically whether deployed on cloud infrastructure, on-premise servers, or hybrid configurations. The same codebase runs everywhere, with no feature restrictions based on deployment model. Companies can start on cloud, move to on-premise, or adopt hybrid approaches without re-implementation.
+ERPNext works identically whether deployed on cloud infrastructure, on-premise servers, or hybrid configurations. Learn more about [cloud ERP benefits for Dubai companies](/blog/cloud-erp-benefits-dubai-companies/). The same codebase runs everywhere, with no feature restrictions based on deployment model. Companies can start on cloud, move to on-premise, or adopt hybrid approaches without re-implementation.
 
 ## When SAP Still Makes Sense
 
@@ -99,7 +99,7 @@ The open-source model means investments in ERPNext become permanent assets. Cust
 
 ## Making the Transition
 
-Some Dubai companies currently using older SAP systems or evaluating ERP for the first time find ERPNext compelling. The question becomes practical: how to move forward?
+Some Dubai companies currently using older SAP systems or evaluating ERP for the first time find ERPNext compelling. The question becomes practical: how to move forward? Our [ERP implementation guide](/blog/erp-implementation-guide-gulf-businesses/) provides a structured approach.
 
 The first step is honest assessment of requirements. What does the business actually need from ERP software? Often companies find they use a fraction of SAP's capabilities while paying for the whole platform.
 

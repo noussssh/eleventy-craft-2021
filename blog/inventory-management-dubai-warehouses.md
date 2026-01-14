@@ -36,7 +36,7 @@ ERPNext delivers inventory management capabilities that match the demands of Dub
 
 Dubai operations typically span multiple facilities, and ERPNext manages inventory across all of them seamlessly. Your Jebel Ali Free Zone facility maintains separate stock records from your Al Quoz distribution centre. The DIP staging warehouse tracks its own inventory while remaining visible in consolidated views. Customer consignment locations and transit warehouses all integrate into a unified system.
 
-Each location maintains accurate, real-time stock levels that reflect the latest transactions. Transfers between locations track seamlessly, with both origin and destination updating simultaneously to maintain accuracy across your network.
+Each location maintains accurate, real-time stock levels that reflect the latest transactions. Transfers between locations track seamlessly, with both origin and destination updating simultaneously to maintain accuracy across your network. Learn more about our [warehouse management capabilities](/blog/warehouse-management-dubai-uae/).
 
 ### Bin and Shelf Level Precision
 
@@ -58,7 +58,7 @@ Stock entries handle all internal movements. Material receipts capture goods arr
 
 Delivery notes record goods leaving for customers, linking to sales orders that drive the shipment. Inventory updates on submission ensure stock reflects actual movements. Packing slips generate for shipping documentation. Integration with carrier systems can automate tracking information.
 
-Purchase receipts capture goods arriving from suppliers with the detail that proper inventory management requires. Quality inspection triggers automatically for items requiring verification. Landed costs can be added to reflect the true cost of imported goods. Batch and serial numbers assign as goods enter inventory. Automatic stock valuation ensures accurate costing.
+Purchase receipts capture goods arriving from suppliers with the detail that proper inventory management requires. Quality inspection triggers automatically for items requiring verification. Landed costs can be added to reflect the true cost of imported goods. See our [procurement software guide](/blog/procurement-software-dubai-enterprises/) for complete purchasing capabilities. Batch and serial numbers assign as goods enter inventory. Automatic stock valuation ensures accurate costing.
 
 ## Flexible Stock Valuation
 
@@ -122,6 +122,6 @@ In Dubai's competitive logistics market, inventory accuracy delivers strategic a
 
 Fewer stockouts mean happier customers who return rather than seeking alternative suppliers. Less overstock means better cash flow and reduced carrying costs. Faster picking means quicker fulfillment that meets customer expectations. Accurate data means confident decision-making that outperforms gut-feel approaches.
 
-Whether operating a mega-facility in Jebel Ali, a specialised warehouse in Al Quoz, or distribution centres throughout the UAE, ERPNext provides the inventory management capabilities that professional operations require.
+Whether operating a mega-facility in Jebel Ali, a specialised warehouse in Al Quoz, or distribution centres throughout the UAE, ERPNext provides the inventory management capabilities that professional operations require. Explore our [logistics ERP solutions](/services/logistics-erp-dubai/) for complete supply chain management.
 
 Your warehouse forms the operational heart of your distribution business. ERPNext ensures it beats with the precision that competitive success demands.

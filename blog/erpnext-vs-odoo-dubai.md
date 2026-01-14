@@ -49,13 +49,13 @@ Mobile accessibility differs as well. ERPNext provides mobile-responsive design 
 
 Dubai businesses face requirements that may not apply elsewhere. VAT compliance demands proper tax handling at 5%, with reports formatted for FTA submission. Multi-currency operations are standard for companies dealing with international suppliers and customers. Arabic language support matters for companies with diverse workforces or government interactions.
 
-ERPNext handles UAE VAT natively with proper configuration. The system generates VAT-compliant invoices, tracks tax liabilities, and produces reports suitable for filing. Multi-currency functionality works seamlessly, maintaining books in AED while transacting in any currency. Arabic localization is available and actively maintained.
+ERPNext handles [UAE VAT natively](/blog/vat-compliance-erpnext-dubai/) with proper configuration. The system generates VAT-compliant invoices, tracks tax liabilities, and produces reports suitable for filing. Multi-currency functionality works seamlessly, maintaining books in AED while transacting in any currency. Arabic localization is available and actively maintained.
 
 Odoo provides these capabilities as well, though some features require Enterprise licensing. The implementation complexity can be higher, and ensuring all UAE-specific requirements are met often requires careful verification of which edition includes necessary features.
 
 ## Manufacturing Capabilities
 
-For Dubai's growing manufacturing sector, production management capabilities matter significantly. ERPNext provides comprehensive manufacturing coverage including bill of materials management, work orders, job cards for operation tracking, quality inspection, and subcontracting workflows. The Material Requirement Planning module handles demand calculation and generates purchase and production recommendations.
+For Dubai's growing manufacturing sector, production management capabilities matter significantly. ERPNext provides comprehensive [manufacturing coverage](/services/manufacturing-erp-dubai/) including bill of materials management, work orders, job cards for operation tracking, quality inspection, and subcontracting workflows. The Material Requirement Planning module handles demand calculation and generates purchase and production recommendations.
 
 Odoo's manufacturing module is robust, particularly in Enterprise. However, some advanced features that ERPNext includes as standard may require Enterprise licensing in Odoo. Companies should carefully verify which manufacturing capabilities are available in which edition before making decisions.
 
@@ -94,6 +94,6 @@ The key is understanding what you're getting before making commitments. Request 
 
 ## Next Steps
 
-If you're evaluating ERP options for your Dubai business, we can help you understand how ERPNext would work for your specific situation. As an official ERPNext Gold Partner in the UAE, we've implemented solutions across manufacturing, trading, services, and retail sectors. Our team can provide demonstrations, answer technical questions, and develop proposals tailored to your requirements.
+If you're evaluating ERP options for your Dubai business, we can help you understand how ERPNext would work for your specific situation. Review our [implementation checklist](/blog/erpnext-implementation-checklist-uae/) to understand the process. As an official ERPNext Gold Partner in the UAE, we've implemented solutions across manufacturing, trading, services, and retail sectors. Our team can provide demonstrations, answer technical questions, and develop proposals tailored to your requirements.
 
 Contact us for a free consultation to discuss your ERP needs and see how ERPNext compares for your specific use case.

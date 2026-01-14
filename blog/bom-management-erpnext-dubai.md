@@ -70,6 +70,6 @@ BOMs connect throughout ERPNext to drive operational processes. Production plann
 
 ## The Foundation of Manufacturing Success
 
-For Dubai's growing industrial sector, accurate bills of materials enable every aspect of manufacturing excellence. Right materials reach the production floor in right quantities at right times. Product costing reflects true resource consumption. Production planning works from reliable data. Quality consistency follows from standardized processes.
+For Dubai's growing industrial sector, accurate bills of materials enable every aspect of manufacturing excellence. Right materials reach the production floor in right quantities at right times. Product costing reflects true resource consumption. Production planning works from reliable data. [Quality consistency](/blog/quality-control-erpnext-dubai-industry/) follows from standardized processes. See our complete [manufacturing ERP solutions](/services/manufacturing-erp-dubai/) for more capabilities.
 
 ERPNext provides the BOM management platform that makes this excellence achievable. Your engineering discipline in creating and maintaining accurate BOMs determines whether that potential becomes reality. Build the right foundation with accurate bills of materials, and manufacturing success follows naturally.

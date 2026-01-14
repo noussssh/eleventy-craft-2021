@@ -90,7 +90,7 @@ Absence reports track leave balances by employee and department, absence trends 
 
 ## Integration Benefits
 
-HR naturally integrates with other business functions in ERPNext. Payroll integration ensures accurate salary processing based on HR data. Finance integration posts gratuity provisions, tracks HR costs, and supports budget management. Project integration enables resource allocation, time tracking, and cost allocation for project-based work.
+HR naturally integrates with other business functions in ERPNext. [Payroll integration](/blog/payroll-management-dubai-wps/) ensures accurate salary processing based on HR data. Finance integration posts gratuity provisions, tracks HR costs, and supports budget management. Project integration enables resource allocation, time tracking, and cost allocation for project-based work.
 
 ## Best Practices for UAE HR Management
 
@@ -106,5 +106,5 @@ Continuous improvement keeps HR practice advancing. Feedback collection reveals 
 
 UAE companies with effective HR systems comply with regulations through systematic management rather than reactive firefighting. They manage workforce efficiently by automating routine processes and providing visibility into HR data. They attract and retain talent by offering professional employee experiences. They support business growth by scaling HR capabilities alongside organizational expansion.
 
-Those without systematic HR management risk penalties for compliance failures, suffer inefficiency from manual processes, and struggle to compete for talent in a demanding market. ERPNext provides HR infrastructure that enables professional people management. Your HR practices determine whether that infrastructure translates into the people success that business performance requires.
+Those without systematic HR management risk penalties for compliance failures, suffer inefficiency from manual processes, and struggle to compete for talent in a demanding market. ERPNext provides HR infrastructure that enables professional people management. See also our guide to [education ERP](/services/education-erp-dubai/) for schools and training institutions. Your HR practices determine whether that infrastructure translates into the people success that business performance requires.
 

@@ -91,7 +91,7 @@ Use this as a starting point and adapt it to your specific situation. Not every 
 
 ### System Design
 
-- [ ] Design chart of accounts for UAE requirements
+- [ ] Design [chart of accounts](/blog/chart-of-accounts-setup-gulf-businesses/) for UAE requirements
 - [ ] Plan organizational structure (company, cost centers)
 - [ ] Define item coding and categorization scheme
 - [ ] Design customer and supplier classification
@@ -148,7 +148,7 @@ Use this as a starting point and adapt it to your specific situation. Not every 
 
 - [ ] Configure company information and logo
 - [ ] Set up chart of accounts
-- [ ] Configure UAE VAT settings (5% rate)
+- [ ] Configure [UAE VAT settings](/blog/vat-compliance-erpnext-dubai/) (5% rate)
 - [ ] Set up currency and exchange rates
 - [ ] Configure fiscal year and accounting periods
 - [ ] Set up cost centers and profit centers
@@ -160,7 +160,7 @@ Use this as a starting point and adapt it to your specific situation. Not every 
 - [ ] Set up buying settings and defaults
 - [ ] Configure stock settings and valuation method
 - [ ] Set up manufacturing settings (if applicable)
-- [ ] Configure HR settings and WPS compliance
+- [ ] Configure HR settings and [WPS compliance](/blog/payroll-management-dubai-wps/)
 - [ ] Set up payroll components for UAE
 - [ ] Configure project settings (if applicable)
 

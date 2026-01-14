@@ -28,7 +28,7 @@ SAP licensing costs are substantial, but they're only the beginning. The true co
 
 **Infrastructure** requirements for SAP typically exceed those for lighter systems. Database licensing (often requiring expensive options like SQL Server or HANA), server specifications, and storage needs all add cost.
 
-A Dubai company spending AED 200,000 annually on SAP-related costs is not unusual. Many spend considerably more.
+A Dubai company spending AED 200,000 annually on SAP-related costs is not unusual. Many spend considerably more. Use our [ROI calculator](/blog/erpnext-roi-calculator-dubai-business/) to estimate your potential savings.
 
 **ERPNext comparison:** Open source licensing eliminates per-user fees entirely. Implementation costs run 20-40% of SAP equivalents. Annual operating costs typically fall 60-80% below SAP.
 
@@ -56,7 +56,7 @@ SAP was built for large enterprises. Its feature set reflects that heritage, whi
 
 **Missing mid-market features** ironically also appear. SAP's focus on enterprise needs sometimes leaves gaps in capabilities that matter more for smaller companies. CRM functionality, for example, often requires additional SAP products or third-party additions.
 
-**ERPNext reality:** Designed for the mid-market from the beginning, ERPNext includes comprehensive features without enterprise-scale complexity. Users learn the system faster and make fewer errors. The feature set matches what growing businesses actually need.
+**ERPNext reality:** Designed for the mid-market from the beginning, ERPNext includes comprehensive features without enterprise-scale complexity. See our [manufacturing ERP solutions](/services/manufacturing-erp-dubai/) and [retail trading ERP](/services/retail-trading-erp-dubai/) for industry-specific capabilities. Users learn the system faster and make fewer errors. The feature set matches what growing businesses actually need.
 
 ## What Switching Companies Report
 

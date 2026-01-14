@@ -24,13 +24,13 @@ This difference matters practically. In Tally, someone must enter the accounting
 
 Several indicators suggest a business needs more than accounting software:
 
-**Inventory becomes complex.** Tally handles basic stock, but businesses with multiple warehouses, batch tracking requirements, serial numbers, or complex valuation needs often struggle. The workarounds become cumbersome, and inventory accuracy suffers.
+**Inventory becomes complex.** Tally handles basic stock, but businesses with multiple warehouses, batch tracking requirements, serial numbers, or complex valuation needs often struggle. ERPNext provides [advanced inventory management](/blog/inventory-management-dubai-warehouses/) that handles these requirements natively. The workarounds become cumbersome, and inventory accuracy suffers.
 
 **Sales and purchasing disconnect from finance.** When sales creates quotes in spreadsheets, purchasing manages orders in email, and only the final invoices reach Tally, the business loses visibility into commitments and work in progress.
 
 **Reporting requires spreadsheet gymnastics.** When understanding business performance requires exporting Tally data, combining it with other sources, and building analysis in Excel, the reporting infrastructure has exceeded what accounting software can provide.
 
-**Manufacturing needs coordination.** Any business that produces goods faces challenges Tally was never designed to address: bills of materials, work orders, production planning, quality control, and job costing.
+**Manufacturing needs coordination.** Any business that produces goods faces challenges Tally was never designed to address: bills of materials, work orders, production planning, quality control, and job costing. See how [ERPNext supports manufacturing](/services/manufacturing-erp-dubai/) in Dubai.
 
 **Growth requires better systems.** Companies preparing for significant growth often recognize that their current systems won't scale. Manual processes that work for one warehouse fail with three. Informal coordination that works with ten employees breaks with fifty.
 
@@ -47,7 +47,7 @@ Several indicators suggest a business needs more than accounting software:
 | Sales Management | Basic | CRM + Pipeline |
 | Purchasing | Basic | RFQ to Payment |
 | Manufacturing | No | Full MRP |
-| HR & Payroll | No | WPS Ready |
+| HR & Payroll | No | [WPS Ready](/blog/payroll-management-dubai-wps/) |
 | Project Management | No | Full Support |
 | Asset Management | Basic | Full Lifecycle |
 | Custom Reports | Limited | Report Builder |
@@ -103,7 +103,7 @@ For these situations, Tally's simplicity is a feature rather than a limitation.
 ERPNext becomes compelling when:
 
 - Inventory complexity exceeds Tally's capabilities
-- Operations involve manufacturing or production
+- Operations involve manufacturing or production - see our [manufacturing ERP solutions](/services/manufacturing-erp-dubai/)
 - Business processes span multiple departments
 - Reporting requirements exceed what accounting software provides
 - Growth plans require scalable systems

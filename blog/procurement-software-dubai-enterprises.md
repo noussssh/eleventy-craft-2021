@@ -78,9 +78,9 @@ Trend analysis reveals patterns and supports forecasting. Spending trends show h
 
 ## Integration Across Business Functions
 
-Procurement connects naturally to related business functions in an integrated ERP environment. Inventory integration links procurement to stock management, enabling reorder automation, receipt processing, and availability visibility that supports customer commitments.
+Procurement connects naturally to related business functions in an integrated ERP environment. [Inventory integration](/blog/inventory-management-dubai-warehouses/) links procurement to stock management, enabling reorder automation, receipt processing, and availability visibility that supports customer commitments.
 
-Manufacturing integration connects procurement to production. MRP generates material requirements based on production plans. Production needs drive purchase timing and quantities. Synchronized planning ensures materials arrive when needed without excessive early delivery that ties up capital.
+[Manufacturing integration](/services/manufacturing-erp-dubai/) connects procurement to production. MRP generates material requirements based on production plans. Production needs drive purchase timing and quantities. Synchronized planning ensures materials arrive when needed without excessive early delivery that ties up capital.
 
 Finance integration links procurement to accounts payable, budget management, cash flow planning, and cost allocation. This connection ensures financial visibility and control across the procure-to-pay cycle.
 
