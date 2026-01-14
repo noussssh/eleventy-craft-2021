@@ -100,7 +100,24 @@
                             <li>
                               <a href="/services/ecommerce/" class="dropdown-item">Ecommerce</a>
                             </li>
-                      
+
+                          </ul>
+                        </div>
+                      </div>
+
+                      <!-- menu #4 - Industries -->
+                      <div class="item_colume">
+                        <span class="sub_title">Industries</span>
+                        <div class="sub_nav_menu">
+                          <ul class="nav_meun">
+                            {%- for post in collections.link03 -%}
+                            <li>
+                              <a href="{{ post.url}}" class="dropdown-item"> {{ post.data.title }} </a>
+                            </li>
+                            {%- endfor -%}
+                            <li>
+                              <a href="/services/faq/" class="dropdown-item">FAQ</a>
+                            </li>
                           </ul>
                         </div>
                       </div>
@@ -153,6 +170,10 @@
                       </div> #}
                     </div>
                   </div>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link{% if page.url == '/services/pricing/' %} active {% endif %}" href="/services/pricing/">Pricing</a>
                 </li>
 
                 <li class="nav-item">
