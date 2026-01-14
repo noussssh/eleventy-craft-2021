@@ -86,4 +86,4 @@ Dubai manufacturers with effective MRP deliver on time because they know what th
 
 Those without MRP struggle with shortages that stop production, excess inventory that consumes working capital, expediting costs that erode margins, and disappointed customers who take their business elsewhere.
 
-ERPNext provides MRP capability that has transformed manufacturing worldwide. Your planning discipline in maintaining accurate data and following systematic processes makes that capability effective. Plan systematically, execute confidently, and grow your manufacturing business on the foundation of solid material requirements planning.
+ERPNext provides MRP capability that has transformed manufacturing worldwide. Your planning discipline in maintaining accurate data and following systematic processes makes that capability effective. Plan systematically, execute confidently, and grow your manufacturing business on the foundation of solid material requirements planning. See also our guides on [production planning](/blog/production-planning-dubai-industry/) and [BOM management](/blog/bom-management-erpnext-dubai/).

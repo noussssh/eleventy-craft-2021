@@ -76,4 +76,4 @@ Continuous review adapts plans to changing conditions. Conduct regular plan revi
 
 Dubai manufacturers with effective production planning deliver reliably to customers because plans match capability. They use resources efficiently because plans optimize allocation. They operate profitably because planning enables cost control. They grow successfully because scalable planning processes handle increasing complexity.
 
-ERPNext provides the planning platform that makes this performance possible. Your execution discipline in using planning tools and maintaining data quality determines whether planning potential becomes reality. Plan well, execute well, and grow your manufacturing business in Dubai's dynamic market.
+ERPNext provides the planning platform that makes this performance possible. Your execution discipline in using planning tools and maintaining data quality determines whether planning potential becomes reality. Plan well, execute well, and grow your manufacturing business in Dubai's dynamic market. Explore our [manufacturing ERP solutions](/services/manufacturing-erp-dubai/) and [capacity planning capabilities](/blog/capacity-planning-dubai-factories/).

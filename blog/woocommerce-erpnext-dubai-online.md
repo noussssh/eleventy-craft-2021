@@ -88,5 +88,5 @@ UAE WooCommerce stores with ERPNext integration operate professionally with ente
 
 Those without integration hit growth limits as manual processes cannot scale, inventory errors frustrate customers, and administrative overhead consumes margin.
 
-ERPNext provides integration infrastructure that connects WooCommerce storefronts with comprehensive business management. Your implementation quality—how you configure, maintain, and optimize the integration—determines whether that infrastructure delivers the e-commerce success that online retail demands.
+ERPNext provides integration infrastructure that connects WooCommerce storefronts with comprehensive business management. Your implementation quality—how you configure, maintain, and optimize the integration—determines whether that infrastructure delivers the e-commerce success that online retail demands. See also our guides on [API integration](/blog/api-integration-erpnext-dubai-tech/) and [retail trading ERP](/services/retail-trading-erp-dubai/).
 

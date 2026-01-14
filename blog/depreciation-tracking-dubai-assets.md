@@ -88,4 +88,4 @@ Depreciation schedules show forward-looking views of expected expense by period.
 
 Dubai businesses that maintain accurate depreciation tracking achieve financial reporting accuracy that stakeholders can trust. Regulatory compliance flows naturally from systematic processes. Informed decision-making becomes possible when asset values reflect reality. Audit readiness reduces the stress and cost of external review.
 
-ERPNext provides the infrastructure for proper depreciation management. Your commitment to correct setup, consistent processing, and regular review determines whether that infrastructure translates into the accurate, compliant financial information that professional business management requires.
+ERPNext provides the infrastructure for proper depreciation management. Your commitment to correct setup, consistent processing, and regular review determines whether that infrastructure translates into the accurate, compliant financial information that professional business management requires. Learn more about [asset management](/blog/asset-management-erpnext-dubai-companies/) and [fixed assets register](/blog/fixed-assets-register-dubai-accounting/).

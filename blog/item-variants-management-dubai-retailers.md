@@ -280,4 +280,4 @@ With proper variant management:
 
 For Dubai's retailers competing in the region's retail landscape, variant efficiency translates to competitive advantage.
 
-ERPNext turns the variant challenge into a variant opportunity.
+ERPNext turns the variant challenge into a variant opportunity. Explore our [retail trading ERP solutions](/services/retail-trading-erp-dubai/) and [point of sale capabilities](/blog/point-of-sale-erpnext-dubai-retail/).

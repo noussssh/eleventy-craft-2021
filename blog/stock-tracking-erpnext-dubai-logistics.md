@@ -72,4 +72,4 @@ In Dubai's demanding logistics market, real-time stock tracking capabilities sep
 
 As Dubai continues developing its logistics capabilities and serving ever-expanding regional markets, companies need systems that can grow with their ambitions. ERPNext provides scalability for growth, flexibility for new requirements, integration capability for modern supply chains, and visibility that professional operations demand.
 
-Whether you operate a local distribution business or serve customers across the region, real-time stock tracking has become essential for competitive success. ERPNext delivers that capability for Dubai logistics operations committed to meeting the expectations of demanding markets.
+Whether you operate a local distribution business or serve customers across the region, real-time stock tracking has become essential for competitive success. ERPNext delivers that capability for Dubai logistics operations committed to meeting the expectations of demanding markets. Explore our [logistics ERP solutions](/services/logistics-erp-dubai/) and [warehouse management capabilities](/blog/warehouse-management-dubai-uae/).

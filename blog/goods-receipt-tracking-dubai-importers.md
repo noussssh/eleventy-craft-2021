@@ -337,4 +337,4 @@ Those without struggle with mysteries and disputes.
 
 ERPNext provides the goods receipt framework. Your receiving discipline ensures accuracy.
 
-Receive carefully. Record accurately. Manage inventory confidently.
+Receive carefully. Record accurately. Manage inventory confidently. Learn more about [landed cost calculation](/blog/landed-cost-calculation-dubai-importers/) and [inventory management](/blog/inventory-management-dubai-warehouses/).

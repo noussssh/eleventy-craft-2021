@@ -223,4 +223,4 @@ While this focuses on Dubai's import sector, the same principles apply across UA
 
 ERPNext provides the landed cost foundation for professional import operations throughout the Kingdom and across the GCC.
 
-Know your costs. Control your margins. Grow your business.
+Know your costs. Control your margins. Grow your business. See also our guides on [inventory management](/blog/inventory-management-dubai-warehouses/) and [procurement software](/blog/procurement-software-dubai-enterprises/).

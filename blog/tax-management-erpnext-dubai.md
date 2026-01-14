@@ -82,4 +82,4 @@ Forward-thinking businesses in Dubai recognise tax compliance as an element of p
 
 The UAE's tax environment has matured significantly since initial VAT introduction, and further evolution remains likely. Businesses operating with systems capable of adapting to regulatory changes position themselves advantageously compared to those relying on approaches that struggle with existing requirements.
 
-ERPNext provides the tax management foundation that Dubai businesses need for current compliance and future readiness.
+ERPNext provides the tax management foundation that Dubai businesses need for current compliance and future readiness. See also our detailed guide on [VAT compliance](/blog/vat-compliance-erpnext-dubai/) and [financial reporting](/blog/financial-reporting-erpnext-dubai/).

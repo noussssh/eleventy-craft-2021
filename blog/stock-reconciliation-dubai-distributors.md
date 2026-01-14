@@ -110,4 +110,4 @@ For Dubai's distribution companies, inventory accuracy represents operational ne
 
 ERPNext provides the reconciliation tools that support accuracy maintenance. Your discipline in using them consistently and thoroughly determines the results you achieve.
 
-Know your stock. Trust your numbers. Serve your customers with confidence.
+Know your stock. Trust your numbers. Serve your customers with confidence. See also our guides on [inventory management](/blog/inventory-management-dubai-warehouses/) and [stock tracking](/blog/stock-tracking-erpnext-dubai-logistics/).

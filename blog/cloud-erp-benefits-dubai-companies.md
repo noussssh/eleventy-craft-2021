@@ -94,5 +94,5 @@ Organizations clinging to on-premise infrastructure carry unnecessary burden—m
 
 ERPNext cloud provides enterprise capability through modern infrastructure that specialists manage professionally. Your adoption approach, partner selection, and organizational commitment determine whether that capability translates into the business benefits that motivated the investment.
 
-Move to cloud. Reduce your infrastructure burden. Focus your energy on business growth.
+Move to cloud. Reduce your infrastructure burden. Focus your energy on business growth. Explore our guides on [ERP implementation](/blog/erp-implementation-guide-gulf-businesses/) and learn [why businesses are switching to ERPNext](/blog/why-dubai-businesses-switching-sap-to-erpnext/).
 

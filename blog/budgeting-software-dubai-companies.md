@@ -74,4 +74,4 @@ As Dubai continues developing its position as a global business hub, companies o
 
 Whether you are a small enterprise establishing market presence, a mid-sized company expanding your service offerings, a manufacturing operation scaling production capacity, or a trading company building regional distribution networks, ERPNext provides budgeting capabilities that grow alongside your business without requiring platform replacement at each development stage.
 
-The businesses thriving in Dubai's dynamic economy share a common characteristic: clear financial visibility that enables confident decision-making. ERPNext puts that visibility within reach for organisations of any size or sector.
+The businesses thriving in Dubai's dynamic economy share a common characteristic: clear financial visibility that enables confident decision-making. ERPNext puts that visibility within reach for organisations of any size or sector. Learn more about [financial reporting](/blog/financial-reporting-erpnext-dubai/) and [cost center tracking](/blog/cost-center-tracking-dubai-enterprises/).

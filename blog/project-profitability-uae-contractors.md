@@ -100,5 +100,5 @@ UAE contractors with profitability visibility know their margins accurately beca
 
 Those without systematic profitability analysis discover losses too late to address them. They make pricing decisions based on incomplete information. They cannot explain why some projects succeed while others fail.
 
-ERPNext provides the profitability infrastructure that enables systematic margin management. Your tracking discipline—capturing everything, reviewing regularly, and acting on insights—determines whether that infrastructure delivers the business health that contractor survival demands.
+ERPNext provides the profitability infrastructure that enables systematic margin management. Your tracking discipline—capturing everything, reviewing regularly, and acting on insights—determines whether that infrastructure delivers the business health that contractor survival demands. Learn more about [project costing](/blog/project-costing-erpnext-dubai/) and [construction ERP solutions](/services/construction-erp-dubai/).
 

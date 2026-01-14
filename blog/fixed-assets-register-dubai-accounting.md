@@ -104,5 +104,5 @@ Dubai companies with proper fixed assets registers pass audits smoothly because 
 
 Those without well-maintained registers face audit findings that question financial statement accuracy and compliance issues that create regulatory exposure.
 
-ERPNext provides fixed assets register infrastructure that maintains complete, accurate records. Your maintenance discipline—recording completely, maintaining accurately, and verifying regularly—determines whether that infrastructure delivers the compliance and decision support that professional financial management requires.
+ERPNext provides fixed assets register infrastructure that maintains complete, accurate records. Your maintenance discipline—recording completely, maintaining accurately, and verifying regularly—determines whether that infrastructure delivers the compliance and decision support that professional financial management requires. Learn more about [asset management](/blog/asset-management-erpnext-dubai-companies/) and [financial reporting](/blog/financial-reporting-erpnext-dubai/).
 

@@ -187,4 +187,4 @@ Manual invoicing is a choice. An expensive choice that costs time, creates error
 
 For businesses across UAE's Eastern Province and beyond, ERPNext provides the invoicing automation that modern business demands.
 
-Your customers expect professional, accurate, timely invoices. ERPNext helps you deliver.
+Your customers expect professional, accurate, timely invoices. ERPNext helps you deliver. See also our guides on [accounts receivable management](/blog/accounts-receivable-management-dubai/) and [VAT compliance](/blog/vat-compliance-erpnext-dubai/).

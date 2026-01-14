@@ -90,4 +90,4 @@ The manual approaches that many businesses still employ for multi-currency accou
 
 Businesses throughout Dubai have recognised this reality and implemented ERPNext to handle their multi-currency requirements. Their finance teams now focus on analysis and decision support rather than currency conversion calculations.
 
-The question for businesses still managing currencies manually is straightforward: how much longer will you accept the burden of approaches that better alternatives have rendered obsolete?
+The question for businesses still managing currencies manually is straightforward: how much longer will you accept the burden of approaches that better alternatives have rendered obsolete? Explore our guides on [bank reconciliation](/blog/bank-reconciliation-erpnext-dubai-region/) and [financial reporting](/blog/financial-reporting-erpnext-dubai/).

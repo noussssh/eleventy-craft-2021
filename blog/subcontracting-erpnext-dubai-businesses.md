@@ -92,4 +92,4 @@ ERPNext data supports these analyses by providing the cost, quality, and operati
 
 Modern manufacturing extends beyond factory walls. Subcontractors are part of your production system even though they operate independently. With ERPNext, Dubai manufacturers can manage these extended operations professionally, maintain visibility over materials wherever they reside, control costs accurately across the extended network, and ensure quality consistently regardless of where operations occur.
 
-Your factory may have physical boundaries. Your production system does not have to be similarly constrained.
+Your factory may have physical boundaries. Your production system does not have to be similarly constrained. Learn more about [manufacturing ERP](/services/manufacturing-erp-dubai/) and [inventory management](/blog/inventory-management-dubai-warehouses/).

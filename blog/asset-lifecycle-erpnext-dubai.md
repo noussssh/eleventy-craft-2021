@@ -94,5 +94,5 @@ Dubai companies with effective lifecycle management optimize asset value by maki
 
 Those without systematic lifecycle management overspend through poor timing and uninformed decisions. They underutilize assets because they lack visibility into deployment and performance.
 
-ERPNext provides lifecycle management infrastructure that supports every stage from planning through disposal. Your attention to each stage—acquiring wisely, operating efficiently, and disposing appropriately—determines whether that infrastructure delivers the asset value optimization that capital-intensive businesses require.
+ERPNext provides lifecycle management infrastructure that supports every stage from planning through disposal. Your attention to each stage—acquiring wisely, operating efficiently, and disposing appropriately—determines whether that infrastructure delivers the asset value optimization that capital-intensive businesses require. Learn more about [asset management](/blog/asset-management-erpnext-dubai-companies/) and [asset maintenance](/blog/asset-maintenance-dubai-facilities/).
 

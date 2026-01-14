@@ -90,4 +90,4 @@ Understanding the timing difference between cash collection and revenue recognit
 
 Dubai businesses selling subscriptions, service contracts, or any advance-payment arrangements face a fundamental choice. Manual approaches that consume resources and create error risk compete against automated systems that handle complexity reliably.
 
-For businesses committed to professional financial management, ERPNext provides the infrastructure for proper deferred revenue handling without the administrative burden that manual approaches impose. The system handles the accounting complexity while your team focuses on delivering the services that create the revenue in the first place.
+For businesses committed to professional financial management, ERPNext provides the infrastructure for proper deferred revenue handling without the administrative burden that manual approaches impose. The system handles the accounting complexity while your team focuses on delivering the services that create the revenue in the first place. See also our guides on [financial statements](/blog/financial-statements-erpnext-dubai/) and [invoicing automation](/blog/invoicing-automation-dubai/).

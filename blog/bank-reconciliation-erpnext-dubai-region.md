@@ -94,4 +94,4 @@ As Dubai continues elevating its position as a global financial and commercial c
 
 Whether your business operates from the gleaming towers of DIFC, the industrial zones of Jebel Ali, the trading districts of Deira, or the emerging business communities throughout the emirate, ERPNext provides the reconciliation capabilities that professional financial management demands.
 
-Your bank balance reflects the reality of your cash position. Knowing with certainty that your internal records match that reality provides the confidence that enables better business decisions.
+Your bank balance reflects the reality of your cash position. Knowing with certainty that your internal records match that reality provides the confidence that enables better business decisions. See also our guides on [financial reporting](/blog/financial-reporting-erpnext-dubai/) and [chart of accounts setup](/blog/chart-of-accounts-setup-gulf-businesses/).

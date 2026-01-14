@@ -90,4 +90,4 @@ Proper bin management delivers measurable performance improvements that justify 
 
 For Dubai warehouses competing in regional logistics markets where speed, accuracy, and efficiency determine competitive success, bin management represents essential infrastructure rather than optional enhancement.
 
-ERPNext provides the system foundation for professional bin management. Your operational discipline in maintaining location accuracy and following established procedures builds upon that foundation to deliver the efficiency gains that sophisticated warehouse operations require.
+ERPNext provides the system foundation for professional bin management. Your operational discipline in maintaining location accuracy and following established procedures builds upon that foundation to deliver the efficiency gains that sophisticated warehouse operations require. Learn more about [warehouse management](/blog/warehouse-management-dubai-uae/) and [inventory management](/blog/inventory-management-dubai-warehouses/).

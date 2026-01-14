@@ -98,5 +98,5 @@ Dubai businesses with effective attendance tracking pay accurately because they 
 
 Those without systematic attendance management face payroll disputes when employees challenge compensation calculations. Coverage gaps emerge unexpectedly when no one tracks who is supposed to be where. Regulatory problems arise when documentation cannot demonstrate compliance during inspection.
 
-ERPNext provides attendance infrastructure that enables professional workforce management. Your tracking discipline determines whether that infrastructure delivers the visibility and control that operational excellence requires.
+ERPNext provides attendance infrastructure that enables professional workforce management. Your tracking discipline determines whether that infrastructure delivers the visibility and control that operational excellence requires. See also our guides on [leave management](/blog/leave-management-dubai-organizations/) and [payroll management](/blog/payroll-management-dubai-wps/).
 

@@ -98,5 +98,5 @@ Dubai project teams with effective task management deliver consistently because 
 
 Those without systematic task management face chaos as work proceeds without coordination, surprises when problems emerge too late, and failures when deliverables slip through the cracks.
 
-ERPNext provides the task management infrastructure that enables organized execution. Your team discipline—defining clearly, tracking diligently, and completing consistently—determines whether that infrastructure delivers the project success that competitive advantage requires.
+ERPNext provides the task management infrastructure that enables organized execution. Your team discipline—defining clearly, tracking diligently, and completing consistently—determines whether that infrastructure delivers the project success that competitive advantage requires. See also our guides on [project management](/blog/project-management-erpnext-dubai/) and [professional services ERP](/services/professional-services-erp-dubai/).
 

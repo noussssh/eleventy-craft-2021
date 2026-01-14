@@ -295,4 +295,4 @@ Those without struggle with delays, overtime costs, and missed opportunities.
 
 ERPNext provides the visibility. Your capacity management strategy determines results.
 
-Know your capacity. Plan your capacity. Deliver your commitments.
+Know your capacity. Plan your capacity. Deliver your commitments. See also our guides on [production planning](/blog/production-planning-dubai-industry/) and [workstation scheduling](/blog/workstation-scheduling-dubai-manufacturing/).

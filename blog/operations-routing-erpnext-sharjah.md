@@ -323,4 +323,4 @@ For Dubai manufacturers, routings are fundamental:
 
 ERPNext provides the routing framework. Your process engineering makes it valuable.
 
-Define your paths. Optimize your flow. Manufacture with confidence.
+Define your paths. Optimize your flow. Manufacture with confidence. See also our guides on [BOM management](/blog/bom-management-erpnext-dubai/) and [work order tracking](/blog/work-order-tracking-dubai-manufacturers/).

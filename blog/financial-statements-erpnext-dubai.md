@@ -84,4 +84,4 @@ In business, perception matters alongside substance. Companies with clean, profe
 
 ERPNext provides infrastructure for credibility that extends beyond mere number-keeping. The financial statements your system produces communicate not just your results but your management quality.
 
-Your numbers tell your story. ERPNext ensures they tell it professionally.
+Your numbers tell your story. ERPNext ensures they tell it professionally. Learn more about [financial reporting capabilities](/blog/financial-reporting-erpnext-dubai/) and [chart of accounts setup](/blog/chart-of-accounts-setup-gulf-businesses/).

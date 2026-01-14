@@ -90,4 +90,4 @@ As Dubai continues developing as a global business hub, companies operating here
 
 ERPNext delivers that foundation with capability that grows alongside your business. Add new companies, new currencies, new dimensions as your operations expand. Your general ledger scales to match.
 
-The businesses that thrive in Dubai's competitive environment build proper financial foundations today that support their ambitions tomorrow.
+The businesses that thrive in Dubai's competitive environment build proper financial foundations today that support their ambitions tomorrow. Explore our guides on [chart of accounts setup](/blog/chart-of-accounts-setup-gulf-businesses/) and [cost center tracking](/blog/cost-center-tracking-dubai-enterprises/).

@@ -92,4 +92,4 @@ Regular review uses the data that job card tracking creates. Daily production re
 
 Dubai manufacturers with strong job card practices know true production costs because accurate data reveals resource consumption. They identify efficiency opportunities because variance analysis highlights improvement areas. They maintain quality standards because integrated inspection catches problems. They make data-driven improvements because job cards provide the information that enables analysis.
 
-ERPNext provides the job card framework that makes this precision possible. Your shop floor discipline in using job cards consistently and accurately brings the framework to life and delivers the insights that drive manufacturing excellence.
+ERPNext provides the job card framework that makes this precision possible. Your shop floor discipline in using job cards consistently and accurately brings the framework to life and delivers the insights that drive manufacturing excellence. Learn more about [work order tracking](/blog/work-order-tracking-dubai-manufacturers/) and [manufacturing ERP](/services/manufacturing-erp-dubai/).

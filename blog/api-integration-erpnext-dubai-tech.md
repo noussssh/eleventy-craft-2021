@@ -94,5 +94,5 @@ Dubai technology companies with strong API integration operate efficiently becau
 
 Those without integration capability remain siloed, with manual processes bridging disconnected systems and data inconsistencies undermining decision-making.
 
-ERPNext provides comprehensive API infrastructure that enables sophisticated integration. Your architecture decisions—how you plan, build, and maintain integrations—determine whether that infrastructure delivers the connected enterprise that modern business demands.
+ERPNext provides comprehensive API infrastructure that enables sophisticated integration. Your architecture decisions—how you plan, build, and maintain integrations—determine whether that infrastructure delivers the connected enterprise that modern business demands. Learn more about [Shopify integration](/blog/shopify-erpnext-integration-dubai-ecommerce/) and [WooCommerce integration](/blog/woocommerce-erpnext-dubai-online/).
 

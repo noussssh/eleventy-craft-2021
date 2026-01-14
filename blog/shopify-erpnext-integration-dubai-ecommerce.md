@@ -102,5 +102,5 @@ Dubai e-commerce businesses with Shopify-ERPNext integration operate efficiently
 
 Those without integration face operational chaos as manual processes fall behind volume growth.
 
-ERPNext provides integration infrastructure that connects e-commerce with back-office operations. Your setup and maintenance discipline determines whether that infrastructure delivers the commerce success that competitive retail demands.
+ERPNext provides integration infrastructure that connects e-commerce with back-office operations. Your setup and maintenance discipline determines whether that infrastructure delivers the commerce success that competitive retail demands. Learn more about [API integration](/blog/api-integration-erpnext-dubai-tech/) and [retail trading ERP](/services/retail-trading-erp-dubai/).
 

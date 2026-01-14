@@ -100,5 +100,5 @@ Dubai companies with effective project costing know their margins accurately bec
 
 Those without systematic costing take on projects that lose money without realizing it until too late. They cannot explain variances or improve future estimates. They make pricing decisions based on hope rather than data.
 
-ERPNext provides the project costing infrastructure that enables accurate financial tracking. Your discipline in budgeting carefully, tracking completely, and reviewing regularly determines whether that infrastructure delivers the profitability knowledge that business success requires.
+ERPNext provides the project costing infrastructure that enables accurate financial tracking. Your discipline in budgeting carefully, tracking completely, and reviewing regularly determines whether that infrastructure delivers the profitability knowledge that business success requires. Learn more about [project management](/blog/project-management-erpnext-dubai/) and [construction ERP solutions](/services/construction-erp-dubai/).
 

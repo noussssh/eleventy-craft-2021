@@ -90,4 +90,4 @@ Trading companies throughout Dubai need valuation methods that support their bus
 
 ERPNext provides the flexibility to implement whichever method suits your situation. The choice itself requires understanding your business, your products, and your financial reporting needs.
 
-Your margins depend on accurate costing. Choose the valuation approach that delivers the accuracy your business requires.
+Your margins depend on accurate costing. Choose the valuation approach that delivers the accuracy your business requires. Learn more about [financial reporting](/blog/financial-reporting-erpnext-dubai/) and [inventory management](/blog/inventory-management-dubai-warehouses/).

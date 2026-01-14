@@ -100,5 +100,5 @@ Dubai facilities with effective maintenance operate reliably because proactive s
 
 Those without systematic maintenance face breakdowns that disrupt operations and surprises that strain budgets.
 
-ERPNext provides maintenance infrastructure that enables systematic scheduling and tracking. Your discipline in scheduling proactively, executing timely, and documenting completely determines whether that infrastructure delivers the asset reliability that operational excellence demands.
+ERPNext provides maintenance infrastructure that enables systematic scheduling and tracking. Your discipline in scheduling proactively, executing timely, and documenting completely determines whether that infrastructure delivers the asset reliability that operational excellence demands. Explore our guides on [asset lifecycle management](/blog/asset-lifecycle-erpnext-dubai/) and [asset management](/blog/asset-management-erpnext-dubai-companies/).
 

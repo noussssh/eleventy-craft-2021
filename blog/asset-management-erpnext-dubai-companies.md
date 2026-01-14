@@ -92,5 +92,5 @@ Dubai companies with effective asset management know what they own because syste
 
 Those without systematic asset management lose track of investments, overspend on maintenance that exceeds asset value, and make decisions based on incomplete information.
 
-ERPNext provides the asset management infrastructure that enables systematic tracking and optimization. Your discipline in registering completely, maintaining proactively, and tracking accurately determines whether that infrastructure delivers the investment protection that asset-intensive businesses require.
+ERPNext provides the asset management infrastructure that enables systematic tracking and optimization. Your discipline in registering completely, maintaining proactively, and tracking accurately determines whether that infrastructure delivers the investment protection that asset-intensive businesses require. See also our guides on [fixed assets register](/blog/fixed-assets-register-dubai-accounting/) and [depreciation tracking](/blog/depreciation-tracking-dubai-assets/).
 
