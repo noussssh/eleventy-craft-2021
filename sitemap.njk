@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in collections.all %}
-{%- if page.url and page.url !== "/robots.txt" and page.url !== "/sitemap.xml" %}
+{%- if page.url and page.url !== "/robots.txt" and page.url !== "/sitemap.xml" and "/html/" not in page.url and "/ahrefs" not in page.url and "/google" not in page.url and "/CLAUDE/" not in page.url %}
 <url>
   <loc>https://www.erpnextdubai.com{{ page.url }}</loc>
   <lastmod>{{ page.date | dateToISO }}</lastmod>
