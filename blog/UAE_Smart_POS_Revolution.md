@@ -1,5 +1,5 @@
 ---
-title: "Swipe, Click, Grow UAE’s Smart POS Revolution | Craft Interactive"
+title: "Smart POS Revolution Sweeping Across the UAE"
 layout: blogs.njk
 posted: 2025-09-18
 tags: blog
@@ -8,7 +8,7 @@ image: /assets/img/pos-blog.jpeg
 intro: "Discover how Point Of Sale software streamlines sales, manages inventory, and boosts efficiency for businesses across the UAE"
 ---
 
-# Swipe, Click, Grow: UAE’s Smart POS Revolution
+## Swipe, Click, Grow: UAE’s Smart POS Revolution
 
 Imagine walking into your favorite café. You order your coffee, and within seconds, the order is processed, the inventory updates, and the receipt prints. Sounds smooth, right? That’s the power of Point of Sale software. And it’s not just for cafés—it’s changing how businesses operate across the UAE.
 

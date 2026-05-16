@@ -1,5 +1,5 @@
 ---
-title: Accounts Receivable Excellence for Dubai Businesses with ERPNext
+title: "Accounts Receivable for Dubai SMEs (ERPNext)"
 layout: blogs.njk
 posted: 2023-09-05
 tags: blog

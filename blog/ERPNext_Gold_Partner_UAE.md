@@ -8,7 +8,7 @@ image: /assets/img/gold-partner.jpeg
 intro: We are proud to announce that **Craft Interactive** has officially been recognized as an **ERPNext Gold Partner**! This achievement is more than a title—it reflects our commitment to delivering world-class ERPNext implementation, consulting, and customization services.
 ---
 
-# Discover the First ERPNext Gold Partner, UAE
+## Discover the First ERPNext Gold Partner, UAE
 
 ## Craft Interactive Achieves ERPNext Gold Partner Status
 

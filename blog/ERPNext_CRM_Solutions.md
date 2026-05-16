@@ -8,7 +8,7 @@ image: /assets/img/crm-blog.jpeg
 intro:  ERPNext CRM helps businesses centralize customer data, automate sales and marketing processes, and enhance customer engagement to drive growth.
 ---
 
-# ERPNext CRM Solutions: Strengthening Customer Relationships and Driving Growth
+## ERPNext CRM Solutions: Strengthening Customer Relationships and Driving Growth
 
 In today’s competitive business environment, maintaining strong customer relationships is key to sustainable growth. Companies often struggle with fragmented systems—spreadsheets, email threads, and standalone CRM tools—that make it difficult to track leads, monitor interactions, and manage follow-ups efficiently.
 

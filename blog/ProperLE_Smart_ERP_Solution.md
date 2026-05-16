@@ -1,5 +1,5 @@
 ---
-title: ProperLE Smart ERP Solution for Property Management | ProperLE ERP | ERPNext
+title: "ProperLE: Smart Property Management ERP Solution"
 layout: blogs.njk
 posted: 2025-11-20
 tags: blog
@@ -8,7 +8,7 @@ image: /assets/img/property-blog.jpeg
 intro: "Property Management ERP Software | ProperLE ERP | Real Estate Management Software | Property Management System | ERP for Property Managers UAE"
 ---
 
-# ProperLE: Smart ERP Solution for Property Management
+## ProperLE: Smart ERP Solution for Property Management
 
 In today’s dynamic real estate market, choosing the right **Property Management ERP Software** is essential for streamlining operations, ensuring compliance, and enhancing tenant satisfaction. We offer tailored ERP solutions, including **ProperLE**, to meet the unique needs of property managers and real estate investors worldwide.
 
